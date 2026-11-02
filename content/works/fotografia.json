@@ -1,0 +1,156 @@
+[
+  {
+    "id": "adams-tetons",
+    "title": "The Tetons and the Snake River",
+    "artist": "Ansel Adams",
+    "date": "1942",
+    "source": {
+      "commons": "File:Adams The Tetons and the Snake River.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "adams-moonrise",
+    "title": "Moonrise, Hernandez",
+    "artist": "Ansel Adams",
+    "date": "1941",
+    "source": {
+      "commons": "File:Moonrise, Hernandez, New Mexico (cropped).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "adams-monolith",
+    "title": "Monolith, the Face of Half Dome",
+    "artist": "Ansel Adams",
+    "date": "1927",
+    "source": {
+      "commons": "File:Ansel-adams-monolith-the-face-of-half-dome.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "adams-tormenta",
+    "title": "Clearing Winter Storm, Yosemite",
+    "artist": "Ansel Adams",
+    "date": "1940",
+    "source": {
+      "commons": "File:Clearing Winter Storm, Yosemite Valley.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "lange-madre",
+    "title": "Madre migrante",
+    "artist": "Dorothea Lange",
+    "date": "1936",
+    "source": {
+      "commons": "File:Lange-MigrantMother02.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "ebbets-almuerzo",
+    "title": "Almuerzo en lo alto de un rascacielos",
+    "artist": "Charles Ebbets (atrib.)",
+    "date": "1932",
+    "source": {
+      "commons": "File:Lunch atop a Skyscraper.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "stieglitz-steerage",
+    "title": "The Steerage",
+    "artist": "Alfred Stieglitz",
+    "date": "1907",
+    "source": {
+      "commons": "File:Alfred Stieglitz - The Steerage - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "steichen-flatiron",
+    "title": "The Flatiron",
+    "artist": "Edward Steichen",
+    "date": "1904",
+    "source": {
+      "commons": "File:Steichen flatiron.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "steichen-pond",
+    "title": "The Pond, Moonlight",
+    "artist": "Edward Steichen",
+    "date": "1904",
+    "source": {
+      "commons": "File:Edward Steichen - Moonlight - The Pond - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "weston-pimiento",
+    "title": "Pimiento nº 30",
+    "artist": "Edward Weston",
+    "date": "1930",
+    "source": {
+      "commons": "File:Pepper No. 30, by Edward Weston.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "muybridge-caballo",
+    "title": "El caballo en movimiento",
+    "artist": "Eadweard Muybridge",
+    "date": "1878",
+    "source": {
+      "commons": "File:The Horse in Motion high res.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.02,
+      0.03,
+      0.02,
+      0.19
+    ]
+  },
+  {
+    "id": "hine-empire",
+    "title": "Trabajador del Empire State",
+    "artist": "Lewis Hine",
+    "date": "1930",
+    "source": {
+      "commons": "File:Icarus, Empire State Building MET DT1655.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "atget-genevieve",
+    "title": "Rue de la Montagne-Sainte-Geneviève",
+    "artist": "Eugène Atget",
+    "date": "1924",
+    "source": {
+      "commons": "File:Eugène Atget - Rue de la Montagne-Sainte-Geneviève - 1985.115 - Cleveland Museum of Art.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "evans-burroughs",
+    "title": "Allie Mae Burroughs",
+    "artist": "Walker Evans",
+    "date": "1936",
+    "source": {
+      "commons": "File:Allie Mae Burroughs print.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  }
+]

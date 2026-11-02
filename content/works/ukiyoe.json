@@ -1,0 +1,321 @@
+[
+  {
+    "id": "hokusai-ola",
+    "title": "La gran ola de Kanagawa",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:「富嶽三十六景 神奈川沖浪裏」-Under the Wave off Kanagawa (Kanagawa oki nami ura), or The Great Wave, from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141042.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-fujirojo",
+    "title": "Viento del sur, cielo despejado (Fuji rojo)",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:Katsushika Hokusai - Fine Wind, Clear Morning (Gaifū kaisei) - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-tormenta",
+    "title": "Tormenta bajo la cumbre",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:Rainstorm Beneath the Summit by Hokusai (Shimane Art Museum).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-kajikazawa",
+    "title": "Kajikazawa en la provincia de Kai",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 甲州石班沢-Kajikazawa in Kai Province (Kōshū Kajikazawa), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141085.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-ejiri",
+    "title": "Ejiri en la provincia de Suruga",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 駿州江尻-Ejiri in Suruga Province (Sunshū Ejiri), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP140977.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-mannen",
+    "title": "Bajo el puente Mannen en Fukagawa",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 深川万年橋下-Under the Mannen Bridge at Fukagawa (Fukagawa Mannenbashi shita), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141078.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-katakura",
+    "title": "El Fuji desde los campos de té de Katakura",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 駿州片倉茶園の不二-Fuji from the Katakura Tea Fields in Suruga (Sunshū Katakura chaen no Fuji), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141048.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-inume",
+    "title": "El paso de Inume",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 甲州犬目峠-The Inume Pass in Kai Province (Kōshū Inume tōge), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141045.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-kanaya",
+    "title": "El Fuji visto desde Kanaya",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 東海道金谷の不二-Fuji Seen from Kanaya on the Tōkaidō (Tōkaidō Kanaya no Fuji), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei MET DP141070.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-koishikawa",
+    "title": "Koishikawa, mañana después de la nevada",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:Koishikawa yuki no ashita LCCN2009615043.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-puente",
+    "title": "Puente colgante en la frontera de Hida y Etchū",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1834",
+    "source": {
+      "commons": "File:The Suspension Bridge on the Border of Hida and Etchū Provinces (Hietsu no sakai tsuribashi), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran) MET DP141245.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-shono",
+    "title": "Tōkaidō: Shōno, lluvia repentina",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:Ando Hiroshige - Driving Rain at Shono (Station 46) from the series Fifty-Three Stations of - 1948.306 - Cleveland Museum of Art.tif"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-kanbara",
+    "title": "Tōkaidō: Kanbara, nieve de noche",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:Evening Snow at Kambara LACMA M.49.5.1.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-hakone",
+    "title": "Tōkaidō: Hakone, el lago",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:Ando Hiroshige - Picture of the Lake at Hakone (from the series 53 Stations of the Tokaido) - 1940.982 - Cleveland Museum of Art.tif"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-mishima",
+    "title": "Tōkaidō: Mishima, niebla de la mañana",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:Mishima Asa-Giri-東海道五十三次之内 三島 朝霧-Morning Mist MET DP123235.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-nihonbashi",
+    "title": "Tōkaidō: Nihonbashi, salida de la mañana",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:東海道五十三次之内 日本橋 朝之景-Stations One- Morning View of Nihonbashi MET DP122174.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-kameyama",
+    "title": "Tōkaidō: Kameyama, cielo despejado tras la nieve",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:東海道五十三次之内 亀山 雪晴-Clear Weather after Snow MET DP123228.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-hara",
+    "title": "Tōkaidō: Hara, el Fuji por la mañana",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:東海道五十三次之内 原 朝の富士-Hara; Asa no Fuji MET DP122187.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-mariko",
+    "title": "Tōkaidō: Mariko, casa de té famosa",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:Hiroshige-53-Stations-Hoeido-21-Mariko-MFA-03.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-yokkaichi",
+    "title": "Tōkaidō: Yokkaichi, río Mie",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:東海道五十三次之内 四日市 三重川-Mie River at Yokkaichi MET DP123211.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-oi",
+    "title": "Kisokaidō: Oi (nieve)",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1835",
+    "source": {
+      "commons": "File:Hiroshige, Travellers on horseback in the snow.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-kameido",
+    "title": "El jardín de ciruelos de Kameido",
+    "artist": "Utagawa Hiroshige",
+    "date": "1857",
+    "source": {
+      "commons": "File:De pruimenboomgaard te Kameido-Rijksmuseum RP-P-1956-743.jpeg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "hiroshige-atake",
+    "title": "Aguacero sobre el puente Ōhashi en Atake",
+    "artist": "Utagawa Hiroshige",
+    "date": "1857",
+    "source": {
+      "commons": "File:Ōhashi Atake no yūdachi-名所江戸百景 大はしあたけの夕立-Sudden Shower over Shin-Ōhashi Bridge and Atake (Ōhashi Atake no yūdachi), from the series One Hundred Famous Views of Edo (Meisho Edo hyakkei) MET DP130156.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true,
+    "trim": [
+      0.07,
+      0.02,
+      0.07,
+      0.02
+    ]
+  },
+  {
+    "id": "kuniyoshi-takiyasha",
+    "title": "La bruja Takiyasha y el esqueleto espectro",
+    "artist": "Utagawa Kuniyoshi",
+    "date": "c. 1844",
+    "source": {
+      "commons": "File:Takiyasha the Witch and the Skeleton Spectre, by Utagawa Kuniyoshi.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "kuniyoshi-ballena",
+    "title": "Miyamoto Musashi matando a la ballena gigante",
+    "artist": "Utagawa Kuniyoshi",
+    "date": "1847",
+    "source": {
+      "commons": "File:Miyamoto-Musashi-Attacking-Giant-Whale-Utagawa-Kuniyoshi.png"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "kuniyoshi-gatos",
+    "title": "Gatos como las 53 estaciones del Tōkaidō",
+    "artist": "Utagawa Kuniyoshi",
+    "date": "1847",
+    "source": {
+      "commons": "File:Cats suggested as the fifty-three stations of the Tokaido.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "utamaro-caqui",
+    "title": "Recogiendo caquis",
+    "artist": "Kitagawa Utamaro",
+    "date": "c. 1803",
+    "source": {
+      "commons": "File:柿もぎ-Picking Persimmons ((Kaki mogi)) MET DP144588.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "utamaro-abulones",
+    "title": "Pescadoras de abulones",
+    "artist": "Kitagawa Utamaro",
+    "date": "c. 1797",
+    "source": {
+      "commons": "File:Utamaro (c. 1797–98) Awabi-tori.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-sumo",
+    "title": "Manga: luchadores de sumo",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1815",
+    "source": {
+      "commons": "File:Lutteurs de sûmo Hokusai Manga.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-umezawa",
+    "title": "El Fuji desde Umezawa",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 相州梅沢左-Umezawa Manor in Sagami Province (Sōshū Umezawa zai), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141076.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "sharaku-oniji",
+    "title": "El actor Ōtani Oniji III",
+    "artist": "Tōshūsai Sharaku",
+    "date": "1794",
+    "source": {
+      "commons": "File:三代目大谷鬼次の奴江戸兵衛-Kabuki Actor Ōtani Oniji III as Yakko Edobei in the Play The Colored Reins of a Loving Wife (Koi nyōbō somewake tazuna) MET DP130228.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  }
+]

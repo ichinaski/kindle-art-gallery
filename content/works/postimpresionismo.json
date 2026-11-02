@@ -1,0 +1,302 @@
+[
+  {
+    "id": "vangogh-noche",
+    "title": "La noche estrellada",
+    "artist": "Vincent van Gogh",
+    "date": "1889",
+    "source": {
+      "commons": "File:Van Gogh - Starry Night - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "vangogh-patatas",
+    "title": "Los comedores de patatas",
+    "artist": "Vincent van Gogh",
+    "date": "1885",
+    "source": {
+      "commons": "File:Vincent van Gogh - The potato eaters - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "vangogh-rodano",
+    "title": "Noche estrellada sobre el Ródano",
+    "artist": "Vincent van Gogh",
+    "date": "1888",
+    "source": {
+      "commons": "File:Vincent van Gogh - Starry Night - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "vangogh-cuervos",
+    "title": "Campo de trigo con cuervos",
+    "artist": "Vincent van Gogh",
+    "date": "1890",
+    "source": {
+      "commons": "File:Korenveld met kraaien - s0149V1962 - Van Gogh Museum.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "vangogh-terraza",
+    "title": "Terraza de café por la noche",
+    "artist": "Vincent van Gogh",
+    "date": "1888",
+    "source": {
+      "commons": "File:Van Gogh - Terrasse des Cafés an der Place du Forum in Arles am Abend1.jpeg"
+    },
+    "status": "rejected",
+    "masterpiece": true,
+    "note": "puntuación 49 (<50): vertical, pierde mucho en apaisado"
+  },
+  {
+    "id": "vangogh-crau",
+    "title": "La Crau vista desde Montmajour",
+    "artist": "Vincent van Gogh",
+    "date": "1888",
+    "source": {
+      "commons": "File:Van Gogh - Die Ebene \"La Crau\" bei Arles, von Montmajour aus gesehen.jpeg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "vangogh-autorretrato",
+    "title": "Autorretrato",
+    "artist": "Vincent van Gogh",
+    "date": "1889",
+    "source": {
+      "commons": "File:Vincent van Gogh - Self-Portrait - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "seurat-jatte",
+    "title": "Tarde de domingo en la isla de la Grande Jatte",
+    "artist": "Georges Seurat",
+    "date": "1886",
+    "source": {
+      "commons": "File:Georges Seurat - A Sunday on La Grande Jatte -- 1884 - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "seurat-asnieres",
+    "title": "Bañistas en Asnières",
+    "artist": "Georges Seurat",
+    "date": "1884",
+    "source": {
+      "commons": "File:Baigneurs a Asnieres.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "seurat-amanjean",
+    "title": "Aman-Jean",
+    "artist": "Georges Seurat",
+    "date": "1883",
+    "source": {
+      "commons": "File:Aman-Jean (Portrait of Edmond François Aman-Jean) MET DP158522.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.3
+    ]
+  },
+  {
+    "id": "cezanne-jugadores",
+    "title": "Los jugadores de cartas",
+    "artist": "Paul Cézanne",
+    "date": "c. 1895",
+    "source": {
+      "commons": "File:Les Joueurs de cartes, par Paul Cézanne.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "cezanne-victoire",
+    "title": "La montaña Sainte-Victoire",
+    "artist": "Paul Cézanne",
+    "date": "1904",
+    "source": {
+      "commons": "File:Paul Cézanne, Mont Sainte-Victoire.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "cezanne-banistas",
+    "title": "Las grandes bañistas",
+    "artist": "Paul Cézanne",
+    "date": "1906",
+    "source": {
+      "commons": "File:Paul Cézanne, French - The Large Bathers - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "cezanne-manzanas",
+    "title": "Bodegón con manzanas",
+    "artist": "Paul Cézanne",
+    "date": "c. 1895",
+    "source": {
+      "commons": "File:WLA moma Paul Czanne Still Life with Apples.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.15,
+      0.17,
+      0.135,
+      0.15
+    ]
+  },
+  {
+    "id": "gauguin-donde",
+    "title": "¿De dónde venimos? ¿Qué somos? ¿Adónde vamos?",
+    "artist": "Paul Gauguin",
+    "date": "1897",
+    "source": {
+      "commons": "File:Gauguin - Where Do We Come From? What Are We? Where Are We Going? (1897-98).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "gauguin-vision",
+    "title": "La visión después del sermón",
+    "artist": "Paul Gauguin",
+    "date": "1888",
+    "source": {
+      "commons": "File:La vision après le sermon (Paul Gauguin).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "gauguin-noanoa",
+    "title": "Noa Noa",
+    "artist": "Paul Gauguin",
+    "date": "1894",
+    "source": {
+      "commons": "File:Paul Gauguin - Noa Noa- Te Po (Eternal Night) - 1929.878.7 - Cleveland Museum of Art.tif"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "lautrec-moulinrouge",
+    "title": "En el Moulin Rouge",
+    "artist": "Henri de Toulouse-Lautrec",
+    "date": "1892",
+    "source": {
+      "commons": "File:Henri de Toulouse-Lautrec - At the Moulin Rouge - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "lautrec-goulue",
+    "title": "Moulin Rouge: La Goulue",
+    "artist": "Henri de Toulouse-Lautrec",
+    "date": "1891",
+    "source": {
+      "commons": "File:Moulin Rouge- La Goulue MET MM89605.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "lautrec-avril",
+    "title": "Jane Avril",
+    "artist": "Henri de Toulouse-Lautrec",
+    "date": "1893",
+    "source": {
+      "commons": "File:Jane Avril, Jardin, de Paris estampe, affiche (2e état), HTL 93 monogramme de Toulouse-Lautrec.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.2
+    ]
+  },
+  {
+    "id": "rousseau-gitana",
+    "title": "La gitana dormida",
+    "artist": "Henri Rousseau",
+    "date": "1897",
+    "source": {
+      "commons": "File:La Bohémienne endormie.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "rousseau-sorprendido",
+    "title": "¡Sorprendido!",
+    "artist": "Henri Rousseau",
+    "date": "1891",
+    "source": {
+      "commons": "File:Henri Rousseau - Surprise!.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "rousseau-sueno",
+    "title": "El sueño",
+    "artist": "Henri Rousseau",
+    "date": "1910",
+    "source": {
+      "commons": "File:Henri Rousseau - Le Rêve - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "vuillard-interior",
+    "title": "Interior, madre y hermana del artista",
+    "artist": "Édouard Vuillard",
+    "date": "1893",
+    "source": {
+      "commons": "File:Vuillard - Interior, Mother and Sister of the Artist 1893.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "vangogh-sembrador",
+    "title": "El sembrador",
+    "artist": "Vincent van Gogh",
+    "date": "1888",
+    "source": {
+      "commons": "File:Sower at Sunset - Vincent Van Gogh.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "cezanne-calaveras",
+    "title": "Pirámide de calaveras",
+    "artist": "Paul Cézanne",
+    "date": "c. 1901",
+    "source": {
+      "commons": "File:Pyramide de crânes, par Paul Cézanne, Yorck.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "vangogh-almendro",
+    "title": "Almendro en flor",
+    "artist": "Vincent van Gogh",
+    "date": "1890",
+    "source": {
+      "commons": "File:Amandelbloesem - s0176V1962 - Van Gogh Museum.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "bonnard-comedor",
+    "title": "El comedor en el campo",
+    "artist": "Pierre Bonnard",
+    "date": "1913",
+    "source": {
+      "commons": "File:The dining room in the country by Pierre Bonnard (1913).jpg"
+    },
+    "status": "approved"
+  }
+]

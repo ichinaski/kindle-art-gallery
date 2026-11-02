@@ -1,0 +1,195 @@
+[
+  {
+    "id": "dali-memoria",
+    "title": "La persistencia de la memoria",
+    "artist": "Salvador Dalí",
+    "date": "1931",
+    "source": {
+      "url": "https://uploads1.wikiart.org/00475/images/salvador-dali/w1siziisijm4njq3mcjdlfsiccisimnvbnzlcnqilcitcxvhbgl0esa5mcatcmvzaxplidiwmdb4mjawmfx1mdazzsjdxq.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dali-cisnes",
+    "title": "Cisnes que se reflejan como elefantes",
+    "artist": "Salvador Dalí",
+    "date": "1937",
+    "source": {
+      "url": "https://uploads6.wikiart.org/images/salvador-dali/cygnes-refletant-des-elephants.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dali-elefantes",
+    "title": "Los elefantes",
+    "artist": "Salvador Dalí",
+    "date": "1948",
+    "source": {
+      "url": "https://uploads4.wikiart.org/images/salvador-dali/the-elephants-large.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dali-judias",
+    "title": "Construcción blanda con judías hervidas",
+    "artist": "Salvador Dalí",
+    "date": "1936",
+    "source": {
+      "url": "https://uploads3.wikiart.org/images/salvador-dali/soft-construction-with-boiled-beans-premonition-of-civil-war(1).jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "dali-cristo",
+    "title": "Cristo de san Juan de la Cruz",
+    "artist": "Salvador Dalí",
+    "date": "1951",
+    "source": {
+      "url": "https://uploads8.wikiart.org/00475/images/salvador-dali/christ-of-saint-john-of-the-cross-1951.jpg"
+    },
+    "status": "rejected",
+    "masterpiece": true,
+    "note": "puntuación 32 (<50): vertical, pierde mucho en apaisado"
+  },
+  {
+    "id": "dali-abeja",
+    "title": "Sueño causado por el vuelo de una abeja",
+    "artist": "Salvador Dalí",
+    "date": "1944",
+    "source": {
+      "url": "https://uploads3.wikiart.org/00183/images/salvador-dali/624-1.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "magritte-imperio",
+    "title": "El imperio de las luces",
+    "artist": "René Magritte",
+    "date": "1954",
+    "source": {
+      "url": "https://uploads4.wikiart.org/images/rene-magritte/the-empire-of-lights-1954(1).jpg"
+    },
+    "status": "approved",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.6
+    ]
+  },
+  {
+    "id": "magritte-pipa",
+    "title": "La traición de las imágenes",
+    "artist": "René Magritte",
+    "date": "1929",
+    "source": {
+      "url": "https://uploads8.wikiart.org/images/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948(2).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "magritte-golconda",
+    "title": "Golconda",
+    "artist": "René Magritte",
+    "date": "1953",
+    "source": {
+      "url": "https://uploads1.wikiart.org/images/rene-magritte/gonconda-1953(1).jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.02,
+      0.02,
+      0.07,
+      0.02
+    ]
+  },
+  {
+    "id": "magritte-amantes",
+    "title": "Los amantes",
+    "artist": "René Magritte",
+    "date": "1928",
+    "source": {
+      "url": "https://uploads3.wikiart.org/images/rene-magritte/the-lovers-1928(1).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "magritte-hijo",
+    "title": "El hijo del hombre",
+    "artist": "René Magritte",
+    "date": "1964",
+    "source": {
+      "url": "https://uploads3.wikiart.org/images/rene-magritte/son-of-man-1964(1).jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "magritte-condicion",
+    "title": "La condición humana",
+    "artist": "René Magritte",
+    "date": "1933",
+    "source": {
+      "url": "https://uploads3.wikiart.org/images/rene-magritte/the-human-condition-1933(1).jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "ernst-celebes",
+    "title": "El elefante Célebes",
+    "artist": "Max Ernst",
+    "date": "1921",
+    "source": {
+      "url": "https://uploads6.wikiart.org/images/max-ernst/the-elephant-celebes-1921.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "ernst-ciudad",
+    "title": "La ciudad entera",
+    "artist": "Max Ernst",
+    "date": "1935",
+    "source": {
+      "url": "https://uploads1.wikiart.org/images/max-ernst/the-entire-city-1935.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "miro-arlequin",
+    "title": "El carnaval de Arlequín",
+    "artist": "Joan Miró",
+    "date": "1925",
+    "source": {
+      "url": "https://uploads6.wikiart.org/images/joan-miro/harlequin-s-carnival-1925.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "kahlo-fridas",
+    "title": "Las dos Fridas",
+    "artist": "Frida Kahlo",
+    "date": "1939",
+    "source": {
+      "url": "https://uploads5.wikiart.org/images/magdalena-carmen-frieda-kahlo-y-calderón-de-rivera/the-two-fridas-1939.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "id": "delvaux-venus",
+    "title": "Venus dormida",
+    "artist": "Paul Delvaux",
+    "date": "1944",
+    "source": {
+      "url": "https://uploads7.wikiart.org/images/paul-delvaux/the-sleeping-venus-1944.jpg"
+    },
+    "status": "approved"
+  }
+]

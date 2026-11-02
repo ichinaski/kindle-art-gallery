@@ -1,0 +1,287 @@
+[
+  {
+    "id": "bocklin-isla",
+    "title": "La isla de los muertos",
+    "artist": "Arnold Böcklin",
+    "date": "1880",
+    "source": {
+      "commons": "File:Arnold Böcklin - Die Toteninsel I (Basel, Kunstmuseum).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "klimt-beso",
+    "title": "El beso",
+    "artist": "Gustav Klimt",
+    "date": "1908",
+    "source": {
+      "commons": "File:The Kiss - Gustav Klimt - Google Cultural Institute.jpg"
+    },
+    "status": "rejected",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.25
+    ],
+    "note": "puntuación 37 (<50): vertical, pierde mucho en apaisado"
+  },
+  {
+    "id": "klimt-beethoven",
+    "title": "Friso de Beethoven",
+    "artist": "Gustav Klimt",
+    "date": "1902",
+    "source": {
+      "commons": "File:Klimt - Beethovenfries - Mittelwand.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "klimt-judith",
+    "title": "Judith I",
+    "artist": "Gustav Klimt",
+    "date": "1901",
+    "source": {
+      "commons": "File:Judith 1.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "millais-ofelia",
+    "title": "Ofelia",
+    "artist": "John Everett Millais",
+    "date": "1852",
+    "source": {
+      "commons": "File:John Everett Millais - Ophelia - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "waterhouse-shalott",
+    "title": "La dama de Shalott",
+    "artist": "John William Waterhouse",
+    "date": "1888",
+    "source": {
+      "commons": "File:John William Waterhouse - The Lady of Shalott - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "burnejones-escalera",
+    "title": "La escalera dorada",
+    "artist": "Edward Burne-Jones",
+    "date": "1880",
+    "source": {
+      "commons": "File:Edward coley burne-jones, the golden stairs, 1880.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true,
+    "trim": [
+      0.13,
+      0.075,
+      0.105,
+      0.085
+    ]
+  },
+  {
+    "id": "rossetti-beatrix",
+    "title": "Beata Beatrix",
+    "artist": "Dante Gabriel Rossetti",
+    "date": "c. 1870",
+    "source": {
+      "commons": "File:Dante Gabriel Rossetti - Beata Beatrix - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "masterpiece": true,
+    "note": "puntuación 32 (<50): vertical, pierde mucho en apaisado"
+  },
+  {
+    "id": "puvis-pescador",
+    "title": "El pobre pescador",
+    "artist": "Pierre Puvis de Chavannes",
+    "date": "1881",
+    "source": {
+      "commons": "File:Pierre Puvis de Chavannes - The Poor Fisherman - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "puvis-bosque",
+    "title": "El bosque sagrado",
+    "artist": "Pierre Puvis de Chavannes",
+    "date": "1884",
+    "source": {
+      "commons": "File:Pierre Puvis de Chavannes - The Sacred Grove, Beloved of the Arts and the Muses - 1922.445 - Art Institute of Chicago.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "moreau-aparicion",
+    "title": "La aparición",
+    "artist": "Gustave Moreau",
+    "date": "1876",
+    "source": {
+      "commons": "File:Gustave Moreau - The Apparition - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "redon-ojo",
+    "title": "El ojo, como un globo extraño, se dirige hacia el infinito",
+    "artist": "Odilon Redon",
+    "date": "1882",
+    "source": {
+      "commons": "File:Redon - The Eye, Like a Strange Balloon Moves Towards Infinity, plate one from To Edgar Poe, 1920.1570.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "khnopff-caricias",
+    "title": "Las caricias",
+    "artist": "Fernand Khnopff",
+    "date": "1896",
+    "source": {
+      "commons": "File:Fernand Khnopff - Caresses - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "crop": [
+      0.15,
+      0.5
+    ]
+  },
+  {
+    "id": "hodler-ginebra",
+    "title": "El lago de Ginebra desde Chexbres",
+    "artist": "Ferdinand Hodler",
+    "date": "1905",
+    "source": {
+      "commons": "File:Ferdinand Hodler - Der Genfersee von Chexbres aus.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hammershoi-piano",
+    "title": "Interior con mujer al piano",
+    "artist": "Vilhelm Hammershøi",
+    "date": "1901",
+    "source": {
+      "commons": "File:Vilhelm Hammershøi, Stue med kvinde ved klaver, Strandgade 30, 1901.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "hammershoi-polvo",
+    "title": "Rayos de sol (Polvo bailando)",
+    "artist": "Vilhelm Hammershøi",
+    "date": "1900",
+    "source": {
+      "commons": "File:Hammershøi Dust motes dancing.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "hammershoi-strandgade",
+    "title": "Interior, Strandgade 30",
+    "artist": "Vilhelm Hammershøi",
+    "date": "1901",
+    "source": {
+      "commons": "File:Vilhelm Hammershøi, Interiør fra Strandgade 30, 1900.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "whistler-cohete",
+    "title": "Nocturno en negro y oro: el cohete cayendo",
+    "artist": "James McNeill Whistler",
+    "date": "1875",
+    "source": {
+      "commons": "File:Whistler-Nocturne in black and gold.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "mucha-estaciones",
+    "title": "Las estaciones",
+    "artist": "Alfons Mucha",
+    "date": "1896",
+    "source": {
+      "commons": "File:Alfons Mucha - The Seasons, 1896.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "mucha-job",
+    "title": "Job",
+    "artist": "Alfons Mucha",
+    "date": "1896",
+    "source": {
+      "commons": "File:Alphonse Mucha - Job - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "beardsley-climax",
+    "title": "Salomé: el clímax",
+    "artist": "Aubrey Beardsley",
+    "date": "1893",
+    "source": {
+      "commons": "File:The Climax, RP-P-2018-3317.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "beardsley-pavo",
+    "title": "Salomé: la falda de pavo real",
+    "artist": "Aubrey Beardsley",
+    "date": "1893",
+    "source": {
+      "commons": "File:Aubrey Beardsley's Illustrations to Salome by Oscar Wilde MET DP863675.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "romero-fuensanta",
+    "title": "La Fuensanta",
+    "artist": "Julio Romero de Torres",
+    "date": "1929",
+    "source": {
+      "commons": "File:La Fuensanta, by Julio Romero de Torres.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "segantini-madres",
+    "title": "Las dos madres",
+    "artist": "Giovanni Segantini",
+    "date": "1889",
+    "source": {
+      "commons": "File:Segantini - The Two Mothers, 1884-1886, hwm0304.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "mucha-gismonda",
+    "title": "Gismonda",
+    "artist": "Alfons Mucha",
+    "date": "1894",
+    "source": {
+      "commons": "File:Alphonse Mucha - Poster for Victorien Sardou's Gismonda starring Sarah Bernhardt - Original.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.1
+    ]
+  }
+]

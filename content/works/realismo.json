@@ -1,0 +1,339 @@
+[
+  {
+    "id": "millet-espigadoras",
+    "title": "Las espigadoras",
+    "artist": "Jean-François Millet",
+    "date": "1857",
+    "source": {
+      "commons": "File:Jean-François Millet - Gleaners - Google Art Project 2.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "millet-angelus",
+    "title": "El Ángelus",
+    "artist": "Jean-François Millet",
+    "date": "1859",
+    "source": {
+      "commons": "File:Jean-François Millet - The Angelus - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "millet-sembrador",
+    "title": "El sembrador",
+    "artist": "Jean-François Millet",
+    "date": "1850",
+    "source": {
+      "commons": "File:Jean-François Millet - The Sower - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.1
+    ]
+  },
+  {
+    "id": "courbet-ornans",
+    "title": "Entierro en Ornans",
+    "artist": "Gustave Courbet",
+    "date": "1850",
+    "source": {
+      "commons": "File:Gustave Courbet - A Burial at Ornans - Google Art Project 2.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "courbet-picapedreros",
+    "title": "Los picapedreros",
+    "artist": "Gustave Courbet",
+    "date": "1849",
+    "source": {
+      "commons": "File:Gustave Courbet 018.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "courbet-desesperado",
+    "title": "El desesperado",
+    "artist": "Gustave Courbet",
+    "date": "c. 1845",
+    "source": {
+      "commons": "File:Gustave Courbet - Le Désespéré (1843).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "courbet-buenosdias",
+    "title": "¡Buenos días, señor Courbet!",
+    "artist": "Gustave Courbet",
+    "date": "1854",
+    "source": {
+      "commons": "File:Gustave Courbet - Bonjour Monsieur Courbet - Musée Fabre.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "courbet-ola",
+    "title": "La ola",
+    "artist": "Gustave Courbet",
+    "date": "1869",
+    "source": {
+      "commons": "File:Gustave Courbet - The Wave - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "courbet-taller",
+    "title": "El taller del pintor",
+    "artist": "Gustave Courbet",
+    "date": "1855",
+    "source": {
+      "commons": "File:Courbet LAtelier du peintre.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "daumier-vagon",
+    "title": "El vagón de tercera clase",
+    "artist": "Honoré Daumier",
+    "date": "c. 1864",
+    "source": {
+      "commons": "File:The Third-Class Carriage MET DT2142.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "daumier-transnonain",
+    "title": "Rue Transnonain, 15 de abril de 1834",
+    "artist": "Honoré Daumier",
+    "date": "1834",
+    "source": {
+      "commons": "File:Honoré Daumier, Rue Transnonain, le 15 avril 1834, 1834, NGA 6133.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.03,
+      0.03,
+      0.03,
+      0.075
+    ]
+  },
+  {
+    "id": "daumier-lavandera",
+    "title": "La lavandera",
+    "artist": "Honoré Daumier",
+    "date": "c. 1863",
+    "source": {
+      "commons": "File:Honoré Daumier - The Laundress - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "bonheur-feria",
+    "title": "La feria de caballos",
+    "artist": "Rosa Bonheur",
+    "date": "1853",
+    "source": {
+      "commons": "File:Rosa Bonheur, The Horse Fair, 1852–55.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "bonheur-arando",
+    "title": "Arando en el Nivernais",
+    "artist": "Rosa Bonheur",
+    "date": "1849",
+    "source": {
+      "commons": "File:Rosa Bonheur - Ploughing in Nevers - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "repin-sirgadores",
+    "title": "Los sirgadores del Volga",
+    "artist": "Iliá Repin",
+    "date": "1870",
+    "source": {
+      "commons": "File:Ilya Repin - Barge Haulers on the Volga - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "repin-cosacos",
+    "title": "Los cosacos zaporogos escriben al sultán",
+    "artist": "Iliá Repin",
+    "date": "1891",
+    "source": {
+      "commons": "File:Ilja Jefimowitsch Repin - Reply of the Zaporozhian Cossacks - Yorck.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "homer-corriente",
+    "title": "La corriente del Golfo",
+    "artist": "Winslow Homer",
+    "date": "1899",
+    "source": {
+      "commons": "File:Winslow Homer - The Gulf Stream - Metropolitan Museum of Art.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "homer-viento",
+    "title": "Viento fresco",
+    "artist": "Winslow Homer",
+    "date": "1876",
+    "source": {
+      "commons": "File:Winslow Homer - Breezing Up (A Fair Wind).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "eakins-schmitt",
+    "title": "Max Schmitt en un bote individual",
+    "artist": "Thomas Eakins",
+    "date": "1871",
+    "source": {
+      "commons": "File:Max Schmitt in a Single Scull.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "eakins-gross",
+    "title": "La clínica Gross",
+    "artist": "Thomas Eakins",
+    "date": "1875",
+    "source": {
+      "commons": "File:Thomas Eakins, American - Portrait of Dr. Samuel D. Gross (The Gross Clinic) - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "menzel-forja",
+    "title": "La forja",
+    "artist": "Adolph Menzel",
+    "date": "1875",
+    "source": {
+      "commons": "File:Adolph Menzel - Eisenwalzwerk - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "corot-mortefontaine",
+    "title": "Recuerdo de Mortefontaine",
+    "artist": "Camille Corot",
+    "date": "1864",
+    "source": {
+      "commons": "File:Souvenir de Mortefontaine - Jean-Baptiste Camille Corot - Musée du Louvre Peintures MI 692 bis.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "bastien-heno",
+    "title": "El heno",
+    "artist": "Jules Bastien-Lepage",
+    "date": "1877",
+    "source": {
+      "commons": "File:Jules Bastien-Lepage - Hay making - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "sorolla-pescado",
+    "title": "¡Aún dicen que el pescado es caro!",
+    "artist": "Joaquín Sorolla",
+    "date": "1894",
+    "source": {
+      "commons": "File:Joaquín Sorolla y Bastida - Aún dicen que el pescado es caro.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "casas-garrote",
+    "title": "Garrote vil",
+    "artist": "Ramon Casas",
+    "date": "1894",
+    "source": {
+      "commons": "File:Garrote vil, de Ramón Casas.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "breton-alondra",
+    "title": "El canto de la alondra",
+    "artist": "Jules Breton",
+    "date": "1884",
+    "source": {
+      "commons": "File:Jules Breton, le chant de l'alouette.1884.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.2
+    ]
+  },
+  {
+    "id": "repin-ivan",
+    "title": "Iván el Terrible y su hijo",
+    "artist": "Iliá Repin",
+    "date": "1885",
+    "source": {
+      "commons": "File:Répine Ivan le Terrible et son fils Ivan principale version 1883 - 1885.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "wood-gotico",
+    "title": "American Gothic",
+    "artist": "Grant Wood",
+    "date": "1930",
+    "source": {
+      "commons": "File:Grant Wood - American Gothic - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.3
+    ]
+  },
+  {
+    "id": "hopper-nighthawks",
+    "title": "Nighthawks",
+    "artist": "Edward Hopper",
+    "date": "1942",
+    "source": {
+      "url": "https://uploads2.wikiart.org/00129/images/edward-hopper/nighthawks.jpg"
+    },
+    "status": "approved",
+    "crop": [
+      0.7,
+      0.5
+    ]
+  },
+  {
+    "id": "hopper-domingo",
+    "title": "Early Sunday Morning",
+    "artist": "Edward Hopper",
+    "date": "1930",
+    "source": {
+      "url": "https://uploads5.wikiart.org/images/edward-hopper/early-sunday-morning.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "wyeth-christina",
+    "title": "El mundo de Christina",
+    "artist": "Andrew Wyeth",
+    "date": "1948",
+    "source": {
+      "url": "https://uploads1.wikiart.org/images/andrew-wyeth/christina-s-world.jpg"
+    },
+    "status": "approved"
+  }
+]

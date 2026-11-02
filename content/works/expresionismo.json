@@ -1,0 +1,279 @@
+[
+  {
+    "id": "munch-grito",
+    "title": "El grito",
+    "artist": "Edvard Munch",
+    "date": "1893",
+    "source": {
+      "commons": "File:Edvard Munch, 1893, The Scream, oil, tempera and pastel on cardboard, 91 x 73 cm, National Gallery of Norway.jpg"
+    },
+    "status": "rejected",
+    "masterpiece": true,
+    "note": "puntuación 36 (<50): vertical, pierde mucho en apaisado"
+  },
+  {
+    "id": "munch-gritolito",
+    "title": "El grito (litografía)",
+    "artist": "Edvard Munch",
+    "date": "1895",
+    "source": {
+      "commons": "File:The Scream MET DP860367.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "munch-melancolia",
+    "title": "Melancolía",
+    "artist": "Edvard Munch",
+    "date": "1894",
+    "source": {
+      "commons": "File:Edvard Munch - Melancholy (1894-96) KODE.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "munch-ansiedad",
+    "title": "Ansiedad",
+    "artist": "Edvard Munch",
+    "date": "1894",
+    "source": {
+      "commons": "File:Edvard Munch - Anxiety - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "masterpiece": true,
+    "note": "puntuación 47 (<50): vertical, pierde mucho en apaisado"
+  },
+  {
+    "id": "munch-danza",
+    "title": "La danza de la vida",
+    "artist": "Edvard Munch",
+    "date": "1900",
+    "source": {
+      "commons": "File:Edvard Munch - The Dance of Life - NG.M.00941 - National Museum of Art, Architecture and Design.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "munch-noche",
+    "title": "Noche estrellada",
+    "artist": "Edvard Munch",
+    "date": "1893",
+    "source": {
+      "commons": "File:Edvard Munch - Starry Night (1893 Getty).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "munch-vampiro",
+    "title": "Vampiro",
+    "artist": "Edvard Munch",
+    "date": "1895",
+    "source": {
+      "commons": "File:Edvard Munch - Vampire (1895) - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "munch-beso",
+    "title": "El beso",
+    "artist": "Edvard Munch",
+    "date": "1897",
+    "source": {
+      "commons": "File:The Kiss IV MET MM89271.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "kirchner-calle",
+    "title": "Calle, Berlín",
+    "artist": "Ernst Ludwig Kirchner",
+    "date": "1913",
+    "source": {
+      "commons": "File:Ernst Ludwig Kirchner, 1913, Street, Berlin, oil on canvas, 120.6 x 91.1 cm, MoMA.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.15
+    ]
+  },
+  {
+    "id": "kirchner-escena",
+    "title": "Escena callejera de Berlín",
+    "artist": "Ernst Ludwig Kirchner",
+    "date": "1913",
+    "source": {
+      "commons": "File:Kirchner Berlin Street Scene 1913.jpg"
+    },
+    "status": "rejected",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.15
+    ],
+    "note": "puntuación 48 (<50): vertical, pierde mucho en apaisado"
+  },
+  {
+    "id": "schiele-ciudad",
+    "title": "Ciudad muerta",
+    "artist": "Egon Schiele",
+    "date": "1911",
+    "source": {
+      "commons": "File:Egon Schiele - Dead City III (City on the Blue River III) - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "schiele-casas",
+    "title": "Casas junto al río",
+    "artist": "Egon Schiele",
+    "date": "1914",
+    "source": {
+      "commons": "File:Houses on the River (The Old Town) (1914).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "schiele-autorretrato",
+    "title": "Autorretrato con cabeza baja",
+    "artist": "Egon Schiele",
+    "date": "1912",
+    "source": {
+      "commons": "File:Egon Schiele - Self-Portrait with Lowered Head - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.1
+    ]
+  },
+  {
+    "id": "kollwitz-tejedores",
+    "title": "Una revuelta de tejedores: marcha de los tejedores",
+    "artist": "Käthe Kollwitz",
+    "date": "1897",
+    "source": {
+      "commons": "File:Käthe Kollwitz, Ein Weberaufstand - Weberzug, , KKS19696, Statens Museum for Kunst.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "kollwitz-nino",
+    "title": "Mujer con niño muerto",
+    "artist": "Käthe Kollwitz",
+    "date": "1903",
+    "source": {
+      "commons": "File:Käthe Kollwitz, Frau mit totem Kind, 1903, KKS2020-25, Statens Museum for Kunst.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "marc-destino",
+    "title": "El destino de los animales",
+    "artist": "Franz Marc",
+    "date": "1913",
+    "source": {
+      "commons": "File:Marc - Tierschicksale (Die Bäume zeigten ihre Ringe, die Tiere ihre Adern), 1913, Inv. 1739.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "marc-tigre",
+    "title": "El tigre",
+    "artist": "Franz Marc",
+    "date": "1912",
+    "source": {
+      "commons": "File:Marc, Franz - The Tiger - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.2
+    ],
+    "note": "puntuación 47 (<50): vertical, pierde mucho en apaisado"
+  },
+  {
+    "id": "modersohn-autorretrato",
+    "title": "Autorretrato en el sexto aniversario de boda",
+    "artist": "Paula Modersohn-Becker",
+    "date": "1906",
+    "source": {
+      "commons": "File:Paula Moderson-Becker - Selbstbildnis am 6 Hochzeitstag (1906).jpg"
+    },
+    "status": "rejected",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.0
+    ],
+    "note": "puntuación 47 (<50): vertical, pierde mucho en apaisado"
+  },
+  {
+    "id": "schiele-abrazo",
+    "title": "El abrazo",
+    "artist": "Egon Schiele",
+    "date": "1917",
+    "source": {
+      "commons": "File:Egon Schiele - Die Umarmung - 4438 - Österreichische Galerie Belvedere.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "kandinsky-jinete",
+    "title": "El jinete azul",
+    "artist": "Wassily Kandinsky",
+    "date": "1903",
+    "source": {
+      "commons": "File:Wassily Kandinsky, 1903, The Blue Rider (Der Blaue Reiter), oil on canvas, 52.1 x 54.6 cm, Stiftung Sammlung E.G. Bührle, Zurich.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "kandinsky-composicion",
+    "title": "Composición VIII",
+    "artist": "Wassily Kandinsky",
+    "date": "1923",
+    "source": {
+      "commons": "File:Kandinsky - Composition 8, July 1923.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "kokoschka-novia",
+    "title": "La novia del viento",
+    "artist": "Oskar Kokoschka",
+    "date": "1914",
+    "source": {
+      "url": "https://uploads0.wikiart.org/images/oskar-kokoschka/bride-of-the-wind-1914.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "ensor-cristo",
+    "title": "La entrada de Cristo en Bruselas",
+    "artist": "James Ensor",
+    "date": "1889",
+    "source": {
+      "commons": "File:Christ's Entry into Brussels in 1889.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "beckmann-noche",
+    "title": "La noche",
+    "artist": "Max Beckmann",
+    "date": "1919",
+    "source": {
+      "commons": "File:1918 Beckmann Nacht anagoria.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  }
+]

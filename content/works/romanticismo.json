@@ -1,0 +1,364 @@
+[
+  {
+    "id": "goya-mayo",
+    "title": "El 3 de mayo en Madrid",
+    "artist": "Francisco de Goya",
+    "date": "1814",
+    "source": {
+      "commons": "File:El Tres de Mayo, by Francisco de Goya, from Prado in Google Earth.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "goya-saturno",
+    "title": "Saturno devorando a su hijo",
+    "artist": "Francisco de Goya",
+    "date": "c. 1823",
+    "source": {
+      "commons": "File:Francisco de Goya, Saturno devorando a su hijo (1819-1823).jpg"
+    },
+    "status": "approved",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.12
+    ]
+  },
+  {
+    "id": "goya-garrotazos",
+    "title": "Duelo a garrotazos",
+    "artist": "Francisco de Goya",
+    "date": "c. 1823",
+    "source": {
+      "commons": "File:Francisco de Goya y Lucientes - Duelo a garrotazos.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "goya-aquelarre",
+    "title": "El aquelarre",
+    "artist": "Francisco de Goya",
+    "date": "c. 1823",
+    "source": {
+      "commons": "File:Witches' Sabbath by Goya.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "goya-perro",
+    "title": "El perro semihundido",
+    "artist": "Francisco de Goya",
+    "date": "c. 1823",
+    "source": {
+      "commons": "File:Goya Dog.jpg"
+    },
+    "status": "rejected",
+    "masterpiece": true,
+    "note": "puntuación 41 (<50): vertical, pierde mucho en apaisado"
+  },
+  {
+    "id": "goya-sueno",
+    "title": "El sueño de la razón produce monstruos",
+    "artist": "Francisco de Goya",
+    "date": "1799",
+    "source": {
+      "commons": "File:Francisco José de Goya y Lucientes - The sleep of reason produces monsters (No. 43), from Los Caprichos - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "goya-majadesnuda",
+    "title": "La maja desnuda",
+    "artist": "Francisco de Goya",
+    "date": "c. 1800",
+    "source": {
+      "commons": "File:Maja desnuda (museo del Prado).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "goya-carlosiv",
+    "title": "La familia de Carlos IV",
+    "artist": "Francisco de Goya",
+    "date": "1800",
+    "source": {
+      "commons": "File:La familia de Carlos IV, Francisco de Goya.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "goya-hazana",
+    "title": "Desastres de la guerra: ¡Grande hazaña! ¡Con muertos!",
+    "artist": "Francisco de Goya",
+    "date": "c. 1810",
+    "source": {
+      "commons": "File:Plate 39 from 'The Disasters of War' (Los Desastres de La Guerra)- 'An heroic feat! With dead men! '(Grande hazaña! Con muertos!) MET DP817382.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.235,
+      0.215,
+      0.255,
+      0.285
+    ]
+  },
+  {
+    "id": "goya-pepeillo",
+    "title": "Tauromaquia: la muerte de Pepe Illo",
+    "artist": "Francisco de Goya",
+    "date": "1816",
+    "source": {
+      "commons": "File:Francisco de Goya, La desgraciada muerte de Pepe Illo en la plaza de Madrid (The Unlucky Death of Pepe Illo in the Ring at Madrid), in or before 1816, NGA 4800.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "friedrich-caminante",
+    "title": "El caminante sobre el mar de nubes",
+    "artist": "Caspar David Friedrich",
+    "date": "c. 1818",
+    "source": {
+      "commons": "File:Caspar David Friedrich - Wanderer above the Sea of Fog.jpeg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "friedrich-monje",
+    "title": "El monje a la orilla del mar",
+    "artist": "Caspar David Friedrich",
+    "date": "c. 1810",
+    "source": {
+      "commons": "File:Caspar David Friedrich - Der Mönch am Meer - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "friedrich-hielo",
+    "title": "El mar de hielo",
+    "artist": "Caspar David Friedrich",
+    "date": "c. 1824",
+    "source": {
+      "commons": "File:Caspar David Friedrich – Das Eismeer.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "friedrich-abadia",
+    "title": "Abadía en el robledal",
+    "artist": "Caspar David Friedrich",
+    "date": "c. 1810",
+    "source": {
+      "commons": "File:Caspar David Friedrich - Abtei im Eichwald - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "friedrich-luna",
+    "title": "Dos hombres contemplando la luna",
+    "artist": "Caspar David Friedrich",
+    "date": "c. 1820",
+    "source": {
+      "commons": "File:Friedrich - Two Men Contemplating the Moon.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "friedrich-invierno",
+    "title": "Paisaje invernal con iglesia",
+    "artist": "Caspar David Friedrich",
+    "date": "1811",
+    "source": {
+      "commons": "File:Caspar David Friedrich - Winterlandschaft mit Kirche (Dortmund).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "turner-temerario",
+    "title": "El Temerario remolcado a su último atraque",
+    "artist": "J. M. W. Turner",
+    "date": "1839",
+    "source": {
+      "commons": "File:The Fighting Temeraire, JMW Turner, National Gallery.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "turner-lluvia",
+    "title": "Lluvia, vapor y velocidad",
+    "artist": "J. M. W. Turner",
+    "date": "1844",
+    "source": {
+      "commons": "File:Turner - Rain, Steam and Speed - National Gallery file.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "turner-anibal",
+    "title": "Tormenta de nieve: Aníbal cruzando los Alpes",
+    "artist": "J. M. W. Turner",
+    "date": "1812",
+    "source": {
+      "commons": "File:Turner, Snow Storm, 50508403226 b272cf84c3 o.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "constable-carro",
+    "title": "El carro de heno",
+    "artist": "John Constable",
+    "date": "1821",
+    "source": {
+      "commons": "File:John Constable - The Hay Wain (1821).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "gericault-medusa",
+    "title": "La balsa de la Medusa",
+    "artist": "Théodore Géricault",
+    "date": "1819",
+    "source": {
+      "commons": "File:JEAN LOUIS THÉODORE GÉRICAULT - La Balsa de la Medusa (Museo del Louvre, 1818-19).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "delacroix-libertad",
+    "title": "La libertad guiando al pueblo",
+    "artist": "Eugène Delacroix",
+    "date": "1830",
+    "source": {
+      "commons": "File:La Liberté guidant le peuple - Eugène Delacroix - Musée du Louvre Peintures RF 129 - après restauration 2024.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "delacroix-sardanapalo",
+    "title": "La muerte de Sardanápalo",
+    "artist": "Eugène Delacroix",
+    "date": "1827",
+    "source": {
+      "commons": "File:Mort de Sardanapale - Eugène Delacroix - Musée du Louvre Peintures RF 2346.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "delacroix-dante",
+    "title": "La barca de Dante",
+    "artist": "Eugène Delacroix",
+    "date": "1822",
+    "source": {
+      "commons": "File:Eugène Delacroix - The Barque of Dante.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "fussli-pesadilla",
+    "title": "La pesadilla",
+    "artist": "Johann Heinrich Füssli",
+    "date": "1781",
+    "source": {
+      "commons": "File:Johann Heinrich Füssli - The Nightmare 55.5.A-d1-2019-04-15.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "blake-newton",
+    "title": "Newton",
+    "artist": "William Blake",
+    "date": "1795",
+    "source": {
+      "commons": "File:Newton-WilliamBlake.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "cole-destruccion",
+    "title": "El curso del imperio: destrucción",
+    "artist": "Thomas Cole",
+    "date": "1836",
+    "source": {
+      "commons": "File:Cole Thomas The Course of Empire Destruction 1836.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "aivazovsky-ola",
+    "title": "La novena ola",
+    "artist": "Iván Aivazovski",
+    "date": "1850",
+    "source": {
+      "commons": "File:Hovhannes Aivazovsky - The Ninth Wave - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "martin-ira",
+    "title": "El gran día de su ira",
+    "artist": "John Martin",
+    "date": "1853",
+    "source": {
+      "commons": "File:John Martin - The Great Day of His Wrath - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dore-caronte",
+    "title": "Infierno: Caronte",
+    "artist": "Gustave Doré",
+    "date": "1857",
+    "source": {
+      "commons": "File:Gustave Doré - Dante Alighieri - Inferno - Plate 10 (Canto III - Charon herds the sinners onto his boat).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dore-londres",
+    "title": "Londres: Over London by Rail",
+    "artist": "Gustave Doré",
+    "date": "1872",
+    "source": {
+      "commons": "File:YCBA London a Pilgrimage 06.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.215,
+      0.145,
+      0.215,
+      0.285
+    ]
+  },
+  {
+    "id": "dore-diluvio",
+    "title": "La Biblia: el diluvio",
+    "artist": "Gustave Doré",
+    "date": "1866",
+    "source": {
+      "commons": "File:Gustave Doré - The Holy Bible - Plate I, The Deluge.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "delacroix-argel",
+    "title": "Mujeres de Argel",
+    "artist": "Eugène Delacroix",
+    "date": "1834",
+    "source": {
+      "commons": "File:Femmes d'Alger dans leur appartement, Eugène Delacroix - Musée du Louvre Peintures INV 3824.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "goya-majavestida",
+    "title": "La maja vestida",
+    "artist": "Francisco de Goya",
+    "date": "c. 1805",
+    "source": {
+      "commons": "File:Maja vestida (Prado).jpg"
+    },
+    "status": "approved"
+  }
+]

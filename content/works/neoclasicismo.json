@@ -1,0 +1,248 @@
+[
+  {
+    "id": "david-marat",
+    "title": "La muerte de Marat",
+    "artist": "Jacques-Louis David",
+    "date": "1793",
+    "source": {
+      "commons": "File:Jacques-Louis David - Marat assassinated - Google Art Project 2.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.8
+    ]
+  },
+  {
+    "id": "david-horacios",
+    "title": "El juramento de los Horacios",
+    "artist": "Jacques-Louis David",
+    "date": "1784",
+    "source": {
+      "commons": "File:Jacques-Louis David - Oath of the Horatii - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "david-socrates",
+    "title": "La muerte de Sócrates",
+    "artist": "Jacques-Louis David",
+    "date": "1787",
+    "source": {
+      "commons": "File:The Death of Socrates MET DT40.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "david-coronacion",
+    "title": "La coronación de Napoleón",
+    "artist": "Jacques-Louis David",
+    "date": "1807",
+    "source": {
+      "commons": "File:Jacques-Louis David - The Coronation of Napoleon (1805-1807).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "david-sabinas",
+    "title": "Las sabinas",
+    "artist": "Jacques-Louis David",
+    "date": "1799",
+    "source": {
+      "commons": "File:The Intervention of the Sabine Women - David (Louvre INV 3691).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "david-recamier",
+    "title": "Retrato de Madame Récamier",
+    "artist": "Jacques-Louis David",
+    "date": "1800",
+    "source": {
+      "commons": "File:Madame Récamier, née Julie (dite Juliette) Bernard - Jacques-Louis David - Musée duLouvre Peintures INV 3708.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "david-napoleon",
+    "title": "Napoleón cruzando los Alpes",
+    "artist": "Jacques-Louis David",
+    "date": "1801",
+    "source": {
+      "commons": "File:Napoleon at the Great St. Bernard - Jacques-Louis David - Google Cultural Institute.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "ingres-odalisca",
+    "title": "La gran odalisca",
+    "artist": "Jean-Auguste-Dominique Ingres",
+    "date": "1814",
+    "source": {
+      "commons": "File:La Grande Odalisque - Jean-Auguste-Dominique Ingres - Musée du Louvre Peintures RF 1158.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "ingres-edipo",
+    "title": "Edipo y la esfinge",
+    "artist": "Jean-Auguste-Dominique Ingres",
+    "date": "1808",
+    "source": {
+      "commons": "File:Oedipus and Sphinx (Ingres).jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "ingres-bertin",
+    "title": "Retrato de Louis-François Bertin",
+    "artist": "Jean-Auguste-Dominique Ingres",
+    "date": "1832",
+    "source": {
+      "commons": "File:0 Louis-François Bertin - Jean-Baptiste Ingres - RF 1071 - Louvre.JPG"
+    },
+    "status": "approved",
+    "masterpiece": true,
+    "trim": [
+      0.06,
+      0.05,
+      0.06,
+      0.04
+    ]
+  },
+  {
+    "id": "ingres-banista",
+    "title": "La bañista de Valpinçon",
+    "artist": "Jean-Auguste-Dominique Ingres",
+    "date": "1808",
+    "source": {
+      "commons": "File:Jean-Auguste-Dominique Ingres - La Baigneuse Valpinçon.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.15
+    ]
+  },
+  {
+    "id": "wright-bomba",
+    "title": "Experimento con un pájaro en una bomba de aire",
+    "artist": "Joseph Wright of Derby",
+    "date": "1768",
+    "source": {
+      "commons": "File:An Experiment on a Bird in an Air Pump by Joseph Wright of Derby, 1768.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "wright-planetario",
+    "title": "Un filósofo da una lección sobre el planetario",
+    "artist": "Joseph Wright of Derby",
+    "date": "c. 1766",
+    "source": {
+      "commons": "File:Wright of Derby, The Orrery.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "west-wolfe",
+    "title": "La muerte del general Wolfe",
+    "artist": "Benjamin West",
+    "date": "1770",
+    "source": {
+      "commons": "File:Benjamin West, The Death of General Wolfe (1776).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "kauffman-cornelia",
+    "title": "Cornelia, madre de los Gracos",
+    "artist": "Angelica Kauffman",
+    "date": "c. 1785",
+    "source": {
+      "commons": "File:Angelica kauffman ra cornelia mother of the gracchi060808).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "mengs-parnaso",
+    "title": "El Parnaso",
+    "artist": "Anton Raphael Mengs",
+    "date": "1761",
+    "source": {
+      "commons": "File:Parnassus, by Anton Raphael Mengs.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "girodet-endimion",
+    "title": "El sueño de Endimión",
+    "artist": "Anne-Louis Girodet",
+    "date": "1791",
+    "source": {
+      "commons": "File:The Sleep of Endymion - Girodet (Louvre INV 4935).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "gros-jaffa",
+    "title": "Napoleón visita a los apestados de Jaffa",
+    "artist": "Antoine-Jean Gros",
+    "date": "1804",
+    "source": {
+      "commons": "File:Antoine-Jean Gros - Bonaparte Visiting the Plague Victims of Jaffa.jpeg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "piranesi-panteon",
+    "title": "Vista del Panteón",
+    "artist": "Giovanni Battista Piranesi",
+    "date": "c. 1761",
+    "source": {
+      "commons": "File:Pantheon te Rome Veduta del Pantheon d'Agrippa oggi Chiesa di S. Maria ad Martyres (titel op object) Gezichten op Rome (serietitel) Vedute di Roma disegnate ed incise da Giambattista Piranesi architetto Ve(nez)iano (s, RP-P-OB-39.355.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "piranesi-coliseo",
+    "title": "Vista del Coliseo",
+    "artist": "Giovanni Battista Piranesi",
+    "date": "c. 1776",
+    "source": {
+      "commons": "File:Colosseum te Rome Veduta dell'Anfiteatro Flavio, detto il Colosseo (titel op object) Gezichten op Rome (serietitel) Vedute di Roma disegnate ed incise da Giambattista Piranesi architetto Ve(nez)iano (serietitel), RP-P-OB-39.352.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "piranesi-carceles",
+    "title": "Cárceles, lámina VII: el puente levadizo",
+    "artist": "Giovanni Battista Piranesi",
+    "date": "1761",
+    "source": {
+      "commons": "File:Giovanni Battista Piranesi - The Drawbridge, plate VII from the series Carceri d'Invenzione - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "flaxman-iliada",
+    "title": "Ilustración de la Ilíada",
+    "artist": "John Flaxman",
+    "date": "1793",
+    "source": {
+      "commons": "File:The Iliad of Homer - engraved by Thomas Piroli, from the ; from the composition of John Flaxman, sculptor - btv1b8457384b (24 of 82).jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.15,
+      0.2,
+      0.15,
+      0.22
+    ]
+  }
+]

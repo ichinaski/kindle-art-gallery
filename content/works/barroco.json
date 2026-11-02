@@ -1,0 +1,406 @@
+[
+  {
+    "id": "velazquez-meninas",
+    "title": "Las meninas",
+    "artist": "Diego Velázquez",
+    "date": "1656",
+    "source": {
+      "commons": "File:Las Meninas, by Diego Velázquez, from Prado in Google Earth.jpg"
+    },
+    "status": "approved",
+    "crop": [
+      0.5,
+      0.85
+    ],
+    "masterpiece": true
+  },
+  {
+    "id": "velazquez-breda",
+    "title": "La rendición de Breda",
+    "artist": "Diego Velázquez",
+    "date": "1635",
+    "source": {
+      "commons": "File:Velazquez-The Surrender of Breda.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "velazquez-fragua",
+    "title": "La fragua de Vulcano",
+    "artist": "Diego Velázquez",
+    "date": "1630",
+    "source": {
+      "commons": "File:Velázquez - La Fragua de Vulcano (Museo del Prado, 1630).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "velazquez-hilanderas",
+    "title": "Las hilanderas",
+    "artist": "Diego Velázquez",
+    "date": "c. 1657",
+    "source": {
+      "commons": "File:Velázquez - La Fábula de Aracne o Las Hilanderas (Museo del Prado, 1657-58).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "velazquez-borrachos",
+    "title": "El triunfo de Baco (Los borrachos)",
+    "artist": "Diego Velázquez",
+    "date": "1629",
+    "source": {
+      "commons": "File:Diego Velázquez 015.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "velazquez-vieja",
+    "title": "Vieja friendo huevos",
+    "artist": "Diego Velázquez",
+    "date": "1618",
+    "source": {
+      "commons": "File:Diego Velazquez - An Old Woman Cooking Eggs - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "velazquez-aguador",
+    "title": "El aguador de Sevilla",
+    "artist": "Diego Velázquez",
+    "date": "c. 1620",
+    "source": {
+      "commons": "File:Diego Velazquez - The Waterseller of Seville.jpg"
+    },
+    "status": "rejected",
+    "note": "vertical: the landscape crop loses too much"
+  },
+  {
+    "id": "zurbaran-agnus",
+    "title": "Agnus Dei",
+    "artist": "Francisco de Zurbarán",
+    "date": "c. 1635",
+    "source": {
+      "commons": "File:Agnus Dei Zurbarán.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "zurbaran-bodegon",
+    "title": "Bodegón con cacharros",
+    "artist": "Francisco de Zurbarán",
+    "date": "c. 1650",
+    "source": {
+      "commons": "File:Zurbarán - Bodegón (Museo del Prado, c. 1650).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "ribera-jacob",
+    "title": "El sueño de Jacob",
+    "artist": "José de Ribera",
+    "date": "1639",
+    "source": {
+      "commons": "File:El sueño de Jacob, by José de Ribera, from Prado in Google Earth.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "ribera-felipe",
+    "title": "El martirio de san Felipe",
+    "artist": "José de Ribera",
+    "date": "1639",
+    "source": {
+      "commons": "File:José de Ribera 054.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "murillo-mendigo",
+    "title": "El joven mendigo",
+    "artist": "Bartolomé Esteban Murillo",
+    "date": "c. 1650",
+    "source": {
+      "commons": "File:Bartolomé Esteban Murillo - Joven mendigo (1645-50).jpg"
+    },
+    "status": "rejected",
+    "note": "vertical: the landscape crop loses too much"
+  },
+  {
+    "id": "caravaggio-mateo",
+    "title": "La vocación de san Mateo",
+    "artist": "Caravaggio",
+    "date": "1600",
+    "source": {
+      "commons": "File:The Calling of Saint Matthew-Caravaggo (1599-1600).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "caravaggio-emaus",
+    "title": "La cena de Emaús",
+    "artist": "Caravaggio",
+    "date": "1601",
+    "source": {
+      "commons": "File:Supper at Emmaus-Caravaggio (1601).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "caravaggio-judith",
+    "title": "Judit y Holofernes",
+    "artist": "Caravaggio",
+    "date": "c. 1599",
+    "source": {
+      "commons": "File:Judith Beheading Holofernes-Caravaggio (c.1598-9).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "caravaggio-tomas",
+    "title": "La incredulidad de santo Tomás",
+    "artist": "Caravaggio",
+    "date": "c. 1602",
+    "source": {
+      "commons": "File:Der ungläubige Thomas - Michelangelo Merisi, named Caravaggio.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "caravaggio-jugadores",
+    "title": "Los jugadores de cartas",
+    "artist": "Caravaggio",
+    "date": "c. 1595",
+    "source": {
+      "commons": "File:Cardsharps-Caravaggio (c.1597).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "gentileschi-judith",
+    "title": "Judit decapitando a Holofernes",
+    "artist": "Artemisia Gentileschi",
+    "date": "c. 1620",
+    "source": {
+      "commons": "File:Artemisia Gentileschi - Giuditta decapita Oloferne - Google Art Project-Adjust.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "latour-tramposo",
+    "title": "El tramposo del as de diamantes",
+    "artist": "Georges de La Tour",
+    "date": "c. 1635",
+    "source": {
+      "commons": "File:Le Tricheur à l'as de carreau - Georges de La Tour - Musée du Louvre Peintures RF 1972 8.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "latour-recien",
+    "title": "El recién nacido",
+    "artist": "Georges de La Tour",
+    "date": "c. 1648",
+    "source": {
+      "commons": "File:Georges de La Tour - Newlyborn infant - Musée des Beaux-Arts de Rennes.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "rembrandt-ronda",
+    "title": "La ronda de noche",
+    "artist": "Rembrandt",
+    "date": "1642",
+    "source": {
+      "commons": "File:The Nightwatch by Rembrandt - Rijksmuseum.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "rembrandt-tulp",
+    "title": "La lección de anatomía del doctor Tulp",
+    "artist": "Rembrandt",
+    "date": "1632",
+    "source": {
+      "commons": "File:Rembrandt van Rijn - The Anatomy Lesson of Dr Nicolaes Tulp - 146 - Mauritshuis.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "rembrandt-sindicos",
+    "title": "Los síndicos de los pañeros",
+    "artist": "Rembrandt",
+    "date": "1662",
+    "source": {
+      "commons": "File:De waardijns van het Amsterdamse lakenbereidersgilde, bekend als ‘De staalmeesters’ Rijksmuseum SK-C-6.jpeg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "rembrandt-cienflorines",
+    "title": "La estampa de los cien florines",
+    "artist": "Rembrandt",
+    "date": "c. 1648",
+    "source": {
+      "commons": "File:Rembrandt van Rijn - Christ Preaching (The Hundred Guilder Print) - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "rembrandt-hijo",
+    "title": "El regreso del hijo pródigo",
+    "artist": "Rembrandt",
+    "date": "c. 1668",
+    "source": {
+      "commons": "File:Rembrandt Harmensz van Rijn - Return of the Prodigal Son - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "vertical: the landscape crop loses too much"
+  },
+  {
+    "id": "vermeer-delft",
+    "title": "Vista de Delft",
+    "artist": "Johannes Vermeer",
+    "date": "c. 1661",
+    "source": {
+      "commons": "File:Johannes Vermeer - View of Delft - 92 - Mauritshuis.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "vermeer-perla",
+    "title": "La joven de la perla",
+    "artist": "Johannes Vermeer",
+    "date": "c. 1665",
+    "source": {
+      "commons": "File:Johannes Vermeer - Girl with a Pearl Earring - 670 - Mauritshuis.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "vermeer-lechera",
+    "title": "La lechera",
+    "artist": "Johannes Vermeer",
+    "date": "c. 1658",
+    "source": {
+      "commons": "File:Johannes Vermeer - Het melkmeisje - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "vermeer-pintura",
+    "title": "El arte de la pintura",
+    "artist": "Johannes Vermeer",
+    "date": "c. 1666",
+    "source": {
+      "commons": "File:Jan Vermeer - The Art of Painting - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "hals-regentes",
+    "title": "Las regentes del asilo de ancianos",
+    "artist": "Frans Hals",
+    "date": "c. 1664",
+    "source": {
+      "commons": "File:Regentesses of the Old Men’s Alms House, by Frans Hals.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "rubens-jardin",
+    "title": "El jardín del amor",
+    "artist": "Peter Paul Rubens",
+    "date": "c. 1633",
+    "source": {
+      "commons": "File:El Jardín del Amor (Rubens).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hobbema-avenida",
+    "title": "La avenida de Middelharnis",
+    "artist": "Meindert Hobbema",
+    "date": "1689",
+    "source": {
+      "commons": "File:Meindert Hobbema 001.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "ruisdael-molino",
+    "title": "El molino de Wijk bij Duurstede",
+    "artist": "Jacob van Ruisdael",
+    "date": "c. 1670",
+    "source": {
+      "commons": "File:De molen bij Wijk bij Duurstede, SK-C-211.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "claesz-vanitas",
+    "title": "Vanitas",
+    "artist": "Pieter Claesz",
+    "date": "1630",
+    "source": {
+      "commons": "File:Pieter Claesz - Vanitas Still Life - 943 - Mauritshuis.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "poussin-arcadia",
+    "title": "Et in Arcadia ego",
+    "artist": "Nicolas Poussin",
+    "date": "c. 1638",
+    "source": {
+      "commons": "File:Nicolas Poussin - Et in Arcadia ego (deuxième version).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "lorrain-puerto",
+    "title": "Puerto con el embarque de la reina de Saba",
+    "artist": "Claude Lorrain",
+    "date": "1648",
+    "source": {
+      "commons": "File:Claude Lorrain - Seaport with the Embarkation of the Queen of Sheba - WGA05002.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "velazquez-venus",
+    "title": "La Venus del espejo",
+    "artist": "Diego Velázquez",
+    "date": "c. 1651",
+    "source": {
+      "commons": "File:Diego Velázquez - Rokeby Venus.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "rembrandt-circulos",
+    "title": "Autorretrato con dos círculos",
+    "artist": "Rembrandt",
+    "date": "c. 1665",
+    "source": {
+      "commons": "File:Rembrandt van Rijn - Zelfportret met twee cirkels (Kenwood House).jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "rubens-gracias",
+    "title": "Las tres Gracias",
+    "artist": "Pedro Pablo Rubens",
+    "date": "c. 1635",
+    "source": {
+      "commons": "File:The Three Graces, by Peter Paul Rubens, from Prado in Google Earth.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  }
+]

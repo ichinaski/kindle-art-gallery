@@ -1,0 +1,134 @@
+[
+  {
+    "id": "picasso-guernica",
+    "title": "Guernica",
+    "artist": "Pablo Picasso",
+    "date": "1937",
+    "source": {
+      "url": "https://uploads0.wikiart.org/00139/images/pablo-picasso/guernica-by-pablo-picasso.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "picasso-avignon",
+    "title": "Las señoritas de Avignon",
+    "artist": "Pablo Picasso",
+    "date": "1907",
+    "source": {
+      "url": "https://uploads2.wikiart.org/00492/images/pablo-picasso/les-demoiselles-d-avignon-1907.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "picasso-musicos",
+    "title": "Los tres músicos",
+    "artist": "Pablo Picasso",
+    "date": "1921",
+    "source": {
+      "url": "https://uploads1.wikiart.org/images/pablo-picasso/musicians-with-masks-1921.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "picasso-guitarrista",
+    "title": "El viejo guitarrista ciego",
+    "artist": "Pablo Picasso",
+    "date": "1903",
+    "source": {
+      "url": "https://uploads2.wikiart.org/00198/images/pablo-picasso/old-guitarist-chicago.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "id": "picasso-saltimbanquis",
+    "title": "Familia de saltimbanquis",
+    "artist": "Pablo Picasso",
+    "date": "1905",
+    "source": {
+      "url": "https://uploads8.wikiart.org/images/pablo-picasso/family-of-acrobats-jugglers-1905.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "picasso-stein",
+    "title": "Retrato de Gertrude Stein",
+    "artist": "Pablo Picasso",
+    "date": "1906",
+    "source": {
+      "url": "https://uploads7.wikiart.org/images/pablo-picasso/portrait-of-gertrude-stein-1906.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "gris-picasso",
+    "title": "Retrato de Picasso",
+    "artist": "Juan Gris",
+    "date": "1912",
+    "source": {
+      "commons": "File:Juan Gris - Portrait of Pablo Picasso - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "gris-ravignan",
+    "title": "Bodegón ante una ventana abierta, Place Ravignan",
+    "artist": "Juan Gris",
+    "date": "1915",
+    "source": {
+      "commons": "File:Juan Gris (José Victoriano González Pérez), Spanish - Still Life before an Open Window, Place Ravignan - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "leger-ciudad",
+    "title": "La ciudad",
+    "artist": "Fernand Léger",
+    "date": "1919",
+    "source": {
+      "commons": "File:La Ville (Fernand Léger).jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.09,
+      0.045,
+      0.05,
+      0.08
+    ]
+  },
+  {
+    "id": "duchamp-desnudo",
+    "title": "Desnudo bajando una escalera nº 2",
+    "artist": "Marcel Duchamp",
+    "date": "1912",
+    "source": {
+      "url": "https://uploads5.wikiart.org/00475/images/marcel-duchamp/nude-descending-a-staircase-no-2-marcel-duchamp-1912.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "blanchard-abanico",
+    "title": "Mujer con abanico",
+    "artist": "María Blanchard",
+    "date": "1916",
+    "source": {
+      "commons": "File:Woman with a Fan, by Maria Blanchard, 1916, oil on canvas - Museo Nacional Centro de Arte Reina Sofía - Madrid, Spain - DSC08510.JPG"
+    },
+    "status": "approved",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.1
+    ]
+  }
+]

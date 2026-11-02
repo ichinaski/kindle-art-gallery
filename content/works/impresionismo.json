@@ -1,0 +1,291 @@
+[
+  {
+    "id": "monet-saintlazare",
+    "title": "La estación de Saint-Lazare",
+    "artist": "Claude Monet",
+    "date": "1877",
+    "source": {
+      "commons": "File:Claude Monet - The Saint-Lazare Station - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "monet-urraca",
+    "title": "La urraca",
+    "artist": "Claude Monet",
+    "date": "c. 1869",
+    "source": {
+      "commons": "File:Claude Monet - The Magpie - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "monet-impresion",
+    "title": "Impresión, sol naciente",
+    "artist": "Claude Monet",
+    "date": "1872",
+    "source": {
+      "commons": "File:Monet - Impression, Sunrise.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "monet-sombrilla",
+    "title": "Mujer con sombrilla",
+    "artist": "Claude Monet",
+    "date": "1875",
+    "source": {
+      "commons": "File:Claude Monet - Woman with a Parasol - Madame Monet and Her Son - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.25
+    ],
+    "note": "puntuación 35 (<50): vertical, pierde mucho en apaisado"
+  },
+  {
+    "id": "manet-almuerzo",
+    "title": "Almuerzo sobre la hierba",
+    "artist": "Édouard Manet",
+    "date": "1863",
+    "source": {
+      "commons": "File:Edouard Manet - Luncheon on the Grass - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "manet-olympia",
+    "title": "Olympia",
+    "artist": "Édouard Manet",
+    "date": "1863",
+    "source": {
+      "commons": "File:Edouard Manet - Olympia - Google Art Project 2.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "manet-folies",
+    "title": "Un bar del Folies-Bergère",
+    "artist": "Édouard Manet",
+    "date": "1882",
+    "source": {
+      "commons": "File:\"Un Bar aux Folies-Bergère\" by Édouard Manet (1882).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "manet-pifano",
+    "title": "El pífano",
+    "artist": "Édouard Manet",
+    "date": "1866",
+    "source": {
+      "commons": "File:Manet, Edouard - Young Flautist, or The Fifer, 1866 (2).jpg"
+    },
+    "status": "approved",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.05
+    ]
+  },
+  {
+    "id": "degas-clase",
+    "title": "La clase de danza",
+    "artist": "Edgar Degas",
+    "date": "c. 1874",
+    "source": {
+      "commons": "File:Edgar Degas - The Ballet Class - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "degas-absenta",
+    "title": "La absenta",
+    "artist": "Edgar Degas",
+    "date": "1876",
+    "source": {
+      "commons": "File:Edgar Degas - In a Café - Google Art Project 2.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.15
+    ]
+  },
+  {
+    "id": "degas-barra",
+    "title": "Bailarinas en la barra",
+    "artist": "Edgar Degas",
+    "date": "c. 1888",
+    "source": {
+      "commons": "File:Dancers Practicing at the Barre MET DT840.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "renoir-galette",
+    "title": "Baile en el Moulin de la Galette",
+    "artist": "Pierre-Auguste Renoir",
+    "date": "1876",
+    "source": {
+      "commons": "File:Auguste Renoir - Dance at Le Moulin de la Galette - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "renoir-remeros",
+    "title": "El almuerzo de los remeros",
+    "artist": "Pierre-Auguste Renoir",
+    "date": "1881",
+    "source": {
+      "commons": "File:Pierre-Auguste Renoir - Luncheon of the Boating Party - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "caillebotte-lluvia",
+    "title": "Calle de París, día lluvioso",
+    "artist": "Gustave Caillebotte",
+    "date": "1877",
+    "source": {
+      "commons": "File:Gustave Caillebotte - Paris Street; Rainy Day - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "caillebotte-acuchilladores",
+    "title": "Los acuchilladores de parqué",
+    "artist": "Gustave Caillebotte",
+    "date": "1875",
+    "source": {
+      "commons": "File:Gustave Caillebotte-Floor-scrapers (1876).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "caillebotte-europa",
+    "title": "El puente de Europa",
+    "artist": "Gustave Caillebotte",
+    "date": "1876",
+    "source": {
+      "commons": "File:G. Caillebotte - Le pont de l'Europe.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "pissarro-noche",
+    "title": "Boulevard Montmartre de noche",
+    "artist": "Camille Pissarro",
+    "date": "1897",
+    "source": {
+      "commons": "File:Camille Pissarro - Boulevard Montmartre at Night - c 1897 - National Gallery UK.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "pissarro-invierno",
+    "title": "Boulevard Montmartre, mañana de invierno",
+    "artist": "Camille Pissarro",
+    "date": "1897",
+    "source": {
+      "commons": "File:The Boulevard Montmartre on a Winter Morning MET DT1906.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "sisley-inundacion",
+    "title": "La inundación en Port-Marly",
+    "artist": "Alfred Sisley",
+    "date": "1876",
+    "source": {
+      "commons": "File:Alfred Sisley - Boat in the Flood at Port Marly - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "morisot-cuna",
+    "title": "La cuna",
+    "artist": "Berthe Morisot",
+    "date": "1872",
+    "source": {
+      "commons": "File:Berthe Morisot - The Cradle - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "cassatt-bano",
+    "title": "El baño",
+    "artist": "Mary Cassatt",
+    "date": "1893",
+    "source": {
+      "commons": "File:Mary Cassatt - The Child's Bath - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.1
+    ]
+  },
+  {
+    "id": "whistler-madre",
+    "title": "Composición en gris y negro (La madre del artista)",
+    "artist": "James McNeill Whistler",
+    "date": "1871",
+    "source": {
+      "commons": "File:Whistlers Mother high res.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "sargent-jaleo",
+    "title": "El Jaleo",
+    "artist": "John Singer Sargent",
+    "date": "1882",
+    "source": {
+      "commons": "File:John Singer Sargent - El Jaleo.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "sargent-boit",
+    "title": "Las hijas de Edward Darley Boit",
+    "artist": "John Singer Sargent",
+    "date": "1882",
+    "source": {
+      "commons": "File:John Singer Sargent, Les Filles d'Edward Darley Boit.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true
+  },
+  {
+    "id": "sorolla-paseo",
+    "title": "Paseo a orillas del mar",
+    "artist": "Joaquín Sorolla",
+    "date": "1909",
+    "source": {
+      "commons": "File:Joaquín Sorolla y Bastida - Strolling along the Seashore - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "masterpiece": true,
+    "crop": [
+      0.5,
+      0.1
+    ]
+  },
+  {
+    "id": "sorolla-ninos",
+    "title": "Niños en la playa",
+    "artist": "Joaquín Sorolla",
+    "date": "1910",
+    "source": {
+      "commons": "File:Joaquín Sorolla - Chicos en la playa.jpg"
+    },
+    "status": "approved"
+  }
+]
