@@ -1,0 +1,1688 @@
+[
+  {
+    "id": "leonardo-cena",
+    "title": "La última cena",
+    "artist": "Leonardo da Vinci",
+    "date": "c. 1498",
+    "source": {
+      "commons": "File:Leonardo da Vinci - The Last Supper high res.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "leonardo-gioconda",
+    "title": "La Gioconda",
+    "artist": "Leonardo da Vinci",
+    "date": "c. 1503",
+    "source": {
+      "commons": "File:Mona Lisa, by Leonardo da Vinci, from C2RMF retouched.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.25
+    ],
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 26)"
+  },
+  {
+    "id": "leonardo-anunciacion",
+    "title": "La Anunciación",
+    "artist": "Leonardo da Vinci",
+    "date": "c. 1475",
+    "source": {
+      "commons": "File:Leonardo da Vinci - Annunciazione - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "miguelangel-adan",
+    "title": "La creación de Adán",
+    "artist": "Miguel Ángel",
+    "date": "c. 1512",
+    "source": {
+      "commons": "File:'Adam's Creation Sistine Chapel ceiling' by Michelangelo JBU33cut.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "rafael-atenas",
+    "title": "La escuela de Atenas",
+    "artist": "Rafael",
+    "date": "1511",
+    "source": {
+      "commons": "File:\"The School of Athens\" by Raffaello Sanzio da Urbino.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "rafael-parnaso",
+    "title": "El Parnaso",
+    "artist": "Rafael",
+    "date": "1511",
+    "source": {
+      "commons": "File:Raphael - The Parnassus.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "botticelli-venus",
+    "title": "El nacimiento de Venus",
+    "artist": "Sandro Botticelli",
+    "date": "c. 1485",
+    "source": {
+      "commons": "File:Sandro Botticelli - La nascita di Venere - Google Art Project - edited.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "botticelli-primavera",
+    "title": "La primavera",
+    "artist": "Sandro Botticelli",
+    "date": "c. 1482",
+    "source": {
+      "commons": "File:Sandro Botticelli - La Primavera - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "vaneyck-arnolfini",
+    "title": "El matrimonio Arnolfini",
+    "artist": "Jan van Eyck",
+    "date": "1434",
+    "source": {
+      "commons": "File:Van Eyck - Arnolfini Portrait.jpg"
+    },
+    "status": "rejected",
+    "note": "score below 50: vertical, the landscape crop loses too much"
+  },
+  {
+    "id": "weyden-descendimiento",
+    "title": "El descendimiento",
+    "artist": "Rogier van der Weyden",
+    "date": "c. 1435",
+    "source": {
+      "commons": "File:El Descendimiento, by Rogier van der Weyden, from Prado in Google Earth.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "bosco-jardin",
+    "title": "El jardín de las delicias",
+    "artist": "El Bosco",
+    "date": "c. 1500",
+    "source": {
+      "commons": "File:The Garden of Earthly Delights by Bosch High Resolution.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "bruegel-cazadores",
+    "title": "Cazadores en la nieve",
+    "artist": "Pieter Bruegel el Viejo",
+    "date": "1565",
+    "source": {
+      "commons": "File:Pieter Bruegel the Elder - Hunters in the Snow (Winter) - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "bruegel-babel",
+    "title": "La torre de Babel",
+    "artist": "Pieter Bruegel el Viejo",
+    "date": "1563",
+    "source": {
+      "commons": "File:Pieter Bruegel the Elder - The Tower of Babel (Vienna) - Google Art Project - edited.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "bruegel-boda",
+    "title": "Banquete de bodas campesino",
+    "artist": "Pieter Bruegel el Viejo",
+    "date": "c. 1567",
+    "source": {
+      "commons": "File:Pieter Bruegel the Elder - Peasant Wedding - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "bruegel-muerte",
+    "title": "El triunfo de la muerte",
+    "artist": "Pieter Bruegel el Viejo",
+    "date": "c. 1562",
+    "source": {
+      "commons": "File:The Triumph of Death by Pieter Bruegel the Elder.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "durero-autorretrato",
+    "title": "Autorretrato",
+    "artist": "Alberto Durero",
+    "date": "1500",
+    "source": {
+      "commons": "File:Albrecht Dürer - 1500 self-portrait (High resolution and detail).jpg"
+    },
+    "status": "rejected",
+    "note": "score below 50: vertical, the landscape crop loses too much"
+  },
+  {
+    "id": "holbein-embajadores",
+    "title": "Los embajadores",
+    "artist": "Hans Holbein el Joven",
+    "date": "1533",
+    "source": {
+      "commons": "File:Hans Holbein the Younger - The Ambassadors - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "tiziano-venus",
+    "title": "Venus de Urbino",
+    "artist": "Tiziano",
+    "date": "1538",
+    "source": {
+      "commons": "File:Tiziano - Venere di Urbino - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "tiziano-baco",
+    "title": "Baco y Ariadna",
+    "artist": "Tiziano",
+    "date": "c. 1523",
+    "source": {
+      "commons": "File:Titian - Bacchus and Ariadne - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 3/5, puntuación 42)"
+  },
+  {
+    "id": "mantegna-cristo",
+    "title": "Cristo muerto",
+    "artist": "Andrea Mantegna",
+    "date": "c. 1480",
+    "source": {
+      "commons": "File:Andrea Mantegna - Lamentation of Christ - Pinacoteca di Brera (Milan).jpg"
+    },
+    "status": "approved",
+    "crop": [
+      0.5,
+      0.2
+    ]
+  },
+  {
+    "id": "piero-flagelacion",
+    "title": "La flagelación de Cristo",
+    "artist": "Piero della Francesca",
+    "date": "c. 1460",
+    "source": {
+      "commons": "File:Piero della Francesca - Flagelación de Cristo, 1468-1470 (Galleria Nazionale delle Marche, Urbino).png"
+    },
+    "status": "rejected",
+    "trim": [
+      0.06,
+      0.065,
+      0.06,
+      0.095
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "uccello-sanromano",
+    "title": "La batalla de San Romano",
+    "artist": "Paolo Uccello",
+    "date": "c. 1438",
+    "source": {
+      "commons": "File:San Romano Battle (Paolo Uccello, London) 01.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "masaccio-tributo",
+    "title": "El tributo de la moneda",
+    "artist": "Masaccio",
+    "date": "c. 1425",
+    "source": {
+      "commons": "File:The Tribute Money Masaccio Cappella Brancacci.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "angelico-anunciacion",
+    "title": "La Anunciación",
+    "artist": "Fra Angelico",
+    "date": "c. 1426",
+    "source": {
+      "commons": "File:La Anunciación, by Fra Angelico, from Prado in Google Earth - main panel.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "greco-orgaz",
+    "title": "El entierro del conde de Orgaz",
+    "artist": "El Greco",
+    "date": "1586",
+    "source": {
+      "commons": "File:El Greco - The Burial of the Count of Orgaz.JPG"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.9
+    ],
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "greco-toledo",
+    "title": "Vista de Toledo",
+    "artist": "El Greco",
+    "date": "c. 1600",
+    "source": {
+      "commons": "File:El Greco - View of Toledo - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: poco contraste, queda gris y plano (vista 3/5, puntuación 45)"
+  },
+  {
+    "id": "bruegel-icaro",
+    "title": "Paisaje con la caída de Ícaro",
+    "artist": "Pieter Bruegel el Viejo",
+    "date": "c. 1560",
+    "source": {
+      "commons": "File:Pieter Bruegel the Elder - Landscape with the Fall of Icarus - Brussels, Royal Museums of Fine Arts of Belgium - Google Arts & Culture.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "giotto-lamentacion",
+    "title": "La lamentación sobre Cristo muerto",
+    "artist": "Giotto",
+    "date": "c. 1305",
+    "source": {
+      "commons": "File:Compianto sul Cristo morto.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 3/5, puntuación 28)"
+  },
+  {
+    "id": "vaneyck-gante",
+    "title": "El retablo de Gante",
+    "artist": "Jan y Hubert van Eyck",
+    "date": "1432",
+    "source": {
+      "commons": "File:Lamgods open.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.25 < 3.5 (opus 2, sonnet 2/3)"
+  },
+  {
+    "id": "leonardo-arminio",
+    "title": "La dama del armiño",
+    "artist": "Leonardo da Vinci",
+    "date": "c. 1490",
+    "source": {
+      "commons": "File:Lady with an Ermine - Leonardo da Vinci - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "miguelangel-juicio",
+    "title": "El juicio final",
+    "artist": "Miguel Ángel",
+    "date": "1541",
+    "source": {
+      "commons": "File:Last Judgement (Michelangelo).jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: casi todo en grises medios, sin masas claras (vista 2/5, puntuación 43)"
+  },
+  {
+    "id": "bellini-santos",
+    "title": "Virgen con el Niño y santos",
+    "artist": "Giovanni Bellini",
+    "date": "h. 1505-10",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP104372.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 42 < 50"
+  },
+  {
+    "id": "bellini-circuncision",
+    "title": "La circuncisión",
+    "artist": "Giovanni Bellini",
+    "date": "1511",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/ep17.190.9.bw.R.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "catena-pastores",
+    "title": "La adoración de los pastores",
+    "artist": "Vincenzo Catena",
+    "date": "después de 1520",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DT7237.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.03,
+      0.03,
+      0.03,
+      0.03
+    ],
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "tintoretto-panes",
+    "title": "El milagro de los panes y los peces",
+    "artist": "Tintoretto",
+    "date": "h. 1545-50",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DT5476.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 45 < 50"
+  },
+  {
+    "id": "tintoretto-moises",
+    "title": "El hallazgo de Moisés",
+    "artist": "Tintoretto",
+    "date": "década de 1560",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP239507.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "tiziano-venus-laud",
+    "title": "Venus y el tañedor de laúd",
+    "artist": "Tiziano",
+    "date": "h. 1565-70",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP-28918-001.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.055,
+      0.07,
+      0.055,
+      0.07
+    ],
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "tiziano-venus-adonis",
+    "title": "Venus y Adonis",
+    "artist": "Tiziano",
+    "date": "década de 1550",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP-19299-001.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "lotto-venus",
+    "title": "Venus y Cupido",
+    "artist": "Lorenzo Lotto",
+    "date": "década de 1520",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP-25975-001.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.035,
+      0.035,
+      0.035,
+      0.035
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "savoldo-mateo",
+    "title": "San Mateo y el ángel",
+    "artist": "Giovanni Gerolamo Savoldo",
+    "date": "h. 1534",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP-26762-001.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "lippi-anunciacion",
+    "title": "La Anunciación",
+    "artist": "Fra Filippo Lippi",
+    "date": "h. 1450",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP-46544-001.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 43 < 50"
+  },
+  {
+    "id": "perugino-resurreccion",
+    "title": "La resurrección",
+    "artist": "Perugino",
+    "date": "h. 1500",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP-24050-001.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 23 < 50"
+  },
+  {
+    "id": "cranach-adultera",
+    "title": "Cristo y la adúltera",
+    "artist": "Lucas Cranach el Joven",
+    "date": "h. 1545-50",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP280360.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "bles-tentaciones",
+    "title": "Las tentaciones de san Antonio",
+    "artist": "Herri met de Bles",
+    "date": "h. 1550-60",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP235224.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.02,
+      0.035,
+      0.02,
+      0.04
+    ],
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "sassetta-magos",
+    "title": "El viaje de los Reyes Magos",
+    "artist": "Sassetta",
+    "date": "h. 1433-35",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP-29215-001.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.055,
+      0.055,
+      0.055,
+      0.06
+    ],
+    "note": "puntuación 45 < 50"
+  },
+  {
+    "id": "bruegel-segadores",
+    "title": "Los segadores",
+    "artist": "Pieter Bruegel el Viejo",
+    "date": "1565",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP119115.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "veronese-jeronimo",
+    "title": "San Jerónimo en el desierto",
+    "artist": "Taller de Veronés",
+    "date": "h. 1585-90",
+    "source": {
+      "aic": "a1775398-4fc3-0e36-d0dd-dd0587ef4918"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "bosco-paraiso",
+    "title": "El jardín del Paraíso",
+    "artist": "Taller de El Bosco",
+    "date": "h. 1500-20",
+    "source": {
+      "aic": "3e82db48-5f93-ada3-7ab2-f97328ccc1bd"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "velazquez-meninas",
+    "title": "Las meninas",
+    "artist": "Diego Velázquez",
+    "date": "1656",
+    "source": {
+      "commons": "File:Las Meninas, by Diego Velázquez, from Prado in Google Earth.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.85
+    ],
+    "note": "revisión e-ink: pincelada y textura que en tinta electrónica se vuelven ruido (vista 3/5, puntuación 43)"
+  },
+  {
+    "id": "velazquez-breda",
+    "title": "La rendición de Breda",
+    "artist": "Diego Velázquez",
+    "date": "1635",
+    "source": {
+      "commons": "File:Velazquez-The Surrender of Breda.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "velazquez-fragua",
+    "title": "La fragua de Vulcano",
+    "artist": "Diego Velázquez",
+    "date": "1630",
+    "source": {
+      "commons": "File:Velázquez - La Fragua de Vulcano (Museo del Prado, 1630).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "velazquez-hilanderas",
+    "title": "Las hilanderas",
+    "artist": "Diego Velázquez",
+    "date": "c. 1657",
+    "source": {
+      "commons": "File:Velázquez - La Fábula de Aracne o Las Hilanderas (Museo del Prado, 1657-58).jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "velazquez-borrachos",
+    "title": "El triunfo de Baco (Los borrachos)",
+    "artist": "Diego Velázquez",
+    "date": "1629",
+    "source": {
+      "commons": "File:Diego Velázquez 015.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "velazquez-vieja",
+    "title": "Vieja friendo huevos",
+    "artist": "Diego Velázquez",
+    "date": "1618",
+    "source": {
+      "commons": "File:Diego Velazquez - An Old Woman Cooking Eggs - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "velazquez-aguador",
+    "title": "El aguador de Sevilla",
+    "artist": "Diego Velázquez",
+    "date": "c. 1620",
+    "source": {
+      "commons": "File:Diego Velazquez - The Waterseller of Seville.jpg"
+    },
+    "status": "rejected",
+    "note": "vertical: the landscape crop loses too much"
+  },
+  {
+    "id": "zurbaran-agnus",
+    "title": "Agnus Dei",
+    "artist": "Francisco de Zurbarán",
+    "date": "c. 1635",
+    "source": {
+      "commons": "File:Agnus Dei Zurbarán.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "zurbaran-bodegon",
+    "title": "Bodegón con cacharros",
+    "artist": "Francisco de Zurbarán",
+    "date": "c. 1650",
+    "source": {
+      "commons": "File:Zurbarán - Bodegón (Museo del Prado, c. 1650).jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      1.0,
+      0.5
+    ],
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "ribera-jacob",
+    "title": "El sueño de Jacob",
+    "artist": "José de Ribera",
+    "date": "1639",
+    "source": {
+      "commons": "File:El sueño de Jacob, by José de Ribera, from Prado in Google Earth.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "ribera-felipe",
+    "title": "El martirio de san Felipe",
+    "artist": "José de Ribera",
+    "date": "1639",
+    "source": {
+      "commons": "File:José de Ribera 054.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "murillo-mendigo",
+    "title": "El joven mendigo",
+    "artist": "Bartolomé Esteban Murillo",
+    "date": "c. 1650",
+    "source": {
+      "commons": "File:Bartolomé Esteban Murillo - Joven mendigo (1645-50).jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "caravaggio-mateo",
+    "title": "La vocación de san Mateo",
+    "artist": "Caravaggio",
+    "date": "1600",
+    "source": {
+      "commons": "File:The Calling of Saint Matthew-Caravaggo (1599-1600).jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: poco contraste, queda gris y plano (vista 2/5, puntuación 36)"
+  },
+  {
+    "id": "caravaggio-emaus",
+    "title": "La cena de Emaús",
+    "artist": "Caravaggio",
+    "date": "1601",
+    "source": {
+      "commons": "File:Supper at Emmaus-Caravaggio (1601).jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "caravaggio-judith",
+    "title": "Judit y Holofernes",
+    "artist": "Caravaggio",
+    "date": "c. 1599",
+    "source": {
+      "commons": "File:Judith Beheading Holofernes-Caravaggio (c.1598-9).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "caravaggio-tomas",
+    "title": "La incredulidad de santo Tomás",
+    "artist": "Caravaggio",
+    "date": "c. 1602",
+    "source": {
+      "commons": "File:Der ungläubige Thomas - Michelangelo Merisi, named Caravaggio.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "caravaggio-jugadores",
+    "title": "Los jugadores de cartas",
+    "artist": "Caravaggio",
+    "date": "c. 1595",
+    "source": {
+      "commons": "File:Cardsharps-Caravaggio (c.1597).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "gentileschi-judith",
+    "title": "Judit decapitando a Holofernes",
+    "artist": "Artemisia Gentileschi",
+    "date": "c. 1620",
+    "source": {
+      "commons": "File:Artemisia Gentileschi - Giuditta decapita Oloferne - Google Art Project-Adjust.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "latour-tramposo",
+    "title": "El tramposo del as de diamantes",
+    "artist": "Georges de La Tour",
+    "date": "c. 1635",
+    "source": {
+      "commons": "File:Le Tricheur à l'as de carreau - Georges de La Tour - Musée du Louvre Peintures RF 1972 8.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "latour-recien",
+    "title": "El recién nacido",
+    "artist": "Georges de La Tour",
+    "date": "c. 1648",
+    "source": {
+      "commons": "File:Georges de La Tour - Newlyborn infant - Musée des Beaux-Arts de Rennes.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 3/5, puntuación 29)"
+  },
+  {
+    "id": "rembrandt-ronda",
+    "title": "La ronda de noche",
+    "artist": "Rembrandt",
+    "date": "1642",
+    "source": {
+      "commons": "File:The Nightwatch by Rembrandt - Rijksmuseum.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: poco contraste, queda gris y plano (vista 2/5, puntuación 43)"
+  },
+  {
+    "id": "rembrandt-tulp",
+    "title": "La lección de anatomía del doctor Tulp",
+    "artist": "Rembrandt",
+    "date": "1632",
+    "source": {
+      "commons": "File:Rembrandt van Rijn - The Anatomy Lesson of Dr Nicolaes Tulp - 146 - Mauritshuis.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "rembrandt-sindicos",
+    "title": "Los síndicos de los pañeros",
+    "artist": "Rembrandt",
+    "date": "1662",
+    "source": {
+      "commons": "File:De waardijns van het Amsterdamse lakenbereidersgilde, bekend als ‘De staalmeesters’ Rijksmuseum SK-C-6.jpeg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: poco contraste, queda gris y plano (vista 3/5, puntuación 39)"
+  },
+  {
+    "id": "rembrandt-hijo",
+    "title": "El regreso del hijo pródigo",
+    "artist": "Rembrandt",
+    "date": "c. 1668",
+    "source": {
+      "commons": "File:Rembrandt Harmensz van Rijn - Return of the Prodigal Son - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "vertical: the landscape crop loses too much"
+  },
+  {
+    "id": "vermeer-delft",
+    "title": "Vista de Delft",
+    "artist": "Johannes Vermeer",
+    "date": "c. 1661",
+    "source": {
+      "commons": "File:Johannes Vermeer - View of Delft - 92 - Mauritshuis.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "vermeer-perla",
+    "title": "La joven de la perla",
+    "artist": "Johannes Vermeer",
+    "date": "c. 1665",
+    "source": {
+      "commons": "File:Johannes Vermeer - Girl with a Pearl Earring - 670 - Mauritshuis.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "vermeer-lechera",
+    "title": "La lechera",
+    "artist": "Johannes Vermeer",
+    "date": "c. 1658",
+    "source": {
+      "commons": "File:Johannes Vermeer - Het melkmeisje - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "vermeer-pintura",
+    "title": "El arte de la pintura",
+    "artist": "Johannes Vermeer",
+    "date": "c. 1666",
+    "source": {
+      "commons": "File:Jan Vermeer - The Art of Painting - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: pincelada y textura que en tinta electrónica se vuelven ruido (vista 3/5, puntuación 44)"
+  },
+  {
+    "id": "hals-regentes",
+    "title": "Las regentes del asilo de ancianos",
+    "artist": "Frans Hals",
+    "date": "c. 1664",
+    "source": {
+      "commons": "File:Regentesses of the Old Men’s Alms House, by Frans Hals.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "rubens-jardin",
+    "title": "El jardín del amor",
+    "artist": "Peter Paul Rubens",
+    "date": "c. 1633",
+    "source": {
+      "commons": "File:El Jardín del Amor (Rubens).jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 3/5, puntuación 46)"
+  },
+  {
+    "id": "hobbema-avenida",
+    "title": "La avenida de Middelharnis",
+    "artist": "Meindert Hobbema",
+    "date": "1689",
+    "source": {
+      "commons": "File:Meindert Hobbema 001.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "ruisdael-molino",
+    "title": "El molino de Wijk bij Duurstede",
+    "artist": "Jacob van Ruisdael",
+    "date": "c. 1670",
+    "source": {
+      "commons": "File:De molen bij Wijk bij Duurstede, SK-C-211.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "claesz-vanitas",
+    "title": "Vanitas",
+    "artist": "Pieter Claesz",
+    "date": "1630",
+    "source": {
+      "commons": "File:Pieter Claesz - Vanitas Still Life - 943 - Mauritshuis.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "poussin-arcadia",
+    "title": "Et in Arcadia ego",
+    "artist": "Nicolas Poussin",
+    "date": "c. 1638",
+    "source": {
+      "commons": "File:Nicolas Poussin - Et in Arcadia ego (deuxième version).jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 3/5, puntuación 45)"
+  },
+  {
+    "id": "lorrain-puerto",
+    "title": "Puerto con el embarque de la reina de Saba",
+    "artist": "Claude Lorrain",
+    "date": "1648",
+    "source": {
+      "commons": "File:Claude Lorrain - Seaport with the Embarkation of the Queen of Sheba - WGA05002.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "velazquez-venus",
+    "title": "La Venus del espejo",
+    "artist": "Diego Velázquez",
+    "date": "c. 1651",
+    "source": {
+      "commons": "File:Diego Velázquez - Rokeby Venus.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "rembrandt-circulos",
+    "title": "Autorretrato con dos círculos",
+    "artist": "Rembrandt",
+    "date": "c. 1665",
+    "source": {
+      "commons": "File:Rembrandt van Rijn - Zelfportret met twee cirkels (Kenwood House).jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: casi todo en grises medios, sin masas claras (vista 2/5, puntuación 37)"
+  },
+  {
+    "id": "rubens-gracias",
+    "title": "Las tres Gracias",
+    "artist": "Pedro Pablo Rubens",
+    "date": "c. 1635",
+    "source": {
+      "commons": "File:The Three Graces, by Peter Paul Rubens, from Prado in Google Earth.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "canaletto-caridad",
+    "title": "El Gran Canal desde el Campo della Carità",
+    "artist": "Canaletto",
+    "date": "h. 1730",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/Wrightsman18.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.04,
+      0.055,
+      0.04,
+      0.045
+    ],
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "canaletto-sanmarcos",
+    "title": "La plaza de San Marcos",
+    "artist": "Canaletto",
+    "date": "finales de 1720",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP-14286-009.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "canaletto-warwick",
+    "title": "El castillo de Warwick",
+    "artist": "Canaletto",
+    "date": "1748",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/Wrightsman21.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.04,
+      0.04,
+      0.04,
+      0.04
+    ],
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "guardi-sanmichele",
+    "title": "La isla de San Michele, Venecia",
+    "artist": "Francesco Guardi",
+    "date": "h. 1770",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/Wrightsman23.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.035,
+      0.045,
+      0.035,
+      0.045
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "ruysdael-mercado",
+    "title": "Mercado junto al mar",
+    "artist": "Salomon van Ruysdael",
+    "date": "1637",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP143181.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 39 < 50"
+  },
+  {
+    "id": "vanderneer-patinadores",
+    "title": "Deportes sobre un río helado",
+    "artist": "Aert van der Neer",
+    "date": "h. 1660",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP146485.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 47 < 50"
+  },
+  {
+    "id": "vanderneer-ocaso",
+    "title": "Paisaje al atardecer",
+    "artist": "Aert van der Neer",
+    "date": "h. 1650",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP146446.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "cappelle-invierno",
+    "title": "Escena de invierno",
+    "artist": "Jan van de Cappelle",
+    "date": "h. 1650",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP143174.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 49 < 50"
+  },
+  {
+    "id": "saenredam-hertogenbosch",
+    "title": "Interior de la iglesia de San Pedro en Bolduque",
+    "artist": "Pieter Saenredam",
+    "date": "1632",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP-44269-001.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.04,
+      0.04,
+      0.04,
+      0.04
+    ]
+  },
+  {
+    "id": "rubens-caza-lobo",
+    "title": "Caza de lobos y zorros",
+    "artist": "Pedro Pablo Rubens",
+    "date": "h. 1616",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP-27136-001.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.035,
+      0.035,
+      0.035,
+      0.035
+    ],
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "ruisdael-arroyo",
+    "title": "El arroyo del bosque",
+    "artist": "Jacob van Ruisdael",
+    "date": "h. 1660",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP146457.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "lorrain-troyanas",
+    "title": "Las troyanas incendian la flota",
+    "artist": "Claude Lorrain",
+    "date": "h. 1643",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP226145.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "wright-virgilio",
+    "title": "La tumba de Virgilio a la luz de la luna",
+    "artist": "Joseph Wright of Derby",
+    "date": "1779",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP322015.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.75 < 3.5 (opus 2, sonnet 3/4)"
+  },
+  {
+    "id": "panini-sanpedro",
+    "title": "Interior de San Pedro, Roma",
+    "artist": "Giovanni Paolo Panini",
+    "date": "después de 1754",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP123936.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "rosa-bandidos",
+    "title": "Bandidos en una costa rocosa",
+    "artist": "Salvator Rosa",
+    "date": "1655-60",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP-16344-001.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.04,
+      0.04,
+      0.04,
+      0.04
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "cuyp-pastores",
+    "title": "Pastores tocando la flauta",
+    "artist": "Aelbert Cuyp",
+    "date": "h. 1643-44",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP143163.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "goyen-haarlem",
+    "title": "Vista de Haarlem y el Haarlemmermeer",
+    "artist": "Jan van Goyen",
+    "date": "1646",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP146495.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 47 < 50"
+  },
+  {
+    "id": "goyen-puerta",
+    "title": "La puerta de Pelkus cerca de Utrecht",
+    "artist": "Jan van Goyen",
+    "date": "1646",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP145926.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "goyen-playa",
+    "title": "Una playa con barcas de pesca",
+    "artist": "Jan van Goyen",
+    "date": "h. 1653",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP120413.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 47 < 50"
+  },
+  {
+    "id": "ruisdael-trigo",
+    "title": "Campos de trigo",
+    "artist": "Jacob van Ruisdael",
+    "date": "h. 1670",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP145911.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "ruisdael-aldea",
+    "title": "Paisaje con una aldea a lo lejos",
+    "artist": "Jacob van Ruisdael",
+    "date": "1646",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP145939.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hobbema-entrada",
+    "title": "Entrada a una aldea",
+    "artist": "Meindert Hobbema",
+    "date": "h. 1665",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP146444.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "heyden-huistenbosch",
+    "title": "El Huis ten Bosch de La Haya y su jardín",
+    "artist": "Jan van der Heyden",
+    "date": "h. 1668-70",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP145408.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "brueghel-camino",
+    "title": "Camino del bosque con viajeros",
+    "artist": "Jan Brueghel el Viejo",
+    "date": "1607",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP-19631-001.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 37 < 50"
+  },
+  {
+    "id": "rubens-bosque",
+    "title": "Un bosque al amanecer con caza del ciervo",
+    "artist": "Pedro Pablo Rubens",
+    "date": "h. 1635",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP-25739-001.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 44 < 50"
+  },
+  {
+    "id": "lorrain-vado",
+    "title": "El vado",
+    "artist": "Claude Lorrain",
+    "date": "h. 1636",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP123844.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "lorrain-crescenza",
+    "title": "Vista de La Crescenza",
+    "artist": "Claude Lorrain",
+    "date": "1648-50",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP-27909-001.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.05,
+      0.075,
+      0.05,
+      0.09
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "lorrain-amanecer",
+    "title": "Amanecer",
+    "artist": "Claude Lorrain",
+    "date": "h. 1646-47",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP-14936-013.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.04,
+      0.04,
+      0.04,
+      0.04
+    ],
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "poussin-orion",
+    "title": "Orión ciego buscando el sol naciente",
+    "artist": "Nicolas Poussin",
+    "date": "1658",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP148490.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.25 < 3.5 (opus 2, sonnet 2/3)"
+  },
+  {
+    "id": "teniers-guardia",
+    "title": "Cuerpo de guardia con la liberación de san Pedro",
+    "artist": "David Teniers el Joven",
+    "date": "h. 1645-47",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP-25891-001.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.04,
+      0.04,
+      0.04,
+      0.045
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "guardi-granalcanal",
+    "title": "El Gran Canal, Venecia",
+    "artist": "Francesco Guardi",
+    "date": "h. 1760",
+    "source": {
+      "aic": "f23f8a3b-66b8-9061-811c-c65dd0a32ebd"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "guardi-contarini",
+    "title": "El jardín del palacio Contarini dal Zaffo",
+    "artist": "Francesco Guardi",
+    "date": "finales de 1770",
+    "source": {
+      "aic": "b553d1fe-da1f-dd9e-ff0f-c36fc22aac0e"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "marieschi-salute",
+    "title": "La iglesia de la Salute, Venecia",
+    "artist": "Michele Marieschi",
+    "date": "1740-41",
+    "source": {
+      "aic": "70ebfef5-7a98-2834-1be7-cc95e038fe82"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "deman-oudekerk",
+    "title": "La Oude Kerk de Delft",
+    "artist": "Cornelis de Man",
+    "date": "h. 1665",
+    "source": {
+      "aic": "c68a078e-b4c1-7ea8-d37a-a30c7c28f94e"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "wright-salerno",
+    "title": "El golfo de Salerno",
+    "artist": "Joseph Wright of Derby",
+    "date": "1783-85",
+    "source": {
+      "aic": "67b46720-1589-0d13-3597-f03c7b618094"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.00 < 3.5 (opus 2, sonnet 2/2)"
+  },
+  {
+    "id": "volaire-vesubio",
+    "title": "La erupción del Vesubio",
+    "artist": "Pierre-Jacques Volaire",
+    "date": "1771",
+    "source": {
+      "aic": "6a676ee7-39c0-0b88-c37e-36ba0c5e3065"
+    },
+    "status": "rejected",
+    "note": "puntuación 20 < 50"
+  },
+  {
+    "id": "cotan-caza",
+    "title": "Bodegón con aves de caza",
+    "artist": "Juan Sánchez Cotán",
+    "date": "h. 1600-03",
+    "source": {
+      "aic": "f2021182-1302-f76f-97f1-4e7850030e3b"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "velazquez-cocina",
+    "title": "Escena de cocina con Cristo en Emaús",
+    "artist": "Diego Velázquez",
+    "date": "1618-20",
+    "source": {
+      "aic": "68452725-eba5-06e3-46d2-50c678a5d672"
+    },
+    "status": "rejected",
+    "note": "puntuación 30 < 50"
+  },
+  {
+    "id": "snyders-mercado",
+    "title": "Bodegón de caza, frutas y verduras en un mercado",
+    "artist": "Frans Snyders",
+    "date": "1614",
+    "source": {
+      "aic": "d9bde524-38b2-4262-3338-e4d06a50746d"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "rubens-peleo",
+    "title": "Las bodas de Peleo y Tetis",
+    "artist": "Pedro Pablo Rubens",
+    "date": "1636",
+    "source": {
+      "aic": "5ee19981-a8f5-1306-3ec5-eb79c14ac1a6"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "teniers-europa",
+    "title": "El rapto de Europa",
+    "artist": "David Teniers el Joven",
+    "date": "1654-56",
+    "source": {
+      "aic": "9c2c809d-7637-84b0-747c-0520fa16e901"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "poussin-patmos",
+    "title": "Paisaje con san Juan en Patmos",
+    "artist": "Nicolas Poussin",
+    "date": "1640",
+    "source": {
+      "aic": "aa870b0d-5a1b-660a-6dc6-56c12109cf6e"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "velde-pastoral",
+    "title": "Paisaje pastoral con ruinas",
+    "artist": "Adriaen van de Velde",
+    "date": "1664",
+    "source": {
+      "aic": "a34d9d72-c4ec-0750-389e-a01215c9aab0"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "caravaggio-musicos",
+    "title": "Los músicos",
+    "artist": "Caravaggio",
+    "date": "1597",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP-687-001.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "tiepolo-gondola",
+    "title": "La partida de la góndola",
+    "artist": "Giovanni Domenico Tiepolo",
+    "date": "mediados de 1760",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DT209325.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.045,
+      0.025,
+      0.025,
+      0.03
+    ],
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "tiepolo-danza",
+    "title": "Un baile en el campo",
+    "artist": "Giovanni Domenico Tiepolo",
+    "date": "h. 1755",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DT8976.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "vernet-gruta",
+    "title": "Puerto con gruta y pescadores tirando de las redes",
+    "artist": "Claude-Joseph Vernet",
+    "date": "h. 1750",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP312862.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.045,
+      0.045,
+      0.045,
+      0.045
+    ],
+    "note": "panel ciego: 2.75 < 3.5 (opus 2, sonnet 3/4)"
+  },
+  {
+    "id": "bellotto-pirna",
+    "title": "Pirna: la puerta superior desde el sur",
+    "artist": "Bernardo Bellotto",
+    "date": "mediados de 1750",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DT4602.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.035,
+      0.035,
+      0.035,
+      0.035
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "bellotto-vaprio",
+    "title": "Vaprio d'Adda",
+    "artist": "Bernardo Bellotto",
+    "date": "1744",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DT4603.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "panini-romaantigua",
+    "title": "La Roma antigua",
+    "artist": "Giovanni Paolo Panini",
+    "date": "1757",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DT1418.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 48 < 50"
+  },
+  {
+    "id": "panini-romamoderna",
+    "title": "La Roma moderna",
+    "artist": "Giovanni Paolo Panini",
+    "date": "1757",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DT1403.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 42 < 50"
+  },
+  {
+    "id": "canaletto-esclusa",
+    "title": "Una esclusa, una columna y una iglesia junto a la laguna",
+    "artist": "Canaletto",
+    "date": "h. 1740",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/Wrightsman20.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.03,
+      0.045,
+      0.06,
+      0.04
+    ],
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "guardi-dogana",
+    "title": "Venecia: la Aduana y la Salute",
+    "artist": "Francesco Guardi",
+    "date": "h. 1770",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DT8847.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "guardi-rialto",
+    "title": "Venecia: el Rialto",
+    "artist": "Francesco Guardi",
+    "date": "h. 1770",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DT8848.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "dughet-paisaje",
+    "title": "Paisaje imaginario",
+    "artist": "Gaspard Dughet",
+    "date": "h. 1650",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP225500.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 37 < 50"
+  },
+  {
+    "id": "magnasco-monjas",
+    "title": "Monjas trabajando",
+    "artist": "Alessandro Magnasco",
+    "date": "h. 1720",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DT8846.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 37 < 50"
+  },
+  {
+    "id": "rembrandt-pilatos",
+    "title": "Pilatos se lava las manos",
+    "artist": "Rembrandt",
+    "date": "h. 1660",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP145903.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 37 < 50"
+  },
+  {
+    "id": "dirkhals-banquete",
+    "title": "Un banquete",
+    "artist": "Dirck Hals",
+    "date": "1628",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP143192.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 43 < 50"
+  }
+]

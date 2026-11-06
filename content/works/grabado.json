@@ -1,0 +1,2190 @@
+[
+  {
+    "id": "leonardo-vitruvio",
+    "title": "Hombre de Vitruvio",
+    "artist": "Leonardo da Vinci",
+    "date": "c. 1490",
+    "source": {
+      "commons": "File:Da Vinci Vitruve Luc Viatour.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.2
+    ],
+    "note": "score below 50: vertical, the landscape crop loses too much"
+  },
+  {
+    "id": "durero-melancolia",
+    "title": "Melancolía I",
+    "artist": "Alberto Durero",
+    "date": "1514",
+    "source": {
+      "commons": "File:Albrecht Dürer - Melencolia I - Google Art Project (427760).jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "durero-caballero",
+    "title": "El caballero, la muerte y el diablo",
+    "artist": "Alberto Durero",
+    "date": "1513",
+    "source": {
+      "commons": "File:Albrecht Dürer, Knight, Death and Devil, 1513, NGA 6637.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "durero-rinoceronte",
+    "title": "Rinoceronte",
+    "artist": "Alberto Durero",
+    "date": "1515",
+    "source": {
+      "commons": "File:Albrecht Dürer, The Rhinoceros, 1515, NGA 47903.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "durero-jeronimo",
+    "title": "San Jerónimo en su gabinete",
+    "artist": "Alberto Durero",
+    "date": "1514",
+    "source": {
+      "commons": "File:Albrecht Dürer, Saint Jerome in His Study, 1514, NGA 6642.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "durero-manos",
+    "title": "Manos que oran",
+    "artist": "Alberto Durero",
+    "date": "1508",
+    "source": {
+      "commons": "File:Albrecht Dürer - Praying Hands, 1508 - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "score below 50: vertical, the landscape crop loses too much"
+  },
+  {
+    "id": "durero-liebre",
+    "title": "Liebre joven",
+    "artist": "Alberto Durero",
+    "date": "1502",
+    "source": {
+      "commons": "File:Albrecht Dürer - Hare, 1502 - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.8
+    ],
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "rembrandt-cienflorines",
+    "title": "La estampa de los cien florines",
+    "artist": "Rembrandt",
+    "date": "c. 1648",
+    "source": {
+      "commons": "File:Rembrandt van Rijn - Christ Preaching (The Hundred Guilder Print) - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "piranesi-panteon",
+    "title": "Vista del Panteón",
+    "artist": "Giovanni Battista Piranesi",
+    "date": "c. 1761",
+    "source": {
+      "commons": "File:Pantheon te Rome Veduta del Pantheon d'Agrippa oggi Chiesa di S. Maria ad Martyres (titel op object) Gezichten op Rome (serietitel) Vedute di Roma disegnate ed incise da Giambattista Piranesi architetto Ve(nez)iano (s, RP-P-OB-39.355.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.02,
+      0.02,
+      0.02,
+      0.11
+    ]
+  },
+  {
+    "id": "piranesi-coliseo",
+    "title": "Vista del Coliseo",
+    "artist": "Giovanni Battista Piranesi",
+    "date": "c. 1776",
+    "source": {
+      "commons": "File:Colosseum te Rome Veduta dell'Anfiteatro Flavio, detto il Colosseo (titel op object) Gezichten op Rome (serietitel) Vedute di Roma disegnate ed incise da Giambattista Piranesi architetto Ve(nez)iano (serietitel), RP-P-OB-39.352.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.02,
+      0.02,
+      0.02,
+      0.11
+    ]
+  },
+  {
+    "id": "piranesi-carceles",
+    "title": "Cárceles, lámina VII: el puente levadizo",
+    "artist": "Giovanni Battista Piranesi",
+    "date": "1761",
+    "source": {
+      "commons": "File:Giovanni Battista Piranesi - The Drawbridge, plate VII from the series Carceri d'Invenzione - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "flaxman-iliada",
+    "title": "Ilustración de la Ilíada",
+    "artist": "John Flaxman",
+    "date": "1793",
+    "source": {
+      "commons": "File:The Iliad of Homer - engraved by Thomas Piroli, from the ; from the composition of John Flaxman, sculptor - btv1b8457384b (24 of 82).jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.15,
+      0.2,
+      0.15,
+      0.22
+    ],
+    "note": "revisión e-ink: poco contraste, queda gris y plano (vista 2/5, puntuación 36)"
+  },
+  {
+    "id": "goya-sueno",
+    "title": "El sueño de la razón produce monstruos",
+    "artist": "Francisco de Goya",
+    "date": "1799",
+    "source": {
+      "commons": "File:Francisco José de Goya y Lucientes - The sleep of reason produces monsters (No. 43), from Los Caprichos - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "goya-hazana",
+    "title": "Desastres de la guerra: ¡Grande hazaña! ¡Con muertos!",
+    "artist": "Francisco de Goya",
+    "date": "c. 1810",
+    "source": {
+      "commons": "File:Plate 39 from 'The Disasters of War' (Los Desastres de La Guerra)- 'An heroic feat! With dead men! '(Grande hazaña! Con muertos!) MET DP817382.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.235,
+      0.215,
+      0.255,
+      0.285
+    ]
+  },
+  {
+    "id": "goya-pepeillo",
+    "title": "Tauromaquia: la muerte de Pepe Illo",
+    "artist": "Francisco de Goya",
+    "date": "1816",
+    "source": {
+      "commons": "File:Francisco de Goya, La desgraciada muerte de Pepe Illo en la plaza de Madrid (The Unlucky Death of Pepe Illo in the Ring at Madrid), in or before 1816, NGA 4800.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.083,
+      0.108,
+      0.086,
+      0.118
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "dore-caronte",
+    "title": "Infierno: Caronte",
+    "artist": "Gustave Doré",
+    "date": "1857",
+    "source": {
+      "commons": "File:Gustave Doré - Dante Alighieri - Inferno - Plate 10 (Canto III - Charon herds the sinners onto his boat).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dore-londres",
+    "title": "Londres: Over London by Rail",
+    "artist": "Gustave Doré",
+    "date": "1872",
+    "source": {
+      "commons": "File:YCBA London a Pilgrimage 06.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.215,
+      0.145,
+      0.215,
+      0.285
+    ],
+    "note": "panel ciego: 2.00 < 3.5 (opus 2, sonnet 2/2)"
+  },
+  {
+    "id": "dore-diluvio",
+    "title": "La Biblia: el diluvio",
+    "artist": "Gustave Doré",
+    "date": "1866",
+    "source": {
+      "commons": "File:Gustave Doré - The Holy Bible - Plate I, The Deluge.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "daumier-transnonain",
+    "title": "Rue Transnonain, 15 de abril de 1834",
+    "artist": "Honoré Daumier",
+    "date": "1834",
+    "source": {
+      "commons": "File:Honoré Daumier, Rue Transnonain, le 15 avril 1834, 1834, NGA 6133.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.03,
+      0.03,
+      0.03,
+      0.075
+    ]
+  },
+  {
+    "id": "vangogh-crau",
+    "title": "La Crau vista desde Montmajour",
+    "artist": "Vincent van Gogh",
+    "date": "1888",
+    "source": {
+      "commons": "File:Van Gogh - Die Ebene \"La Crau\" bei Arles, von Montmajour aus gesehen.jpeg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "gauguin-noanoa",
+    "title": "Noa Noa",
+    "artist": "Paul Gauguin",
+    "date": "1894",
+    "source": {
+      "commons": "File:Paul Gauguin - Noa Noa- Te Po (Eternal Night) - 1929.878.7 - Cleveland Museum of Art.tif"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "lautrec-goulue",
+    "title": "Moulin Rouge: La Goulue",
+    "artist": "Henri de Toulouse-Lautrec",
+    "date": "1891",
+    "source": {
+      "commons": "File:Moulin Rouge- La Goulue MET MM89605.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "lautrec-avril",
+    "title": "Jane Avril",
+    "artist": "Henri de Toulouse-Lautrec",
+    "date": "1893",
+    "source": {
+      "commons": "File:Jane Avril, Jardin, de Paris estampe, affiche (2e état), HTL 93 monogramme de Toulouse-Lautrec.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.0
+    ],
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "redon-ojo",
+    "title": "El ojo, como un globo extraño, se dirige hacia el infinito",
+    "artist": "Odilon Redon",
+    "date": "1882",
+    "source": {
+      "commons": "File:Redon - The Eye, Like a Strange Balloon Moves Towards Infinity, plate one from To Edgar Poe, 1920.1570.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "beardsley-climax",
+    "title": "Salomé: el clímax",
+    "artist": "Aubrey Beardsley",
+    "date": "1893",
+    "source": {
+      "commons": "File:The Climax, RP-P-2018-3317.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "beardsley-pavo",
+    "title": "Salomé: la falda de pavo real",
+    "artist": "Aubrey Beardsley",
+    "date": "1893",
+    "source": {
+      "commons": "File:Aubrey Beardsley's Illustrations to Salome by Oscar Wilde MET DP863675.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "munch-gritolito",
+    "title": "El grito (litografía)",
+    "artist": "Edvard Munch",
+    "date": "1895",
+    "source": {
+      "commons": "File:The Scream MET DP860367.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.18,
+      0.099,
+      0.224,
+      0.248
+    ]
+  },
+  {
+    "id": "munch-beso",
+    "title": "El beso",
+    "artist": "Edvard Munch",
+    "date": "1897",
+    "source": {
+      "commons": "File:The Kiss IV MET MM89271.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "kollwitz-tejedores",
+    "title": "Una revuelta de tejedores: marcha de los tejedores",
+    "artist": "Käthe Kollwitz",
+    "date": "1897",
+    "source": {
+      "commons": "File:Käthe Kollwitz, Ein Weberaufstand - Weberzug, , KKS19696, Statens Museum for Kunst.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "kollwitz-nino",
+    "title": "Mujer con niño muerto",
+    "artist": "Käthe Kollwitz",
+    "date": "1903",
+    "source": {
+      "commons": "File:Käthe Kollwitz, Frau mit totem Kind, 1903, KKS2020-25, Statens Museum for Kunst.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "mantegna-dioses-marinos",
+    "title": "Combate de dioses marinos",
+    "artist": "Andrea Mantegna",
+    "date": "antes de 1481",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP821758.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "pollaiuolo-desnudos",
+    "title": "Combate de hombres desnudos",
+    "artist": "Antonio del Pollaiuolo",
+    "date": "c. 1470-90",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP257245.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.75 < 3.5 (opus 2, sonnet 3/4)"
+  },
+  {
+    "id": "bruegel-pez-grande",
+    "title": "El pez grande se come al chico",
+    "artist": "Pieter van der Heyden, según Bruegel",
+    "date": "1557",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP818314.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "cock-tentacion",
+    "title": "Paisaje con la tentación de Cristo",
+    "artist": "Hieronymus Cock, según Bruegel",
+    "date": "c. 1554",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP823137.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "rembrandt-tres-arboles",
+    "title": "Los tres árboles",
+    "artist": "Rembrandt",
+    "date": "1643",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP814596.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "rembrandt-tres-cruces",
+    "title": "Las tres cruces",
+    "artist": "Rembrandt",
+    "date": "1653",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DT11821.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "rembrandt-ecce-homo",
+    "title": "Cristo presentado al pueblo",
+    "artist": "Rembrandt",
+    "date": "1655",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP108234.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "rembrandt-petite-tombe",
+    "title": "Cristo predicando (La Petite Tombe)",
+    "artist": "Rembrandt",
+    "date": "c. 1657",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP832290.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "rembrandt-omval",
+    "title": "El Omval",
+    "artist": "Rembrandt",
+    "date": "1645",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP814600.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "rembrandt-casitas",
+    "title": "Paisaje con tres casitas",
+    "artist": "Rembrandt",
+    "date": "1650",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP814759.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "rembrandt-bosque",
+    "title": "Casa a la entrada de un bosque",
+    "artist": "Rembrandt",
+    "date": "1644",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/rl/original/DP-15506-001.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.25 < 3.5 (opus 2, sonnet 2/3)"
+  },
+  {
+    "id": "goya-disparate-volar",
+    "title": "Modo de volar",
+    "artist": "Francisco de Goya",
+    "date": "c. 1815-19",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP817503.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.035,
+      0.095,
+      0.052,
+      0.131
+    ],
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "goya-disparate-alegre",
+    "title": "Disparate alegre",
+    "artist": "Francisco de Goya",
+    "date": "c. 1815-19",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP817504.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.188,
+      0.187,
+      0.191,
+      0.22
+    ]
+  },
+  {
+    "id": "goya-apinani",
+    "title": "Ligereza y atrevimiento de Juanito Apiñani",
+    "artist": "Francisco de Goya",
+    "date": "1816",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP817517.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.116,
+      0.145,
+      0.138,
+      0.296
+    ]
+  },
+  {
+    "id": "piranesi-tito",
+    "title": "El arco de Tito",
+    "artist": "Giovanni Battista Piranesi",
+    "date": "c. 1760",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP828223.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.02,
+      0.02,
+      0.02,
+      0.11
+    ]
+  },
+  {
+    "id": "piranesi-arco-gotico",
+    "title": "El arco gótico (Cárceles)",
+    "artist": "Giovanni Battista Piranesi",
+    "date": "c. 1749-50",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP828196.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "martin-baltasar",
+    "title": "El festín de Baltasar",
+    "artist": "John Martin",
+    "date": "1826",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP322045.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.07,
+      0.087,
+      0.059,
+      0.16
+    ],
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "martin-josue",
+    "title": "Josué detiene el sol",
+    "artist": "John Martin",
+    "date": "c. 1822",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP821098.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "turner-gotardo",
+    "title": "El San Gotardo",
+    "artist": "J. M. W. Turner",
+    "date": "1808",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP821356.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.092,
+      0.117,
+      0.094,
+      0.15
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "turner-dunstanborough",
+    "title": "Castillo de Dunstanborough",
+    "artist": "J. M. W. Turner",
+    "date": "1808",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP821375.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.074,
+      0.092,
+      0.075,
+      0.13
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "turner-thun",
+    "title": "Lago de Thun",
+    "artist": "J. M. W. Turner",
+    "date": "1808",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP821376.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.083,
+      0.096,
+      0.082,
+      0.13
+    ],
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "meryon-pont-au-change",
+    "title": "El Pont-au-Change",
+    "artist": "Charles Meryon",
+    "date": "1854",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP813392.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "meryon-pompe",
+    "title": "La bomba de Notre-Dame",
+    "artist": "Charles Meryon",
+    "date": "1852",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP813149.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "meryon-salle",
+    "title": "La sala de los pasos perdidos",
+    "artist": "Charles Meryon",
+    "date": "1855",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP813239.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.028,
+      0.012,
+      0.028,
+      0.137
+    ],
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "whistler-black-lion",
+    "title": "Black Lion Wharf",
+    "artist": "James McNeill Whistler",
+    "date": "1859",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP813304.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "whistler-estibadores",
+    "title": "Estibadores",
+    "artist": "James McNeill Whistler",
+    "date": "1859",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP813307.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "whistler-eagle",
+    "title": "Eagle Wharf",
+    "artist": "James McNeill Whistler",
+    "date": "1859",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP813300.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "homer-fuegos",
+    "title": "Fuegos artificiales del 4 de julio",
+    "artist": "Winslow Homer",
+    "date": "1868",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP875293.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.02,
+      0.02,
+      0.02,
+      0.06
+    ]
+  },
+  {
+    "id": "homer-papa",
+    "title": "¡Que viene papá!",
+    "artist": "Winslow Homer",
+    "date": "1873",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP875364.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.071,
+      0.063,
+      0.109,
+      0.11
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "canaletto-mestre",
+    "title": "Vista de Mestre",
+    "artist": "Canaletto",
+    "date": "1735-46",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP232845.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.149,
+      0.175,
+      0.179,
+      0.211
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "canaletto-dolo",
+    "title": "Las esclusas de Dolo",
+    "artist": "Canaletto",
+    "date": "1735-46",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP232848.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.168,
+      0.191,
+      0.163,
+      0.193
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "canaletto-venecia",
+    "title": "Vista imaginaria de Venecia",
+    "artist": "Canaletto",
+    "date": "1741",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP232853.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "vallotton-pereza",
+    "title": "La pereza",
+    "artist": "Félix Vallotton",
+    "date": "1896",
+    "source": {
+      "aic": "e5a039ba-e562-cd56-1159-bce326771378"
+    },
+    "status": "rejected",
+    "trim": [
+      0.182,
+      0.143,
+      0.171,
+      0.182
+    ],
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "vallotton-portadores",
+    "title": "Los portadores del féretro",
+    "artist": "Félix Vallotton",
+    "date": "1892",
+    "source": {
+      "aic": "cb40df72-d32f-2f83-aca2-15dc7e76998b"
+    },
+    "status": "approved",
+    "trim": [
+      0.126,
+      0.208,
+      0.131,
+      0.25
+    ]
+  },
+  {
+    "id": "vallotton-cinco",
+    "title": "Las cinco (Intimidades)",
+    "artist": "Félix Vallotton",
+    "date": "1898",
+    "source": {
+      "aic": "cfa9124d-6426-d447-4e14-3227aadff837"
+    },
+    "status": "approved",
+    "trim": [
+      0.173,
+      0.133,
+      0.164,
+      0.182
+    ]
+  },
+  {
+    "id": "vallotton-dinero",
+    "title": "El dinero (Intimidades)",
+    "artist": "Félix Vallotton",
+    "date": "1898",
+    "source": {
+      "aic": "76848a92-2acb-7d10-8ee8-a0864afe5827"
+    },
+    "status": "approved",
+    "trim": [
+      0.163,
+      0.128,
+      0.169,
+      0.178
+    ]
+  },
+  {
+    "id": "vallotton-entierro",
+    "title": "El entierro",
+    "artist": "Félix Vallotton",
+    "date": "1891",
+    "source": {
+      "aic": "1071f194-9163-fd47-c52f-f35816a9a142"
+    },
+    "status": "approved",
+    "trim": [
+      0.098,
+      0.097,
+      0.02,
+      0.024
+    ]
+  },
+  {
+    "id": "munch-orilla",
+    "title": "Dos mujeres en la orilla",
+    "artist": "Edvard Munch",
+    "date": "1898",
+    "source": {
+      "aic": "faf61d4e-118f-4dff-5b72-dde12b07efa2"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "munch-consuelo",
+    "title": "Consuelo",
+    "artist": "Edvard Munch",
+    "date": "1894",
+    "source": {
+      "aic": "3c238326-e414-7db6-6a87-52b891051a60"
+    },
+    "status": "rejected",
+    "trim": [
+      0.175,
+      0.203,
+      0.174,
+      0.218
+    ],
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "callot-asedio",
+    "title": "Asedio de la ciudadela de Saint-Martin",
+    "artist": "Jacques Callot",
+    "date": "1631",
+    "source": {
+      "aic": "596fb9da-5d8d-1ae7-652a-8df96ce483de"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.25 < 3.5 (opus 2, sonnet 2/3)"
+  },
+  {
+    "id": "callot-bohemios",
+    "title": "Los bohemios en marcha",
+    "artist": "Jacques Callot",
+    "date": "1621",
+    "source": {
+      "aic": "afb26984-4f21-8705-df70-8eab7ed0c76f"
+    },
+    "status": "approved",
+    "trim": [
+      0.079,
+      0.28,
+      0.131,
+      0.143
+    ]
+  },
+  {
+    "id": "hollar-insectos",
+    "title": "Polilla, mariposas y abejas",
+    "artist": "Wenceslaus Hollar",
+    "date": "después de 1644",
+    "source": {
+      "aic": "bf5d9384-1d24-18c3-b05f-1517a9ed902b"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dore-escocia",
+    "title": "Paisaje escocés",
+    "artist": "Gustave Doré",
+    "date": "1873",
+    "source": {
+      "aic": "f080c267-dee9-79e9-d85e-084827d06c2c"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "daumier-cometa",
+    "title": "¿Ve usted el cometa?",
+    "artist": "Honoré Daumier",
+    "date": "1857",
+    "source": {
+      "aic": "29f7d263-beab-44e2-bb1e-fca9fa2bd5a9"
+    },
+    "status": "approved",
+    "trim": [
+      0.166,
+      0.056,
+      0.165,
+      0.078
+    ]
+  },
+  {
+    "id": "goya-martincho",
+    "title": "Temeridad de Martincho en la plaza de Zaragoza",
+    "artist": "Francisco de Goya",
+    "date": "1816",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP817784.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.169,
+      0.151,
+      0.186,
+      0.258
+    ]
+  },
+  {
+    "id": "goya-ceballos",
+    "title": "Mariano Ceballos, alias el Indio",
+    "artist": "Francisco de Goya",
+    "date": "1816",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP817520.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)",
+    "trim": [
+      0.164,
+      0.155,
+      0.176,
+      0.221
+    ]
+  },
+  {
+    "id": "goya-cid",
+    "title": "El Cid Campeador lanceando otro toro",
+    "artist": "Francisco de Goya",
+    "date": "1816",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP817514.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)",
+    "trim": [
+      0.162,
+      0.13,
+      0.188,
+      0.232
+    ]
+  },
+  {
+    "id": "lucas-lechera",
+    "title": "La lechera",
+    "artist": "Lucas van Leyden",
+    "date": "1510",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP819060.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.034,
+      0.033,
+      0.033,
+      0.044
+    ]
+  },
+  {
+    "id": "lucas-san-pablo",
+    "title": "La conversión de san Pablo",
+    "artist": "Lucas van Leyden",
+    "date": "1509",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP819159.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "whistler-riva",
+    "title": "La Riva",
+    "artist": "James McNeill Whistler",
+    "date": "1879-80",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP813604.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)",
+    "trim": [
+      0.028,
+      0.021,
+      0.029,
+      0.051
+    ]
+  },
+  {
+    "id": "whistler-nocturno",
+    "title": "Nocturno",
+    "artist": "James McNeill Whistler",
+    "date": "1879-80",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP813608.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)",
+    "trim": [
+      0.034,
+      0.028,
+      0.031,
+      0.059
+    ]
+  },
+  {
+    "id": "whistler-san-biagio",
+    "title": "San Biagio",
+    "artist": "James McNeill Whistler",
+    "date": "1879-80",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP813624.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)",
+    "trim": [
+      0.034,
+      0.041,
+      0.042,
+      0.052
+    ]
+  },
+  {
+    "id": "vangogh-saintes",
+    "title": "Calle de Saintes-Maries-de-la-Mer",
+    "artist": "Vincent van Gogh",
+    "date": "1888",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP108504.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "vangogh-trigal",
+    "title": "Campo de trigo",
+    "artist": "Vincent van Gogh",
+    "date": "1888",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP108507.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "vangogh-vivero",
+    "title": "Vivero en Schenkweg",
+    "artist": "Vincent van Gogh",
+    "date": "1882",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP108508.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "seurat-courbevoie",
+    "title": "Courbevoie: fábricas a la luz de la luna",
+    "artist": "Georges Seurat",
+    "date": "1882-83",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP808126.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.75 < 3.5 (opus 2, sonnet 3/4)"
+  },
+  {
+    "id": "seurat-honfleur",
+    "title": "El faro de Honfleur",
+    "artist": "Georges Seurat",
+    "date": "1886",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/rl/original/DP359023.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "seurat-potro",
+    "title": "El potro",
+    "artist": "Georges Seurat",
+    "date": "1882-83",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/rl/original/DP359024.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "altdorfer-abeto",
+    "title": "Paisaje con el abeto doble",
+    "artist": "Albrecht Altdorfer",
+    "date": "c. 1521-22",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP822181.jpg"
+    },
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)",
+    "status": "rejected"
+  },
+  {
+    "id": "baldung-caballos",
+    "title": "Siete caballos",
+    "artist": "Hans Baldung Grien",
+    "date": "1534",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP826747.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "segers-valle",
+    "title": "Valle de montaña con meseta",
+    "artist": "Hercules Segers",
+    "date": "c. 1625-30",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP819998.jpg"
+    },
+    "note": "puntuación 43 < 50",
+    "status": "rejected"
+  },
+  {
+    "id": "callot-tentacion",
+    "title": "La tentación de san Antonio",
+    "artist": "Jacques Callot",
+    "date": "1635",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP846853.jpg"
+    },
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)",
+    "status": "rejected",
+    "trim": [
+      0.03,
+      0.03,
+      0.03,
+      0.2
+    ]
+  },
+  {
+    "id": "callot-capilla",
+    "title": "Paisaje con una capilla rural",
+    "artist": "Jacques Callot",
+    "date": "1605-35",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP805544.jpg"
+    },
+    "note": "panel ciego: 2.25 < 3.5 (opus 2, sonnet 2/3)",
+    "status": "rejected",
+    "trim": [
+      0.02,
+      0.02,
+      0.02,
+      0.12
+    ]
+  },
+  {
+    "id": "claude-rebano",
+    "title": "El rebaño vuelve bajo la tormenta",
+    "artist": "Claude Lorrain",
+    "date": "1651",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP816345.jpg"
+    },
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)",
+    "status": "rejected",
+    "trim": [
+      0.07,
+      0.07,
+      0.075,
+      0.1
+    ]
+  },
+  {
+    "id": "claude-puerto",
+    "title": "Puerto con sol naciente",
+    "artist": "Claude Lorrain",
+    "date": "1634",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP816311.jpg"
+    },
+    "note": "panel ciego: 2.25 < 3.5 (opus 2, sonnet 2/3)",
+    "status": "rejected",
+    "trim": [
+      0.075,
+      0.03,
+      0.06,
+      0.1
+    ]
+  },
+  {
+    "id": "claude-vado",
+    "title": "El vado",
+    "artist": "Claude Lorrain",
+    "date": "1634",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP816325.jpg"
+    },
+    "note": "panel ciego: 2.25 < 3.5 (opus 2, sonnet 3/2)",
+    "status": "rejected",
+    "trim": [
+      0.03,
+      0.04,
+      0.03,
+      0.07
+    ]
+  },
+  {
+    "id": "castiglione-circe",
+    "title": "Circe transforma a los compañeros de Ulises",
+    "artist": "Giovanni Benedetto Castiglione",
+    "date": "c. 1650",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP816384.jpg"
+    },
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)",
+    "status": "rejected",
+    "trim": [
+      0.03,
+      0.03,
+      0.03,
+      0.05
+    ]
+  },
+  {
+    "id": "tiepolo-puerta",
+    "title": "La Sagrada Familia sale por una puerta de la ciudad",
+    "artist": "Giovanni Domenico Tiepolo",
+    "date": "1753",
+    "source": {
+      "aic": "06d27c0a-3564-9885-6042-e215133d571a"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "bresdin-nido",
+    "title": "El nido de águilas",
+    "artist": "Rodolphe Bresdin",
+    "date": "s. XIX",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP805510.jpg"
+    },
+    "note": "panel ciego: 2.00 < 3.5 (opus 2, sonnet 2/2)",
+    "status": "rejected"
+  },
+  {
+    "id": "bresdin-aldea",
+    "title": "Pequeña aldea marinera",
+    "artist": "Rodolphe Bresdin",
+    "date": "s. XIX",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP805539.jpg"
+    },
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)",
+    "status": "rejected"
+  },
+  {
+    "id": "daubigny-valmondois",
+    "title": "Luz de luna en Valmondois",
+    "artist": "Charles-François Daubigny",
+    "date": "1877",
+    "source": {
+      "aic": "92f22b2d-a768-5d5f-c5e1-d57a5527e7d2"
+    },
+    "status": "rejected",
+    "trim": [
+      0.02,
+      0.025,
+      0.025,
+      0.065
+    ],
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "daubigny-amanecer",
+    "title": "Amanecer",
+    "artist": "Charles-François Daubigny",
+    "date": "1850",
+    "source": {
+      "aic": "c9fa40c5-b0b4-37d0-2848-7b5fc9d3076e"
+    },
+    "status": "rejected",
+    "trim": [
+      0.02,
+      0.025,
+      0.022,
+      0.04
+    ],
+    "note": "panel ciego: 2.25 < 3.5 (opus 2, sonnet 2/3)"
+  },
+  {
+    "id": "jacque-granja",
+    "title": "Rincón de granja",
+    "artist": "Charles Jacque",
+    "date": "c. 1849",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP832879.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.15,
+      0.11,
+      0.14,
+      0.17
+    ]
+  },
+  {
+    "id": "schongauer-calvario",
+    "title": "El camino del Calvario",
+    "artist": "Martin Schongauer",
+    "date": "c. 1475-80",
+    "source": {
+      "aic": "a03e6861-a4f5-4138-5386-a3f7a73a9ded"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "hollar-londres",
+    "title": "Londres desde la escalinata de Milford",
+    "artist": "Wenceslaus Hollar",
+    "date": "1643-44",
+    "source": {
+      "aic": "47d0a82f-f782-0994-456d-917defe08505"
+    },
+    "status": "rejected",
+    "note": "técnico: fuente de 1024 px, menos de 1448 px de ancho"
+  },
+  {
+    "id": "hollar-whitehall",
+    "title": "Whitehall desde el río",
+    "artist": "Wenceslaus Hollar",
+    "date": "1647",
+    "source": {
+      "aic": "b3756007-77d4-e1e5-7305-fe38bee192f6"
+    },
+    "status": "rejected",
+    "note": "técnico: fuente de 1024 px y rótulo impreso imposible de recortar"
+  },
+  {
+    "id": "hollar-lambeth",
+    "title": "El palacio de Lambeth desde el río",
+    "artist": "Wenceslaus Hollar",
+    "date": "1647",
+    "source": {
+      "aic": "f5632ba1-96a3-dc6b-5451-5de0b75b0919"
+    },
+    "status": "rejected",
+    "note": "técnico: fuente de 1024 px, rótulo y anotaciones del papel"
+  },
+  {
+    "id": "buhot-paris-nieve",
+    "title": "París bajo la nieve",
+    "artist": "Félix Buhot",
+    "date": "1879",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP888959.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.225,
+      0.05,
+      0.045,
+      0.25
+    ]
+  },
+  {
+    "id": "buhot-trouville",
+    "title": "Un chubasco en Trouville",
+    "artist": "Félix Buhot",
+    "date": "1874",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP888947.jpg"
+    },
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)",
+    "status": "rejected",
+    "trim": [
+      0.056,
+      0.077,
+      0.054,
+      0.235
+    ]
+  },
+  {
+    "id": "buhot-chozas",
+    "title": "Las grandes chozas",
+    "artist": "Félix Buhot",
+    "date": "1860-98",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP888953.jpg"
+    },
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)",
+    "status": "rejected",
+    "trim": [
+      0.034,
+      0.05,
+      0.035,
+      0.05
+    ]
+  },
+  {
+    "id": "haden-richmond",
+    "title": "Amanecer en Richmond Park",
+    "artist": "Francis Seymour Haden",
+    "date": "1859",
+    "source": {
+      "aic": "6f135a4b-e020-f026-d589-89cdec4e0b27"
+    },
+    "status": "rejected",
+    "trim": [
+      0.14,
+      0.17,
+      0.012,
+      0.262
+    ],
+    "note": "panel ciego: 2.25 < 3.5 (opus 2, sonnet 2/3)"
+  },
+  {
+    "id": "haden-agamemnon",
+    "title": "El desguace del Agamemnon",
+    "artist": "Francis Seymour Haden",
+    "date": "1870",
+    "source": {
+      "aic": "4cbaaa6d-95b1-9049-7443-01fa199980a8"
+    },
+    "status": "rejected",
+    "trim": [
+      0.074,
+      0.113,
+      0.069,
+      0.21
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "bracquemond-sauces",
+    "title": "Los sauces de Mottiaux",
+    "artist": "Félix Bracquemond",
+    "date": "1868",
+    "source": {
+      "aic": "305c9264-ab62-f58c-6dad-f6dbc3979b05"
+    },
+    "status": "rejected",
+    "trim": [
+      0.2,
+      0.129,
+      0.189,
+      0.227
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "bracquemond-zoo",
+    "title": "En el jardín zoológico",
+    "artist": "Félix Bracquemond",
+    "date": "1873",
+    "source": {
+      "aic": "b1ea753d-7c10-af16-6fa0-f3087bbf368c"
+    },
+    "status": "rejected",
+    "note": "técnico: tras recortar el papel quedan 1103 px de ancho"
+  },
+  {
+    "id": "zorn-corriente",
+    "title": "A contracorriente",
+    "artist": "Anders Zorn",
+    "date": "1919",
+    "source": {
+      "aic": "21c2312d-51e5-5c33-e8c4-3bea1ed8fd01"
+    },
+    "status": "rejected",
+    "trim": [
+      0.062,
+      0.101,
+      0.074,
+      0.146
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "klinger-isla",
+    "title": "La isla de los muertos",
+    "artist": "Max Klinger",
+    "date": "1890",
+    "source": {
+      "aic": "fdc8092e-eceb-7a07-0c66-e829ac2fd8e8"
+    },
+    "status": "approved",
+    "trim": [
+      0.014,
+      0.04,
+      0.014,
+      0.025
+    ]
+  },
+  {
+    "id": "palmer-redil",
+    "title": "Abriendo el redil",
+    "artist": "Samuel Palmer",
+    "date": "1880",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP114123.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.132,
+      0.147,
+      0.126,
+      0.161
+    ],
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "palmer-labrador",
+    "title": "El labrador madrugador",
+    "artist": "Samuel Palmer",
+    "date": "1861",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP829225.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.125,
+      0.074,
+      0.073,
+      0.155
+    ],
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "pissarro-pajares",
+    "title": "Crepúsculo con almiares",
+    "artist": "Camille Pissarro",
+    "date": "1879",
+    "source": {
+      "aic": "13929657-1c8f-be57-4ea6-3aed6411a733"
+    },
+    "status": "rejected",
+    "trim": [
+      0.07,
+      0.14,
+      0.065,
+      0.13
+    ],
+    "note": "puntuación 48 < 50"
+  },
+  {
+    "id": "pissarro-panorama",
+    "title": "Paisaje panorámico",
+    "artist": "Camille Pissarro",
+    "date": "1879",
+    "source": {
+      "aic": "848cb78e-f134-ddaa-9460-88b00bf36e7d"
+    },
+    "status": "rejected",
+    "trim": [
+      0.072,
+      0.145,
+      0.07,
+      0.214
+    ],
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "lepere-nieve",
+    "title": "París bajo la nieve desde las torres de Saint-Gervais",
+    "artist": "Auguste Lepère",
+    "date": "1890",
+    "source": {
+      "aic": "88494e04-3d0b-58fb-3554-61831a616da2"
+    },
+    "status": "rejected",
+    "trim": [
+      0.135,
+      0.125,
+      0.144,
+      0.22
+    ],
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "lepere-olas",
+    "title": "Olas rompientes, marea de septiembre",
+    "artist": "Auguste Lepère",
+    "date": "1901",
+    "source": {
+      "aic": "5feaa782-f8c4-3c4d-6094-ebe15d6d0ca2"
+    },
+    "status": "rejected",
+    "trim": [
+      0.095,
+      0.082,
+      0.059,
+      0.073
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "lepere-amiens",
+    "title": "Casas viejas en Amiens",
+    "artist": "Auguste Lepère",
+    "date": "1907",
+    "source": {
+      "aic": "1499d480-ec43-57f4-e6dd-7a2c5b747232"
+    },
+    "status": "rejected",
+    "trim": [
+      0.08,
+      0.12,
+      0.09,
+      0.12
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "homer-tira",
+    "title": "Tira y afloja",
+    "artist": "Winslow Homer",
+    "date": "1873",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP860371.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.054,
+      0.095,
+      0.052,
+      0.082
+    ]
+  },
+  {
+    "id": "homer-convoy",
+    "title": "Una caravana de carros hace alto",
+    "artist": "Winslow Homer",
+    "date": "1864",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/MM10629.jpg"
+    },
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)",
+    "status": "rejected",
+    "trim": [
+      0.03,
+      0.036,
+      0.031,
+      0.066
+    ]
+  },
+  {
+    "id": "ostade-pescadores",
+    "title": "Dos pescadores en un puente",
+    "artist": "Adriaen van Ostade",
+    "date": "1647",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP821849.jpg"
+    },
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)",
+    "status": "rejected"
+  },
+  {
+    "id": "ruisdael-haya",
+    "title": "La gran haya",
+    "artist": "Jacob van Ruisdael",
+    "date": "c. 1652",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP834303.jpg"
+    },
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)",
+    "status": "rejected"
+  },
+  {
+    "id": "waterloo-cascada",
+    "title": "La gran cascada",
+    "artist": "Anthonie Waterloo",
+    "date": "s. XVII",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP876174.jpg"
+    },
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)",
+    "status": "rejected",
+    "trim": [
+      0.035,
+      0.045,
+      0.043,
+      0.051
+    ]
+  },
+  {
+    "id": "goltzius-boda",
+    "title": "La boda veneciana",
+    "artist": "Hendrick Goltzius",
+    "date": "1584",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/MM92456.jpg"
+    },
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)",
+    "status": "rejected",
+    "trim": [
+      0.03,
+      0.03,
+      0.03,
+      0.17
+    ]
+  },
+  {
+    "id": "cranach-torneo",
+    "title": "El tercer torneo",
+    "artist": "Lucas Cranach el Viejo",
+    "date": "1509",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP832139.jpg"
+    },
+    "note": "panel ciego: 3.00 < 3.5 (opus 2, sonnet 4/4)",
+    "status": "rejected",
+    "trim": [
+      0.023,
+      0.023,
+      0.022,
+      0.085
+    ]
+  },
+  {
+    "id": "hopfer-moriscas",
+    "title": "Danza de moriscos",
+    "artist": "Daniel Hopfer",
+    "date": "c. 1515",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP808146.jpg"
+    },
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)",
+    "status": "rejected"
+  },
+  {
+    "id": "beham-prodigo",
+    "title": "El regreso del hijo pródigo",
+    "artist": "Sebald Beham",
+    "date": "c. 1540",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP804161.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.024,
+      0.11,
+      0.019,
+      0.021
+    ]
+  },
+  {
+    "id": "millet-espigadoras-aguafuerte",
+    "title": "Las espigadoras (aguafuerte)",
+    "artist": "Jean-François Millet",
+    "date": "1855-56",
+    "source": {
+      "aic": "75ae8241-bea9-6cfe-6ec1-22667fd75674"
+    },
+    "status": "rejected",
+    "trim": [
+      0.03,
+      0.03,
+      0.03,
+      0.03
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "rembrandt-heno",
+    "title": "Paisaje con un granero y un rebaño de ovejas",
+    "artist": "Rembrandt",
+    "date": "1652",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP814754.jpg"
+    },
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)",
+    "status": "rejected",
+    "trim": [
+      0.06,
+      0.2,
+      0.06,
+      0.2
+    ]
+  },
+  {
+    "id": "piranesi-egeria",
+    "title": "La fuente de la ninfa Egeria",
+    "artist": "Giovanni Battista Piranesi",
+    "date": "c. 1766",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP828231.jpg"
+    },
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)",
+    "status": "rejected",
+    "trim": [
+      0.02,
+      0.03,
+      0.07,
+      0.11
+    ]
+  },
+  {
+    "id": "turner-greenwich",
+    "title": "Londres desde Greenwich (Liber Studiorum)",
+    "artist": "J. M. W. Turner",
+    "date": "1811",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP821407.jpg"
+    },
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)",
+    "status": "rejected",
+    "trim": [
+      0.083,
+      0.108,
+      0.061,
+      0.14
+    ]
+  },
+  {
+    "id": "durero-canon",
+    "title": "Paisaje con un cañón",
+    "artist": "Alberto Durero",
+    "date": "1518",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP815897.jpg"
+    },
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)",
+    "status": "rejected",
+    "trim": [
+      0.05,
+      0.07,
+      0.032,
+      0.053
+    ]
+  },
+  {
+    "id": "ensor-mariakerke",
+    "title": "Pequeña vista de Mariakerke",
+    "artist": "James Ensor",
+    "date": "c. 1888",
+    "source": {
+      "commons": "File:Petite vue de Mariakerke, James Ensor, Museum Plantin-Moretus, PK.MP.04893.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 34 < 50"
+  },
+  {
+    "id": "ensor-panne",
+    "title": "La playa de La Panne",
+    "artist": "James Ensor",
+    "date": "c. 1888",
+    "source": {
+      "commons": "File:Plage de La Panne, James Ensor, Museum Plantin-Moretus, PK.MP.04897.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 38 < 50"
+  },
+  {
+    "id": "kirchner-banistas",
+    "title": "Pareja bañándose",
+    "artist": "Ernst Ludwig Kirchner",
+    "date": "1910",
+    "source": {
+      "commons": "File:Ernst Ludwig Kirchner, Bathing Couple, 1910, NGA 152785.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.018,
+      0.02,
+      0.019,
+      0.089
+    ]
+  },
+  {
+    "id": "martin-ninive",
+    "title": "La caída de Nínive",
+    "artist": "John Martin",
+    "date": "1829",
+    "source": {
+      "commons": "File:John Martin - The Fall of Ninevah - B1977.14.11939 - Yale Center for British Art.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.75 < 3.5 (opus 2, sonnet 3/4)"
+  },
+  {
+    "id": "martin-sello",
+    "title": "La apertura del séptimo sello",
+    "artist": "John Martin",
+    "date": "1834",
+    "source": {
+      "commons": "File:John Martin - The Opening of the Seventh Seal - B1978.43.931 - Yale Center for British Art.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.073,
+      0.108,
+      0.078,
+      0.179
+    ],
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "hollar-palacio-nuevo",
+    "title": "Westminster Hall y New Palace Yard",
+    "artist": "Wenceslaus Hollar",
+    "date": "1647",
+    "source": {
+      "commons": "File:Wenceslaus Hollar - View of London- New Palace Yard with Westminster Hall, and the Clock House - 1941.96 - Cleveland Museum of Art.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.022,
+      0.11,
+      0.016,
+      0.026
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "hollar-prospecto",
+    "title": "Vista general de Londres",
+    "artist": "Wenceslaus Hollar",
+    "date": "c. 1647",
+    "source": {
+      "commons": "File:Wenceslaus Hollar - London General Prospect - B1977.14.17845 - Yale Center for British Art.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.02,
+      0.02,
+      0.02,
+      0.24
+    ],
+    "note": "panel ciego: 2.75 < 3.5 (opus 2, sonnet 4/3)"
+  },
+  {
+    "id": "graf-reclutamiento",
+    "title": "Reclutamiento de mercenarios",
+    "artist": "Urs Graf",
+    "date": "c. 1520",
+    "source": {
+      "commons": "File:Urs Graf Werbung.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "avercamp-invierno",
+    "title": "Paisaje de invierno con un cazador y su perro",
+    "artist": "Hendrick Avercamp",
+    "date": "s. XVII",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP800082.jpg"
+    },
+    "note": "puntuación 41 < 50",
+    "status": "rejected"
+  },
+  {
+    "id": "constable-derbyshire",
+    "title": "Paisaje de Derbyshire",
+    "artist": "John Constable",
+    "date": "c. 1801-02",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP800956.jpg"
+    },
+    "note": "panel ciego: 1.50 < 3.5 (opus 1, sonnet 2/2)",
+    "status": "rejected"
+  },
+  {
+    "id": "lear-epiro",
+    "title": "Agia Paraskevi, Epiro",
+    "artist": "Edward Lear",
+    "date": "1857",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP829460.jpg"
+    },
+    "note": "puntuación 43 < 50",
+    "status": "rejected"
+  },
+  {
+    "id": "bewick-leopardo",
+    "title": "Leopardo",
+    "artist": "Thomas Bewick",
+    "date": "c. 1790",
+    "source": {
+      "aic": "d1f00b1c-b463-567e-9223-490ec198f59c"
+    },
+    "status": "approved",
+    "trim": [
+      0.15,
+      0.2,
+      0.13,
+      0.2
+    ],
+    "crop": [
+      0.0,
+      0.5
+    ]
+  },
+  {
+    "id": "bewick-fabula",
+    "title": "Fábula: el hombre mordido por el perro",
+    "artist": "Thomas Bewick",
+    "date": "c. 1818",
+    "source": {
+      "aic": "782e8e9b-b656-a126-cb09-ed9fd5472315"
+    },
+    "status": "rejected",
+    "trim": [
+      0.166,
+      0.143,
+      0.162,
+      0.181
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "rops-blankenberghe",
+    "title": "La playa de Blankenberghe",
+    "artist": "Félicien Rops",
+    "date": "1863",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP802509.jpg"
+    },
+    "note": "panel ciego: 2.00 < 3.5 (opus 2, sonnet 2/2)",
+    "status": "rejected",
+    "trim": [
+      0.048,
+      0.1,
+      0.052,
+      0.098
+    ]
+  },
+  {
+    "id": "rops-anseremme",
+    "title": "Una velada en Anseremme",
+    "artist": "Félicien Rops",
+    "date": "1876",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP802638.jpg"
+    },
+    "note": "panel ciego: 2.00 < 3.5 (opus 2, sonnet 2/2)",
+    "status": "rejected"
+  },
+  {
+    "id": "bresdin-caucasico",
+    "title": "Paisaje caucásico",
+    "artist": "Rodolphe Bresdin",
+    "date": "s. XIX",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP805521.jpg"
+    },
+    "note": "panel ciego: 2.00 < 3.5 (opus 2, sonnet 2/2)",
+    "status": "rejected",
+    "trim": [
+      0.021,
+      0.06,
+      0.018,
+      0.096
+    ]
+  },
+  {
+    "id": "callot-cabana",
+    "title": "Paisaje con cabaña",
+    "artist": "Jacques Callot",
+    "date": "s. XVII",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP805546.jpg"
+    },
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)",
+    "status": "rejected"
+  },
+  {
+    "id": "castiglione-diogenes",
+    "title": "Diógenes busca un hombre honrado",
+    "artist": "Giovanni Benedetto Castiglione",
+    "date": "c. 1645-47",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP816387.jpg"
+    },
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)",
+    "status": "rejected"
+  },
+  {
+    "id": "daubigny-otono",
+    "title": "Otoño",
+    "artist": "Charles-François Daubigny",
+    "date": "1848",
+    "source": {
+      "aic": "6e2e1a46-0777-fcf7-042b-ff0636484271"
+    },
+    "status": "rejected",
+    "trim": [
+      0.021,
+      0.016,
+      0.019,
+      0.06
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "klinger-simplicius",
+    "title": "Simplicius en la soledad del bosque",
+    "artist": "Max Klinger",
+    "date": "1881",
+    "source": {
+      "aic": "f32c5619-502b-5ccd-0418-fda5b7e4e23c"
+    },
+    "status": "rejected",
+    "trim": [
+      0.19,
+      0.225,
+      0.19,
+      0.285
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  }
+]

@@ -9,12 +9,13 @@ Inputs:  content/collections.tsv, content/works/<collection>.json
 Outputs: content/originals/<id>.jpg              downloads (committed)
          content/panels/<collection>/<id>.png    what the Kindle shows (committed)
          content/review/<collection>.html        review page: panel, colour original, scores
+         content/review/<collection>-NN.jpg      contact sheets, e-ink grey range, best first
          content/catalog.tsv                     what the Kindle reads
 
 A work: {"id", "title", "artist", "date", "source": {"commons": "File:..."},
 {"aic": "<image id>"}, {"url": "https://..."} (WikiArt, museums) or {"file": "path under
 content/"} (given by hand), "status": "candidate" | "approved" | "rejected",
-optional "masterpiece": true (lets a vertical work in), "crop": [x, y] (0..1, which part to keep), "trim": [l, t, r, b] (fractions cut
+optional "crop": [x, y] (0..1, which part to keep), "trim": [l, t, r, b] (fractions cut
 before the automatic border trim; default 2% each side), "note"}.
 
 Every panel fills the 1448x1072 screen with no margins (cover and crop), in 16 grey
@@ -131,8 +132,18 @@ def render(path, work):
 
 
 # ------------------------------------------------------------------ scoring
-def scores(panel, rgb, masterpiece=False):
-    """Numbers that predict how well a work survives 16 greys on a landscape screen."""
+CUTOFF = 50  # candidates below this do not go to the blind panel (see docs/content.md)
+
+
+def scores(panel, rgb):
+    """Numbers that predict how well a work survives 16 greys on a landscape screen.
+
+    The score is a linear fit of three measures against 322 works rated by eye
+    (1..5) on e-ink-simulated contact sheets, scaled so 0 is a 1 and 100 a 5:
+    lightness share (structure that survives without colour), contrast and fit
+    (how much of the work the landscape crop keeps). Correlation with the eye
+    ratings is 0.78; extra measures (grey levels, local contrast, edge density,
+    texture, a medium prior) added nothing in cross-validation."""
     aspect = rgb.width / rgb.height
     fit = min(W / rgb.width, H / rgb.height) / max(W / rgb.width, H / rgb.height)
     upscale = max(W / rgb.width, H / rgb.height)  # >1: fewer source pixels than screen
@@ -157,8 +168,6 @@ def scores(panel, rgb, masterpiece=False):
         flags.append(f"recorta {1 - fit:.0%}")
     if aspect < 1:
         flags.append("vertical")
-    if aspect < 1 and not masterpiece:
-        flags.append("vertical sin «obra maestra»: descartar o marcar")
     if upscale > 1.05:
         flags.append(f"amplía x{upscale:.2f}")
     if levels < 9:
@@ -167,11 +176,9 @@ def scores(panel, rgb, masterpiece=False):
         flags.append("poco contraste")
     if light < 0.60:
         flags.append("depende del color")
-    # a rough 0..100 score: contrast, tonal range and lightness share up, crop down
-    score = 100 * (min(contrast / 0.28, 1) * 0.30 + (levels / 16) * 0.15
-                   + min(max((light - 0.4) / 0.5, 0), 1) * 0.35 + fit * 0.20)
-    if aspect < 1:
-        score -= 15  # landscape screen: vertical works only as masterpieces
+    # predicted eye rating (1..5) mapped to 0..100
+    rating = 4.92 * light + 7.52 * min(contrast, 0.36) + 1.62 * fit - 3.6
+    score = min(max(25 * (rating - 1), 0), 100)
     return dict(aspect=aspect, crop=1 - fit, upscale=upscale, levels=levels, contrast=contrast,
                 light=light, flags=flags, score=round(score))
 
@@ -197,7 +204,7 @@ def review_page(cid, name, rows):
     cards = []
     for i, (w, s) in enumerate(sorted(rows, key=lambda r: -r[1]["score"]), start=1):
         flags = " · ".join(s["flags"]) or "sin avisos"
-        cls = "bad" if s["score"] < 55 else "ok" if s["score"] < 70 else "good"
+        cls = "bad" if s["score"] < CUTOFF else "ok" if s["score"] < CUTOFF + 15 else "good"
         cards.append(f"""
 <div class="card {w['status']}">
   <div class="head"><b>{i}. {html.escape(w['title'])}</b> · {html.escape(w['artist'])}, {html.escape(w['date'])}
@@ -225,6 +232,33 @@ body{{font:14px -apple-system,sans-serif;margin:24px;background:#eee}}
 <p>{len(rows)} obras, de mejor a peor puntuación. Izquierda: cómo se verá en el Kindle (16 grises,
 pantalla completa). Derecha: original en color. Clic en el panel para verlo a tamaño real.</p>
 {''.join(cards)}"""
+
+
+def simulate(panel):
+    """The panel roughly as the screen shows it: paper white ~205, black ~40."""
+    return panel.convert("L").point(lambda v: 40 + v * 165 // 255)
+
+
+def contact_sheets(cid, rows, per=12, tw=480, th=355):
+    """review/<cid>-NN.jpg: 12 panels per sheet, best first, with the grey range
+    as the screen shows it (see simulate), so mush shows."""
+    from PIL import ImageDraw, ImageFont
+    font = ImageFont.truetype(FONT, 18)
+    for old in os.listdir(REVIEW):
+        if re.fullmatch(rf"{re.escape(cid)}-\d\d\.jpg", old):
+            os.remove(os.path.join(REVIEW, old))
+    rows = sorted(rows, key=lambda r: -r[1]["score"])
+    for k in range(0, len(rows), per):
+        sheet = Image.new("L", (tw * 4, (th + 24) * 3), 255)
+        draw = ImageDraw.Draw(sheet)
+        for n, (w, s) in enumerate(rows[k:k + per]):
+            p = simulate(Image.open(os.path.join(PANELS, cid, f"{w['id']}.png")))
+            p = p.resize((tw, th), Image.LANCZOS)
+            x, y = (n % 4) * tw, (n // 4) * (th + 24)
+            sheet.paste(p, (x, y + 24))
+            mark = "" if w["status"] == "approved" else f" [{w['status']}]"
+            draw.text((x + 4, y + 2), f"{w['id']} {s['score']}{mark}", fill=0, font=font)
+        sheet.save(os.path.join(REVIEW, f"{cid}-{k // per + 1:02d}.jpg"), quality=80)
 
 
 # ------------------------------------------------------------------ main
@@ -276,13 +310,14 @@ def main():
             thumb = rgb.copy()
             thumb.thumbnail((420, 536))
             thumb.save(os.path.join(REVIEW, "thumbs", f"{w['id']}.jpg"), quality=85)
-            s = scores(panel, rgb, w.get('masterpiece', False))
+            s = scores(panel, rgb)
             rows.append((w, s))
             print(f"   {s['score']:3} {w['id']:24} {' · '.join(s['flags'])}")
             if w["status"] == "approved" or (a.candidates and w["status"] == "candidate"):
                 catalog.append((w, cid, out))
         with open(os.path.join(REVIEW, f"{cid}.html"), "w") as fh:
             fh.write(review_page(cid, name, rows))
+        contact_sheets(cid, rows)
 
     with open(os.path.join(HERE, "catalog.tsv"), "w") as fh:
         fh.write("# id\tcollection\tfile\tsha256\ttitle\tartist\tdate\n")

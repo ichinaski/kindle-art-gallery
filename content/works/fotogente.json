@@ -1,0 +1,840 @@
+[
+  {
+    "id": "lange-madre",
+    "title": "Madre migrante",
+    "artist": "Dorothea Lange",
+    "date": "1936",
+    "source": {
+      "commons": "File:Lange-MigrantMother02.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "ebbets-almuerzo",
+    "title": "Almuerzo en lo alto de un rascacielos",
+    "artist": "Charles Ebbets (atrib.)",
+    "date": "1932",
+    "source": {
+      "commons": "File:Lunch atop a Skyscraper.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "stieglitz-steerage",
+    "title": "The Steerage",
+    "artist": "Alfred Stieglitz",
+    "date": "1907",
+    "source": {
+      "commons": "File:Alfred Stieglitz - The Steerage - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "steichen-flatiron",
+    "title": "The Flatiron",
+    "artist": "Edward Steichen",
+    "date": "1904",
+    "source": {
+      "commons": "File:Steichen flatiron.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación < 50 (filtro previo del panel ciego)"
+  },
+  {
+    "id": "muybridge-caballo",
+    "title": "El caballo en movimiento",
+    "artist": "Eadweard Muybridge",
+    "date": "1878",
+    "source": {
+      "commons": "File:The Horse in Motion high res.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.02,
+      0.03,
+      0.02,
+      0.19
+    ]
+  },
+  {
+    "id": "hine-empire",
+    "title": "Trabajador del Empire State",
+    "artist": "Lewis Hine",
+    "date": "1930",
+    "source": {
+      "commons": "File:Icarus, Empire State Building MET DT1655.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "atget-genevieve",
+    "title": "Rue de la Montagne-Sainte-Geneviève",
+    "artist": "Eugène Atget",
+    "date": "1924",
+    "source": {
+      "commons": "File:Eugène Atget - Rue de la Montagne-Sainte-Geneviève - 1985.115 - Cleveland Museum of Art.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "evans-burroughs",
+    "title": "Allie Mae Burroughs",
+    "artist": "Walker Evans",
+    "date": "1936",
+    "source": {
+      "commons": "File:Allie Mae Burroughs print.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "lee-cascade",
+    "title": "Calle mayor de Cascade, Idaho",
+    "artist": "Russell Lee",
+    "date": "1941",
+    "source": {
+      "commons": "File:Russell Lee, On main street of Cascade, Idaho, 1941.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "lee-linotipistas",
+    "title": "Linotipistas del Chicago Defender",
+    "artist": "Russell Lee",
+    "date": "1941",
+    "source": {
+      "commons": "File:Russell Lee, Linotype operators of the Chicago Defender, 1941.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "lee-butte",
+    "title": "Chatarrería de Butte, Montana",
+    "artist": "Russell Lee",
+    "date": "1942",
+    "source": {
+      "commons": "File:Russell Lee, Scrap and salvage depot, Butte, Montana, 1942.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "lee-dillon",
+    "title": "Esquina de Dillon, Montana",
+    "artist": "Russell Lee",
+    "date": "1942",
+    "source": {
+      "commons": "File:Russell Lee street corner Dillon Montana.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "lee-houma",
+    "title": "Quiosco de música en Houma",
+    "artist": "Russell Lee",
+    "date": "1938",
+    "source": {
+      "commons": "File:Houma Louisiana Bandstand 1938 by Russell Lee.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "lee-pietown-coro",
+    "title": "Niños cantando en Pie Town",
+    "artist": "Russell Lee",
+    "date": "1940",
+    "source": {
+      "commons": "File:School children singing. Pie Town, New Mexico, October 1940.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: figuras pequeñas, poco contraste"
+  },
+  {
+    "id": "lee-pietown-comida",
+    "title": "Comida comunitaria en Pie Town",
+    "artist": "Russell Lee",
+    "date": "1940",
+    "source": {
+      "commons": "File:Helping the plates at dinner on the grounds, all day community sing, Pie Town, New Mexico, 8a28926.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "rothstein-dallas",
+    "title": "Dallas de noche",
+    "artist": "Arthur Rothstein",
+    "date": "1942",
+    "source": {
+      "commons": "File:Arthur Rothstein, Night view, downtown Dallas, Texas, 1942.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "rothstein-lasvegas",
+    "title": "Jugadores de tragaperras, Las Vegas",
+    "artist": "Arthur Rothstein",
+    "date": "1940",
+    "source": {
+      "commons": "File:Slot machine players. Las Vegas, Nevada circa 1940 FSA photo by Arthur Rothstein.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "delano-roundhouse",
+    "title": "Limpiadores en la rotonda",
+    "artist": "Jack Delano",
+    "date": "1942",
+    "source": {
+      "commons": "File:Roundhouse wipers.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "delano-topeka",
+    "title": "Taller de locomotoras, Topeka",
+    "artist": "Jack Delano",
+    "date": "1943",
+    "source": {
+      "commons": "File:Jack Delano Santa Fe Railroad locomotive shop, Topeka, Kansas, 1943 (2775134221).jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "delano-chicago-skyline",
+    "title": "Trenes y horizonte de Chicago",
+    "artist": "Jack Delano",
+    "date": "1943",
+    "source": {
+      "commons": "File:No Known Restrictions Trains and Chicago Skyline by Jack Delano, 1943 (LOC) (471324544).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "delano-brockton",
+    "title": "Tienda de fontanería, Brockton",
+    "artist": "Jack Delano",
+    "date": "1940",
+    "source": {
+      "commons": "File:Jack Delano, Second-hand plumbing store, Brockton, Massachusetts, 1940.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "delano-taberna",
+    "title": "Una cerveza en Colchester",
+    "artist": "Jack Delano",
+    "date": "1940",
+    "source": {
+      "commons": "File:Elbow Benders, Having a beer in Art's Sportsman's Tavern on a rainy day in Colchester, Connecticut. November 1940. - Flickr - polkbritton.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "delano-ferroviarios",
+    "title": "Ferroviarios en el taller",
+    "artist": "Jack Delano",
+    "date": "1942",
+    "source": {
+      "commons": "File:Railroad-Shopmen-1942.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "vachon-michigan",
+    "title": "Avenida Michigan, Chicago",
+    "artist": "John Vachon",
+    "date": "1940",
+    "source": {
+      "commons": "File:Chicago's Michigan Avenue by John Vachon, 1940.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.02,
+      0.06,
+      0.02,
+      0.06
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "vachon-beisbol",
+    "title": "Equipo de béisbol en Irwinville",
+    "artist": "John Vachon",
+    "date": "1938",
+    "source": {
+      "commons": "File:No Known Restrictions Ball team at Irwinville Farms, Georgia by John Vachon, 1938 LOC 2106518804.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "vachon-omaha",
+    "title": "Coches aparcados en Omaha",
+    "artist": "John Vachon",
+    "date": "1938",
+    "source": {
+      "commons": "File:Flickr - …trialsanderrors - John Vachon, Cars parked diagonally along parking meters, Omaha, Nebraska, 1938.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "wolcott-tienda",
+    "title": "Tienda y bar de carretera, Luisiana",
+    "artist": "Marion Post Wolcott",
+    "date": "1940",
+    "source": {
+      "commons": "File:Marion Post Wolcott, A cross roads store, bar, juke joint, and gas station, Melrose, Louisiana, 1940.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "wolcott-carnaval",
+    "title": "Carnaval del algodón, Memphis",
+    "artist": "Marion Post Wolcott",
+    "date": "1940",
+    "source": {
+      "commons": "File:Cotton Carnival, Memphis, Tennessee by Marion Post Wolcott, 1940 (LOC).jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "wolcott-jitterbug",
+    "title": "Jitterbug",
+    "artist": "Marion Post Wolcott",
+    "date": "1939",
+    "source": {
+      "commons": "File:Jitterbug Wolcott FSA.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.02,
+      0.02,
+      0.05,
+      0.07
+    ]
+  },
+  {
+    "id": "collier-radio",
+    "title": "Reparación de radios",
+    "artist": "John Collier Jr.",
+    "date": "1943",
+    "source": {
+      "commons": "File:Radio Repairs.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "collier-marinero",
+    "title": "Marinero y joven ante la Tumba del Soldado Desconocido",
+    "artist": "John Collier Jr.",
+    "date": "1942",
+    "source": {
+      "commons": "File:Sailor and girl at the Tomb of the Unknown Soldier1a34523v.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "evans-tienda",
+    "title": "Almacén general, Alabama",
+    "artist": "Walker Evans",
+    "date": "1936",
+    "source": {
+      "commons": "File:General store interior Alabama Walker Evans.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hine-empire-vigas",
+    "title": "Obreros sobre las vigas del Empire State",
+    "artist": "Lewis Hine",
+    "date": "1931",
+    "source": {
+      "commons": "File:Empire State Building Girders and Workers (6620241865).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hine-empire-jovenes",
+    "title": "Jóvenes montadores en lo alto",
+    "artist": "Lewis Hine",
+    "date": "1931",
+    "source": {
+      "commons": "File:Young structural workers high up on skyscraper (6620233011).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hine-empire-veterano",
+    "title": "Montador veterano",
+    "artist": "Lewis Hine",
+    "date": "1931",
+    "source": {
+      "commons": "File:Old timer structural worker2.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hine-empire-met",
+    "title": "Empire State en construcción",
+    "artist": "Lewis Hine",
+    "date": "1931",
+    "source": {
+      "commons": "File:Empire State Building MET DP106404.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "atget-eclipse",
+    "title": "Eclipse",
+    "artist": "Eugène Atget",
+    "date": "1912",
+    "source": {
+      "commons": "File:Eugène Atget, Eclipse, 1912.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "atget-breteuil",
+    "title": "Fiesta, avenida de Breteuil",
+    "artist": "Eugène Atget",
+    "date": "1913",
+    "source": {
+      "commons": "File:Eugène Atget, Fête, Avenue de Breteuil, 1913.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "atget-anjou",
+    "title": "Quai d'Anjou, seis de la mañana",
+    "artist": "Eugène Atget",
+    "date": "1924",
+    "source": {
+      "commons": "File:Eugène Atget, Quai d'Anjou, 6h du matin, 1924.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "atget-couronne",
+    "title": "Escaparate de la Couronne d'Or",
+    "artist": "Eugène Atget",
+    "date": "1922",
+    "source": {
+      "commons": "File:Eugène Atget, Shop front of \"Courone d'or,\" Quai Bourbon, 1922.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "atget-trone",
+    "title": "Fiesta del Trône",
+    "artist": "Eugène Atget",
+    "date": "1925",
+    "source": {
+      "commons": "File:Eugène Atget, Fête du Trône - Getty Museum.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "atget-circo",
+    "title": "Circo de animales, Fête des Invalides",
+    "artist": "Eugène Atget",
+    "date": "1925",
+    "source": {
+      "commons": "File:Eugène Atget, Animal Circus, Fête des Invalides - Getty Museum.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "atget-zoniers",
+    "title": "Porte d'Ivry, zoniers",
+    "artist": "Eugène Atget",
+    "date": "1913",
+    "source": {
+      "commons": "File:Eugène Atget, Porte d'Ivry, Zoniers - Getty Museum.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "atget-guardias",
+    "title": "Guardias frente al Palais de Justice",
+    "artist": "Eugène Atget",
+    "date": "1926",
+    "source": {
+      "commons": "File:Eugène Atget, Republican Guards in Front of the Palais de Justice - Getty Museum.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "atget-halles",
+    "title": "Tienda en Les Halles",
+    "artist": "Eugène Atget",
+    "date": "1925",
+    "source": {
+      "commons": "File:Atget - Boutique aux Halles. 1925, 1.1969.1948.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "atget-pontneuf",
+    "title": "El Pont Neuf",
+    "artist": "Eugène Atget",
+    "date": "1925",
+    "source": {
+      "commons": "File:Eugène Atget, The Pont Neuf - Getty Museum.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "atget-vino",
+    "title": "Vendedor de vino, bulevar Masséna",
+    "artist": "Eugène Atget",
+    "date": "1912",
+    "source": {
+      "commons": "File:Atget - Marchand de vin. Boulevard Masséna. 1912, 1.1969.3171.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "atget-trapero",
+    "title": "Traperos, Porte d'Ivry",
+    "artist": "Eugène Atget",
+    "date": "1912",
+    "source": {
+      "commons": "File:Eugène Atget, Chiffoniers, Porte d'Ivry, 1910–12.JPG"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: casi idéntica a atget-zoniers"
+  },
+  {
+    "id": "strand-wallstreet",
+    "title": "Wall Street, Nueva York",
+    "artist": "Paul Strand",
+    "date": "1915",
+    "source": {
+      "commons": "File:Paul Strand, Wall Street, New York City, 1915.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "sutcliffe-pescadores",
+    "title": "Pescadores de Whitby",
+    "artist": "Frank Meadow Sutcliffe",
+    "date": "c. 1885",
+    "source": {
+      "commons": "File:Frank Meadow Sutcliffe, Whitby Fishermen, c. 1885, NGA 108746.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "harris-bolera",
+    "title": "Jugadores de bolos",
+    "artist": "Harris & Ewing",
+    "date": "1936",
+    "source": {
+      "commons": "File:19360224 Duckpin bowlers by pins - LoC - Harris & Ewing, photographer.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "mercury-control",
+    "title": "Centro de control del Mercury-Redstone 3",
+    "artist": "NASA",
+    "date": "1961",
+    "source": {
+      "commons": "File:Mercury-Redstone 3 Mission Control.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "anefo-voorburgwal",
+    "title": "Canal Voorburgwal, Ámsterdam",
+    "artist": "Anefo (Nationaal Archief)",
+    "date": "1950",
+    "source": {
+      "commons": "File:Noordzee Voorburgwal 1950, Bestanddeelnr 903-8208.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "anefo-huelga-puerto",
+    "title": "Huelga del puerto de Ámsterdam",
+    "artist": "Anefo (Nationaal Archief)",
+    "date": "1950",
+    "source": {
+      "commons": "File:Havenstaking in Amsterdam. Stakers in gesprek, Bestanddeelnr 904-1349.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "anefo-estacion-tejado",
+    "title": "Reparando el tejado de la Estación Central",
+    "artist": "Anefo (Nationaal Archief)",
+    "date": "1950",
+    "source": {
+      "commons": "File:Reparatie dak Centraal Station glasnegatief, Bestanddeelnr 904-0744.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.025,
+      0.11,
+      0.01,
+      0.01
+    ]
+  },
+  {
+    "id": "anefo-fabrica",
+    "title": "Obreros saliendo de la fábrica",
+    "artist": "Anefo (Nationaal Archief)",
+    "date": "1966",
+    "source": {
+      "commons": "File:Arbeiders verlaten de fabriek, Bestanddeelnr 919-7750.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "anefo-patinaje",
+    "title": "Patinadores en el Gouwzee",
+    "artist": "Anefo (Nationaal Archief)",
+    "date": "1965",
+    "source": {
+      "commons": "File:Winter, ijs, wintersporten, schaatsen, sfeerbeelden, Bestanddeelnr 918-4837.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "anefo-volendam",
+    "title": "Pareja patinando en Volendam",
+    "artist": "Anefo (Nationaal Archief)",
+    "date": "1950",
+    "source": {
+      "commons": "File:Schaatsen in Volendam. Stel hand in hand op het ijs, Bestanddeelnr 903-8042.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.045,
+      0.12,
+      0.01,
+      0.02
+    ]
+  },
+  {
+    "id": "anefo-haarlem",
+    "title": "Pelotón en la Grote Markt de Haarlem",
+    "artist": "Anefo (Nationaal Archief)",
+    "date": "1959",
+    "source": {
+      "commons": "File:Start muggenronde te Haarlem, peloton passeert Grote Markt , Bestanddeelnr 910-5393.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "anefo-groningen",
+    "title": "La Grote Markt de Groningen",
+    "artist": "Anefo (Nationaal Archief)",
+    "date": "1971",
+    "source": {
+      "commons": "File:Grote Markt voor het stadhuis van Groningen, Bestanddeelnr 924-3652.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.00 < 3.5 (opus 2, sonnet 2/2)"
+  },
+  {
+    "id": "noaa-salazon",
+    "title": "Estación de salazón, Bristol Bay, Alaska",
+    "artist": "NOAA",
+    "date": "1900",
+    "source": {
+      "commons": "File:Whitney salting station 1900 NOAA.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.01,
+      0.27,
+      0.01,
+      0.03
+    ]
+  },
+  {
+    "id": "bain-barrendero",
+    "title": "Barredora automática",
+    "artist": "Bain News Service",
+    "date": "c. 1910",
+    "source": {
+      "commons": "File:Auto Street Cleaner LCCN2014690966.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.04,
+      0.02,
+      0.01,
+      0.11
+    ],
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "bain-eiffel",
+    "title": "Guardia en la Torre Eiffel",
+    "artist": "Bain News Service",
+    "date": "c. 1914",
+    "source": {
+      "commons": "File:Bain News Service, Guard at Eiffel Tower - Wireless Station.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "harris-calle-f",
+    "title": "Calle F, Washington",
+    "artist": "Harris & Ewing",
+    "date": "c. 1915",
+    "source": {
+      "commons": "File:STREET SCENE. F STREET (i.e. 9th Street), N.W. LCCN2016865757.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "harris-calle-g",
+    "title": "Cerca de la calle G, Washington",
+    "artist": "Harris & Ewing",
+    "date": "c. 1915",
+    "source": {
+      "commons": "File:Street scene, near G Street, Washington, D.C. LOC hec.10336.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "harris-bomberos",
+    "title": "Bomberos con tiro de tres caballos",
+    "artist": "Harris & Ewing",
+    "date": "c. 1910",
+    "source": {
+      "commons": "File:Three-horse team fire truck with water tower passing the 1300 block of F Street, N.W., Washington, D.C., with the Harris & Ewing studio in center above the driver's head, and the Sanders & LOC hec.04783.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "bain-londres",
+    "title": "London Bridge",
+    "artist": "Bain News Service",
+    "date": "c. 1910",
+    "source": {
+      "commons": "File:London Bridge, London LCCN2014693202.tif"
+    },
+    "status": "approved",
+    "trim": [
+      0.01,
+      0.06,
+      0.01,
+      0.05
+    ]
+  },
+  {
+    "id": "bain-tranvias",
+    "title": "Tranvías de Londres",
+    "artist": "Bain News Service",
+    "date": "c. 1910",
+    "source": {
+      "commons": "File:London tram cars LCCN2014707279.tif"
+    },
+    "status": "approved",
+    "trim": [
+      0.01,
+      0.045,
+      0.015,
+      0.08
+    ]
+  },
+  {
+    "id": "bain-libreros",
+    "title": "Puestos de libros, París",
+    "artist": "Bain News Service",
+    "date": "c. 1910",
+    "source": {
+      "commons": "File:Bain News Service, Book stalls, Paris.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "bain-concorde",
+    "title": "Plaza de la Concordia, París",
+    "artist": "Bain News Service",
+    "date": "c. 1914",
+    "source": {
+      "commons": "File:Bain News Service, Place de la Concorde, Paris - Library of Congress.tif"
+    },
+    "status": "rejected",
+    "trim": [
+      0.075,
+      0.1,
+      0.07,
+      0.07
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "stieglitz-boulevard",
+    "title": "Un día de lluvia en el bulevar, París",
+    "artist": "Alfred Stieglitz",
+    "date": "1894",
+    "source": {
+      "aic": "6e4c03c1-bfe4-4342-7596-fe9cc586d5da"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "anefo-optocht",
+    "title": "Desfile folclórico ante el ayuntamiento",
+    "artist": "Anefo (Nationaal Archief)",
+    "date": "1960",
+    "source": {
+      "commons": "File:Folkloristische optocht op de Markt voor het stadhuis, Bestanddeelnr 911-2953.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "anefo-kalverstraat",
+    "title": "Fiesta en la Kalverstraat",
+    "artist": "Anefo (Nationaal Archief)",
+    "date": "1950",
+    "source": {
+      "commons": "File:Amsterdam-Damstad, viering 500-jarig bestaan Kalverstraat door de winkeliersvere, Bestanddeelnr 904-0157.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "bain-marines",
+    "title": "Marines en París",
+    "artist": "Bain News Service",
+    "date": "c. 1918",
+    "source": {
+      "commons": "File:Bain News Service, Marines in Paris.jpg"
+    },
+    "status": "approved"
+  }
+]

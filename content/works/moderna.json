@@ -1,0 +1,2980 @@
+[
+  {
+    "id": "david-marat",
+    "title": "La muerte de Marat",
+    "artist": "Jacques-Louis David",
+    "date": "1793",
+    "source": {
+      "commons": "File:Jacques-Louis David - Marat assassinated - Google Art Project 2.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.8
+    ],
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 3/5, puntuación 33)"
+  },
+  {
+    "id": "david-horacios",
+    "title": "El juramento de los Horacios",
+    "artist": "Jacques-Louis David",
+    "date": "1784",
+    "source": {
+      "commons": "File:Jacques-Louis David - Oath of the Horatii - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "david-socrates",
+    "title": "La muerte de Sócrates",
+    "artist": "Jacques-Louis David",
+    "date": "1787",
+    "source": {
+      "commons": "File:The Death of Socrates MET DT40.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: poco contraste, queda gris y plano (vista 3/5, puntuación 48)"
+  },
+  {
+    "id": "david-coronacion",
+    "title": "La coronación de Napoleón",
+    "artist": "Jacques-Louis David",
+    "date": "1807",
+    "source": {
+      "commons": "File:Jacques-Louis David - The Coronation of Napoleon (1805-1807).jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: pincelada y textura que en tinta electrónica se vuelven ruido (vista 3/5, puntuación 45)"
+  },
+  {
+    "id": "david-sabinas",
+    "title": "Las sabinas",
+    "artist": "Jacques-Louis David",
+    "date": "1799",
+    "source": {
+      "commons": "File:The Intervention of the Sabine Women - David (Louvre INV 3691).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "david-recamier",
+    "title": "Retrato de Madame Récamier",
+    "artist": "Jacques-Louis David",
+    "date": "1800",
+    "source": {
+      "commons": "File:Madame Récamier, née Julie (dite Juliette) Bernard - Jacques-Louis David - Musée duLouvre Peintures INV 3708.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "david-napoleon",
+    "title": "Napoleón cruzando los Alpes",
+    "artist": "Jacques-Louis David",
+    "date": "1801",
+    "source": {
+      "commons": "File:Napoleon at the Great St. Bernard - Jacques-Louis David - Google Cultural Institute.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: poco contraste, queda gris y plano (vista 2/5, puntuación 36)"
+  },
+  {
+    "id": "ingres-odalisca",
+    "title": "La gran odalisca",
+    "artist": "Jean-Auguste-Dominique Ingres",
+    "date": "1814",
+    "source": {
+      "commons": "File:La Grande Odalisque - Jean-Auguste-Dominique Ingres - Musée du Louvre Peintures RF 1158.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "ingres-edipo",
+    "title": "Edipo y la esfinge",
+    "artist": "Jean-Auguste-Dominique Ingres",
+    "date": "1808",
+    "source": {
+      "commons": "File:Oedipus and Sphinx (Ingres).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "ingres-bertin",
+    "title": "Retrato de Louis-François Bertin",
+    "artist": "Jean-Auguste-Dominique Ingres",
+    "date": "1832",
+    "source": {
+      "commons": "File:0 Louis-François Bertin - Jean-Baptiste Ingres - RF 1071 - Louvre.JPG"
+    },
+    "status": "rejected",
+    "trim": [
+      0.06,
+      0.05,
+      0.06,
+      0.04
+    ],
+    "note": "revisión e-ink: el recorte apaisado pierde demasiado (vista 2/5, puntuación 38)"
+  },
+  {
+    "id": "ingres-banista",
+    "title": "La bañista de Valpinçon",
+    "artist": "Jean-Auguste-Dominique Ingres",
+    "date": "1808",
+    "source": {
+      "commons": "File:Jean-Auguste-Dominique Ingres - La Baigneuse Valpinçon.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.15
+    ],
+    "note": "revisión e-ink: el recorte apaisado pierde demasiado (vista 2/5, puntuación 49)"
+  },
+  {
+    "id": "wright-bomba",
+    "title": "Experimento con un pájaro en una bomba de aire",
+    "artist": "Joseph Wright of Derby",
+    "date": "1768",
+    "source": {
+      "commons": "File:An Experiment on a Bird in an Air Pump by Joseph Wright of Derby, 1768.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "wright-planetario",
+    "title": "Un filósofo da una lección sobre el planetario",
+    "artist": "Joseph Wright of Derby",
+    "date": "c. 1766",
+    "source": {
+      "commons": "File:Wright of Derby, The Orrery.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "west-wolfe",
+    "title": "La muerte del general Wolfe",
+    "artist": "Benjamin West",
+    "date": "1770",
+    "source": {
+      "commons": "File:Benjamin West, The Death of General Wolfe (1776).jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 39)"
+  },
+  {
+    "id": "kauffman-cornelia",
+    "title": "Cornelia, madre de los Gracos",
+    "artist": "Angelica Kauffman",
+    "date": "c. 1785",
+    "source": {
+      "commons": "File:Angelica kauffman ra cornelia mother of the gracchi060808).jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "mengs-parnaso",
+    "title": "El Parnaso",
+    "artist": "Anton Raphael Mengs",
+    "date": "1761",
+    "source": {
+      "commons": "File:Parnassus, by Anton Raphael Mengs.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "girodet-endimion",
+    "title": "El sueño de Endimión",
+    "artist": "Anne-Louis Girodet",
+    "date": "1791",
+    "source": {
+      "commons": "File:The Sleep of Endymion - Girodet (Louvre INV 4935).jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "gros-jaffa",
+    "title": "Napoleón visita a los apestados de Jaffa",
+    "artist": "Antoine-Jean Gros",
+    "date": "1804",
+    "source": {
+      "commons": "File:Antoine-Jean Gros - Bonaparte Visiting the Plague Victims of Jaffa.jpeg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "goya-mayo",
+    "title": "El 3 de mayo en Madrid",
+    "artist": "Francisco de Goya",
+    "date": "1814",
+    "source": {
+      "commons": "File:El Tres de Mayo, by Francisco de Goya, from Prado in Google Earth.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "goya-saturno",
+    "title": "Saturno devorando a su hijo",
+    "artist": "Francisco de Goya",
+    "date": "c. 1823",
+    "source": {
+      "commons": "File:Francisco de Goya, Saturno devorando a su hijo (1819-1823).jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.12
+    ],
+    "note": "revisión e-ink: el recorte apaisado pierde demasiado (vista 3/5, puntuación 33)"
+  },
+  {
+    "id": "goya-garrotazos",
+    "title": "Duelo a garrotazos",
+    "artist": "Francisco de Goya",
+    "date": "c. 1823",
+    "source": {
+      "commons": "File:Francisco de Goya y Lucientes - Duelo a garrotazos.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: casi todo en grises medios, sin masas claras (vista 3/5, puntuación 49)"
+  },
+  {
+    "id": "goya-aquelarre",
+    "title": "El aquelarre",
+    "artist": "Francisco de Goya",
+    "date": "c. 1823",
+    "source": {
+      "commons": "File:Witches' Sabbath by Goya.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: el recorte apaisado pierde demasiado (vista 3/5, puntuación 39)"
+  },
+  {
+    "id": "goya-perro",
+    "title": "El perro semihundido",
+    "artist": "Francisco de Goya",
+    "date": "c. 1823",
+    "source": {
+      "commons": "File:Goya Dog.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 41 (<50): vertical, pierde mucho en apaisado"
+  },
+  {
+    "id": "goya-majadesnuda",
+    "title": "La maja desnuda",
+    "artist": "Francisco de Goya",
+    "date": "c. 1800",
+    "source": {
+      "commons": "File:Maja desnuda (museo del Prado).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "goya-carlosiv",
+    "title": "La familia de Carlos IV",
+    "artist": "Francisco de Goya",
+    "date": "1800",
+    "source": {
+      "commons": "File:La familia de Carlos IV, Francisco de Goya.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "friedrich-caminante",
+    "title": "El caminante sobre el mar de nubes",
+    "artist": "Caspar David Friedrich",
+    "date": "c. 1818",
+    "source": {
+      "commons": "File:Caspar David Friedrich - Wanderer above the Sea of Fog.jpeg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "friedrich-monje",
+    "title": "El monje a la orilla del mar",
+    "artist": "Caspar David Friedrich",
+    "date": "c. 1810",
+    "source": {
+      "commons": "File:Caspar David Friedrich - Der Mönch am Meer - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.00 < 3.5 (opus 2, sonnet 2/2)"
+  },
+  {
+    "id": "friedrich-hielo",
+    "title": "El mar de hielo",
+    "artist": "Caspar David Friedrich",
+    "date": "c. 1824",
+    "source": {
+      "commons": "File:Caspar David Friedrich – Das Eismeer.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "friedrich-abadia",
+    "title": "Abadía en el robledal",
+    "artist": "Caspar David Friedrich",
+    "date": "c. 1810",
+    "source": {
+      "commons": "File:Caspar David Friedrich - Abtei im Eichwald - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "friedrich-luna",
+    "title": "Dos hombres contemplando la luna",
+    "artist": "Caspar David Friedrich",
+    "date": "c. 1820",
+    "source": {
+      "commons": "File:Friedrich - Two Men Contemplating the Moon.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "friedrich-invierno",
+    "title": "Paisaje invernal con iglesia",
+    "artist": "Caspar David Friedrich",
+    "date": "1811",
+    "source": {
+      "commons": "File:Caspar David Friedrich - Winterlandschaft mit Kirche (Dortmund).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "turner-temerario",
+    "title": "El Temerario remolcado a su último atraque",
+    "artist": "J. M. W. Turner",
+    "date": "1839",
+    "source": {
+      "commons": "File:The Fighting Temeraire, JMW Turner, National Gallery.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 31)"
+  },
+  {
+    "id": "turner-lluvia",
+    "title": "Lluvia, vapor y velocidad",
+    "artist": "J. M. W. Turner",
+    "date": "1844",
+    "source": {
+      "commons": "File:Turner - Rain, Steam and Speed - National Gallery file.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 49)"
+  },
+  {
+    "id": "turner-anibal",
+    "title": "Tormenta de nieve: Aníbal cruzando los Alpes",
+    "artist": "J. M. W. Turner",
+    "date": "1812",
+    "source": {
+      "commons": "File:Turner, Snow Storm, 50508403226 b272cf84c3 o.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 2, sonnet 4/4)"
+  },
+  {
+    "id": "constable-carro",
+    "title": "El carro de heno",
+    "artist": "John Constable",
+    "date": "1821",
+    "source": {
+      "commons": "File:John Constable - The Hay Wain (1821).jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "gericault-medusa",
+    "title": "La balsa de la Medusa",
+    "artist": "Théodore Géricault",
+    "date": "1819",
+    "source": {
+      "commons": "File:JEAN LOUIS THÉODORE GÉRICAULT - La Balsa de la Medusa (Museo del Louvre, 1818-19).jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "delacroix-libertad",
+    "title": "La libertad guiando al pueblo",
+    "artist": "Eugène Delacroix",
+    "date": "1830",
+    "source": {
+      "commons": "File:La Liberté guidant le peuple - Eugène Delacroix - Musée du Louvre Peintures RF 129 - après restauration 2024.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "delacroix-sardanapalo",
+    "title": "La muerte de Sardanápalo",
+    "artist": "Eugène Delacroix",
+    "date": "1827",
+    "source": {
+      "commons": "File:Mort de Sardanapale - Eugène Delacroix - Musée du Louvre Peintures RF 2346.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "delacroix-dante",
+    "title": "La barca de Dante",
+    "artist": "Eugène Delacroix",
+    "date": "1822",
+    "source": {
+      "commons": "File:Eugène Delacroix - The Barque of Dante.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "fussli-pesadilla",
+    "title": "La pesadilla",
+    "artist": "Johann Heinrich Füssli",
+    "date": "1781",
+    "source": {
+      "commons": "File:Johann Heinrich Füssli - The Nightmare 55.5.A-d1-2019-04-15.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "blake-newton",
+    "title": "Newton",
+    "artist": "William Blake",
+    "date": "1795",
+    "source": {
+      "commons": "File:Newton-WilliamBlake.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "cole-destruccion",
+    "title": "El curso del imperio: destrucción",
+    "artist": "Thomas Cole",
+    "date": "1836",
+    "source": {
+      "commons": "File:Cole Thomas The Course of Empire Destruction 1836.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "aivazovsky-ola",
+    "title": "La novena ola",
+    "artist": "Iván Aivazovski",
+    "date": "1850",
+    "source": {
+      "commons": "File:Hovhannes Aivazovsky - The Ninth Wave - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 44)"
+  },
+  {
+    "id": "martin-ira",
+    "title": "El gran día de su ira",
+    "artist": "John Martin",
+    "date": "1853",
+    "source": {
+      "commons": "File:John Martin - The Great Day of His Wrath - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 3/5, puntuación 48)"
+  },
+  {
+    "id": "delacroix-argel",
+    "title": "Mujeres de Argel",
+    "artist": "Eugène Delacroix",
+    "date": "1834",
+    "source": {
+      "commons": "File:Femmes d'Alger dans leur appartement, Eugène Delacroix - Musée du Louvre Peintures INV 3824.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "goya-majavestida",
+    "title": "La maja vestida",
+    "artist": "Francisco de Goya",
+    "date": "c. 1805",
+    "source": {
+      "commons": "File:Maja vestida (Prado).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "millet-espigadoras",
+    "title": "Las espigadoras",
+    "artist": "Jean-François Millet",
+    "date": "1857",
+    "source": {
+      "commons": "File:Jean-François Millet - Gleaners - Google Art Project 2.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "millet-angelus",
+    "title": "El Ángelus",
+    "artist": "Jean-François Millet",
+    "date": "1859",
+    "source": {
+      "commons": "File:Jean-François Millet - The Angelus - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "millet-sembrador",
+    "title": "El sembrador",
+    "artist": "Jean-François Millet",
+    "date": "1850",
+    "source": {
+      "commons": "File:Jean-François Millet - The Sower - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.1
+    ],
+    "note": "revisión e-ink: el recorte apaisado pierde demasiado (vista 2/5, puntuación 47)"
+  },
+  {
+    "id": "courbet-ornans",
+    "title": "Entierro en Ornans",
+    "artist": "Gustave Courbet",
+    "date": "1850",
+    "source": {
+      "commons": "File:Gustave Courbet - A Burial at Ornans - Google Art Project 2.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "courbet-picapedreros",
+    "title": "Los picapedreros",
+    "artist": "Gustave Courbet",
+    "date": "1849",
+    "source": {
+      "commons": "File:Gustave Courbet 018.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "courbet-desesperado",
+    "title": "El desesperado",
+    "artist": "Gustave Courbet",
+    "date": "c. 1845",
+    "source": {
+      "commons": "File:Gustave Courbet - Le Désespéré (1843).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "courbet-buenosdias",
+    "title": "¡Buenos días, señor Courbet!",
+    "artist": "Gustave Courbet",
+    "date": "1854",
+    "source": {
+      "commons": "File:Gustave Courbet - Bonjour Monsieur Courbet - Musée Fabre.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "courbet-ola",
+    "title": "La ola",
+    "artist": "Gustave Courbet",
+    "date": "1869",
+    "source": {
+      "commons": "File:Gustave Courbet - The Wave - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "courbet-taller",
+    "title": "El taller del pintor",
+    "artist": "Gustave Courbet",
+    "date": "1855",
+    "source": {
+      "commons": "File:Courbet LAtelier du peintre.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "daumier-vagon",
+    "title": "El vagón de tercera clase",
+    "artist": "Honoré Daumier",
+    "date": "c. 1864",
+    "source": {
+      "commons": "File:The Third-Class Carriage MET DT2142.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 3/5, puntuación 36)"
+  },
+  {
+    "id": "daumier-lavandera",
+    "title": "La lavandera",
+    "artist": "Honoré Daumier",
+    "date": "c. 1863",
+    "source": {
+      "commons": "File:Honoré Daumier - The Laundress - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "bonheur-feria",
+    "title": "La feria de caballos",
+    "artist": "Rosa Bonheur",
+    "date": "1853",
+    "source": {
+      "commons": "File:Rosa Bonheur, The Horse Fair, 1852–55.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: casi todo en grises medios, sin masas claras (vista 3/5, puntuación 49)"
+  },
+  {
+    "id": "bonheur-arando",
+    "title": "Arando en el Nivernais",
+    "artist": "Rosa Bonheur",
+    "date": "1849",
+    "source": {
+      "commons": "File:Rosa Bonheur - Ploughing in Nevers - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: casi todo en grises medios, sin masas claras (vista 3/5, puntuación 43)"
+  },
+  {
+    "id": "repin-cosacos",
+    "title": "Los cosacos zaporogos escriben al sultán",
+    "artist": "Iliá Repin",
+    "date": "1891",
+    "source": {
+      "commons": "File:Ilja Jefimowitsch Repin - Reply of the Zaporozhian Cossacks - Yorck.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "homer-corriente",
+    "title": "La corriente del Golfo",
+    "artist": "Winslow Homer",
+    "date": "1899",
+    "source": {
+      "commons": "File:Winslow Homer - The Gulf Stream - Metropolitan Museum of Art.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "homer-viento",
+    "title": "Viento fresco",
+    "artist": "Winslow Homer",
+    "date": "1876",
+    "source": {
+      "commons": "File:Winslow Homer - Breezing Up (A Fair Wind).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "eakins-gross",
+    "title": "La clínica Gross",
+    "artist": "Thomas Eakins",
+    "date": "1875",
+    "source": {
+      "commons": "File:Thomas Eakins, American - Portrait of Dr. Samuel D. Gross (The Gross Clinic) - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "corot-mortefontaine",
+    "title": "Recuerdo de Mortefontaine",
+    "artist": "Camille Corot",
+    "date": "1864",
+    "source": {
+      "commons": "File:Souvenir de Mortefontaine - Jean-Baptiste Camille Corot - Musée du Louvre Peintures MI 692 bis.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "bastien-heno",
+    "title": "El heno",
+    "artist": "Jules Bastien-Lepage",
+    "date": "1877",
+    "source": {
+      "commons": "File:Jules Bastien-Lepage - Hay making - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "sorolla-pescado",
+    "title": "¡Aún dicen que el pescado es caro!",
+    "artist": "Joaquín Sorolla",
+    "date": "1894",
+    "source": {
+      "commons": "File:Joaquín Sorolla y Bastida - Aún dicen que el pescado es caro.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "casas-garrote",
+    "title": "Garrote vil",
+    "artist": "Ramon Casas",
+    "date": "1894",
+    "source": {
+      "commons": "File:Garrote vil, de Ramón Casas.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "whistler-battersea",
+    "title": "Gris y plata: el viejo Battersea",
+    "artist": "James McNeill Whistler",
+    "date": "1863",
+    "source": {
+      "aic": "f0b3ff64-d68e-3fd2-ffc9-5470eb9fea6e"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "turner-pescadores",
+    "title": "Barcas de pesca con vendedores regateando",
+    "artist": "J. M. W. Turner",
+    "date": "1837-38",
+    "source": {
+      "aic": "8641479e-c93e-f1a8-9925-19be061706da"
+    },
+    "status": "rejected",
+    "note": "puntuación 49 < 50"
+  },
+  {
+    "id": "turner-aosta",
+    "title": "Valle de Aosta: nevada, alud y tormenta",
+    "artist": "J. M. W. Turner",
+    "date": "1836-37",
+    "source": {
+      "aic": "564e2e3f-eb93-88a7-d265-8fea006facff"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "cropsey-niagara",
+    "title": "Las cataratas del Niágara en invierno",
+    "artist": "Jasper Francis Cropsey",
+    "date": "1868",
+    "source": {
+      "aic": "42924282-d483-cd95-e676-52aee4bc4164"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "pissarro-marne",
+    "title": "Las orillas del Marne en invierno",
+    "artist": "Camille Pissarro",
+    "date": "1866",
+    "source": {
+      "aic": "3d950ecc-73f4-c28a-f216-0940b23fa5e8"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "manet-toros",
+    "title": "Corrida de toros",
+    "artist": "Édouard Manet",
+    "date": "1865-66",
+    "source": {
+      "aic": "38636be8-f1bc-c451-ae65-c441919bd0c3"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "michel-tormenta",
+    "title": "La tormenta",
+    "artist": "Georges Michel",
+    "date": "c. 1814-30",
+    "source": {
+      "aic": "ff7cae53-a6f6-9965-70e9-7e264ead9265"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "dupre-granja",
+    "title": "La granja del estuario",
+    "artist": "Jules Dupré",
+    "date": "1831-34",
+    "source": {
+      "aic": "c676a0e8-d084-f1be-eaef-3be77a754568"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "boilly-mudanza",
+    "title": "La mudanza",
+    "artist": "Louis-Léopold Boilly",
+    "date": "1822",
+    "source": {
+      "aic": "fb1f6add-bfa9-65af-5876-edade04d6b49"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "anonimo-boston",
+    "title": "Boston Common",
+    "artist": "Artista desconocido",
+    "date": "c. 1850-63",
+    "source": {
+      "aic": "fad138a8-80f1-45a3-1dc7-b9ff991b4812"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "lawrence-pointbreeze",
+    "title": "Point Breeze, la finca de José Bonaparte",
+    "artist": "Charles B. Lawrence",
+    "date": "1817-20",
+    "source": {
+      "aic": "4cdc7a89-3bd3-704c-1c16-c35576a8615a"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "eckersberg-claustro",
+    "title": "El claustro de San Lorenzo Extramuros",
+    "artist": "Christoffer Wilhelm Eckersberg",
+    "date": "1824",
+    "source": {
+      "aic": "f72718c3-1fec-dce3-8c41-85b42a5ea273"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "rousseau-paisaje-1850",
+    "title": "Paisaje",
+    "artist": "Théodore Rousseau",
+    "date": "c. 1850",
+    "source": {
+      "aic": "3527f037-a9b2-9253-1a92-dcd281b54340"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "inness-molino",
+    "title": "El viejo molino",
+    "artist": "George Inness",
+    "date": "1849",
+    "source": {
+      "aic": "9c2e39ad-fc3f-356e-cd98-db0038cfe8da"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "doughty-chubasco",
+    "title": "Chubasco en la playa de Nahant",
+    "artist": "Thomas Doughty",
+    "date": "1835",
+    "source": {
+      "aic": "28a7765b-fc38-1a56-87dd-cbcdb647fcdb"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "jongkind-honfleur",
+    "title": "Entrada al puerto de Honfleur",
+    "artist": "Johan Barthold Jongkind",
+    "date": "1863-64",
+    "source": {
+      "aic": "d1549113-7586-2193-de9f-80c1ce58ed64"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "jongkind-overschie",
+    "title": "La iglesia de Overschie",
+    "artist": "Johan Barthold Jongkind",
+    "date": "1866",
+    "source": {
+      "aic": "a05ed5e5-eb97-451a-9bc0-50108ab9dbe3"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "birch-tripoli",
+    "title": "La captura del Tripoli por el Enterprise",
+    "artist": "Thomas Birch",
+    "date": "1806-12",
+    "source": {
+      "aic": "2b219d21-c128-ea2e-cb0b-69d2e9e98e5e"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "manet-longchamp",
+    "title": "Las carreras de Longchamp",
+    "artist": "Édouard Manet",
+    "date": "1866",
+    "source": {
+      "aic": "e9ce5aca-4c34-c8dd-b8a1-91b3e3197211"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "shaw-soledad",
+    "title": "Soledad",
+    "artist": "Joshua Shaw",
+    "date": "1818",
+    "source": {
+      "aic": "63e18e3e-35a6-699c-a824-d75228c2f1fa"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.25 < 3.5 (opus 2, sonnet 2/3)"
+  },
+  {
+    "id": "quidor-ripvanwinkle",
+    "title": "Rip Van Winkle",
+    "artist": "John Quidor",
+    "date": "1829",
+    "source": {
+      "aic": "c1f5d7ea-65f6-0ac6-d22f-549d27cfdd38"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "perov-troika",
+    "title": "Troika",
+    "artist": "Vasili Perov",
+    "date": "1866",
+    "source": {
+      "commons": "File:Тройка - Василий Григорьевич Перов (1866).jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "vasilyev-pradera",
+    "title": "El prado mojado",
+    "artist": "Fiódor Vasíliev",
+    "date": "1872",
+    "source": {
+      "commons": "File:Fedor Vasilyev - Мокрый луг - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.25 < 3.5 (opus 2, sonnet 2/3)"
+  },
+  {
+    "id": "lane-gloucester",
+    "title": "Vista de Gloucester, Massachusetts",
+    "artist": "Fitz Henry Lane",
+    "date": "1855",
+    "source": {
+      "commons": "File:Fitz Henry Lane, View of Gloucester, Mass., 1855, NGA 145208.jpg"
+    },
+    "status": "rejected",
+    "note": "técnico: es una litografía con pie de imagen, no una pintura"
+  },
+  {
+    "id": "manet-pifano",
+    "title": "El pífano",
+    "artist": "Édouard Manet",
+    "date": "1866",
+    "source": {
+      "commons": "File:Manet, Edouard - Young Flautist, or The Fifer, 1866 (2).jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.05
+    ],
+    "note": "revisión e-ink: el recorte apaisado pierde demasiado (vista 3/5, puntuación 36)"
+  },
+  {
+    "id": "millais-ofelia",
+    "title": "Ofelia",
+    "artist": "John Everett Millais",
+    "date": "1852",
+    "source": {
+      "commons": "File:John Everett Millais - Ophelia - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: poco contraste, queda gris y plano (vista 2/5, puntuación 40)"
+  },
+  {
+    "id": "repin-sirgadores",
+    "title": "Los sirgadores del Volga",
+    "artist": "Iliá Repin",
+    "date": "1870",
+    "source": {
+      "commons": "File:Ilya Repin - Barge Haulers on the Volga - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 3/5, puntuación 45)"
+  },
+  {
+    "id": "eakins-schmitt",
+    "title": "Max Schmitt en un bote individual",
+    "artist": "Thomas Eakins",
+    "date": "1871",
+    "source": {
+      "commons": "File:Max Schmitt in a Single Scull.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 35)"
+  },
+  {
+    "id": "menzel-forja",
+    "title": "La forja",
+    "artist": "Adolph Menzel",
+    "date": "1875",
+    "source": {
+      "commons": "File:Adolph Menzel - Eisenwalzwerk - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: poco contraste, queda gris y plano (vista 2/5, puntuación 38)"
+  },
+  {
+    "id": "breton-alondra",
+    "title": "El canto de la alondra",
+    "artist": "Jules Breton",
+    "date": "1884",
+    "source": {
+      "commons": "File:Jules Breton, le chant de l'alouette.1884.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.2
+    ],
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 34)"
+  },
+  {
+    "id": "repin-ivan",
+    "title": "Iván el Terrible y su hijo",
+    "artist": "Iliá Repin",
+    "date": "1885",
+    "source": {
+      "commons": "File:Répine Ivan le Terrible et son fils Ivan principale version 1883 - 1885.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 41)"
+  },
+  {
+    "id": "wood-gotico",
+    "title": "American Gothic",
+    "artist": "Grant Wood",
+    "date": "1930",
+    "source": {
+      "commons": "File:Grant Wood - American Gothic - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "crop": [
+      0.5,
+      0.3
+    ]
+  },
+  {
+    "id": "hopper-nighthawks",
+    "title": "Nighthawks",
+    "artist": "Edward Hopper",
+    "date": "1942",
+    "source": {
+      "url": "https://uploads2.wikiart.org/00129/images/edward-hopper/nighthawks.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.7,
+      0.5
+    ],
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 3/5, puntuación 35)"
+  },
+  {
+    "id": "hopper-domingo",
+    "title": "Early Sunday Morning",
+    "artist": "Edward Hopper",
+    "date": "1930",
+    "source": {
+      "url": "https://uploads5.wikiart.org/images/edward-hopper/early-sunday-morning.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 3/5, puntuación 46)"
+  },
+  {
+    "id": "wyeth-christina",
+    "title": "El mundo de Christina",
+    "artist": "Andrew Wyeth",
+    "date": "1948",
+    "source": {
+      "url": "https://uploads1.wikiart.org/images/andrew-wyeth/christina-s-world.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 3/5, puntuación 45)"
+  },
+  {
+    "id": "monet-saintlazare",
+    "title": "La estación de Saint-Lazare",
+    "artist": "Claude Monet",
+    "date": "1877",
+    "source": {
+      "commons": "File:Claude Monet - The Saint-Lazare Station - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "monet-urraca",
+    "title": "La urraca",
+    "artist": "Claude Monet",
+    "date": "c. 1869",
+    "source": {
+      "commons": "File:Claude Monet - The Magpie - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "monet-impresion",
+    "title": "Impresión, sol naciente",
+    "artist": "Claude Monet",
+    "date": "1872",
+    "source": {
+      "commons": "File:Monet - Impression, Sunrise.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 1/5, puntuación 16)"
+  },
+  {
+    "id": "monet-sombrilla",
+    "title": "Mujer con sombrilla",
+    "artist": "Claude Monet",
+    "date": "1875",
+    "source": {
+      "commons": "File:Claude Monet - Woman with a Parasol - Madame Monet and Her Son - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.25
+    ],
+    "note": "puntuación 35 (<50): vertical, pierde mucho en apaisado"
+  },
+  {
+    "id": "manet-almuerzo",
+    "title": "Almuerzo sobre la hierba",
+    "artist": "Édouard Manet",
+    "date": "1863",
+    "source": {
+      "commons": "File:Edouard Manet - Luncheon on the Grass - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "manet-olympia",
+    "title": "Olympia",
+    "artist": "Édouard Manet",
+    "date": "1863",
+    "source": {
+      "commons": "File:Edouard Manet - Olympia - Google Art Project 2.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "manet-folies",
+    "title": "Un bar del Folies-Bergère",
+    "artist": "Édouard Manet",
+    "date": "1882",
+    "source": {
+      "commons": "File:\"Un Bar aux Folies-Bergère\" by Édouard Manet (1882).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "degas-clase",
+    "title": "La clase de danza",
+    "artist": "Edgar Degas",
+    "date": "c. 1874",
+    "source": {
+      "commons": "File:Edgar Degas - The Ballet Class - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "degas-absenta",
+    "title": "La absenta",
+    "artist": "Edgar Degas",
+    "date": "1876",
+    "source": {
+      "commons": "File:Edgar Degas - In a Café - Google Art Project 2.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.15
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "degas-barra",
+    "title": "Bailarinas en la barra",
+    "artist": "Edgar Degas",
+    "date": "c. 1888",
+    "source": {
+      "commons": "File:Dancers Practicing at the Barre MET DT840.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "renoir-galette",
+    "title": "Baile en el Moulin de la Galette",
+    "artist": "Pierre-Auguste Renoir",
+    "date": "1876",
+    "source": {
+      "commons": "File:Auguste Renoir - Dance at Le Moulin de la Galette - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "renoir-remeros",
+    "title": "El almuerzo de los remeros",
+    "artist": "Pierre-Auguste Renoir",
+    "date": "1881",
+    "source": {
+      "commons": "File:Pierre-Auguste Renoir - Luncheon of the Boating Party - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "caillebotte-lluvia",
+    "title": "Calle de París, día lluvioso",
+    "artist": "Gustave Caillebotte",
+    "date": "1877",
+    "source": {
+      "commons": "File:Gustave Caillebotte - Paris Street; Rainy Day - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "caillebotte-acuchilladores",
+    "title": "Los acuchilladores de parqué",
+    "artist": "Gustave Caillebotte",
+    "date": "1875",
+    "source": {
+      "commons": "File:Gustave Caillebotte-Floor-scrapers (1876).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "caillebotte-europa",
+    "title": "El puente de Europa",
+    "artist": "Gustave Caillebotte",
+    "date": "1876",
+    "source": {
+      "commons": "File:G. Caillebotte - Le pont de l'Europe.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "pissarro-noche",
+    "title": "Boulevard Montmartre de noche",
+    "artist": "Camille Pissarro",
+    "date": "1897",
+    "source": {
+      "commons": "File:Camille Pissarro - Boulevard Montmartre at Night - c 1897 - National Gallery UK.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 37)"
+  },
+  {
+    "id": "pissarro-invierno",
+    "title": "Boulevard Montmartre, mañana de invierno",
+    "artist": "Camille Pissarro",
+    "date": "1897",
+    "source": {
+      "commons": "File:The Boulevard Montmartre on a Winter Morning MET DT1906.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "sisley-inundacion",
+    "title": "La inundación en Port-Marly",
+    "artist": "Alfred Sisley",
+    "date": "1876",
+    "source": {
+      "commons": "File:Alfred Sisley - Boat in the Flood at Port Marly - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "morisot-cuna",
+    "title": "La cuna",
+    "artist": "Berthe Morisot",
+    "date": "1872",
+    "source": {
+      "commons": "File:Berthe Morisot - The Cradle - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "cassatt-bano",
+    "title": "El baño",
+    "artist": "Mary Cassatt",
+    "date": "1893",
+    "source": {
+      "commons": "File:Mary Cassatt - The Child's Bath - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.1
+    ],
+    "note": "revisión e-ink: el recorte apaisado pierde demasiado (vista 2/5, puntuación 35)"
+  },
+  {
+    "id": "whistler-madre",
+    "title": "Composición en gris y negro (La madre del artista)",
+    "artist": "James McNeill Whistler",
+    "date": "1871",
+    "source": {
+      "commons": "File:Whistlers Mother high res.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "sargent-jaleo",
+    "title": "El Jaleo",
+    "artist": "John Singer Sargent",
+    "date": "1882",
+    "source": {
+      "commons": "File:John Singer Sargent - El Jaleo.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "sargent-boit",
+    "title": "Las hijas de Edward Darley Boit",
+    "artist": "John Singer Sargent",
+    "date": "1882",
+    "source": {
+      "commons": "File:John Singer Sargent, Les Filles d'Edward Darley Boit.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "sorolla-paseo",
+    "title": "Paseo a orillas del mar",
+    "artist": "Joaquín Sorolla",
+    "date": "1909",
+    "source": {
+      "commons": "File:Joaquín Sorolla y Bastida - Strolling along the Seashore - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "crop": [
+      0.5,
+      0.1
+    ]
+  },
+  {
+    "id": "sorolla-ninos",
+    "title": "Niños en la playa",
+    "artist": "Joaquín Sorolla",
+    "date": "1910",
+    "source": {
+      "commons": "File:Joaquín Sorolla - Chicos en la playa.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 24)"
+  },
+  {
+    "id": "vangogh-noche",
+    "title": "La noche estrellada",
+    "artist": "Vincent van Gogh",
+    "date": "1889",
+    "source": {
+      "commons": "File:Van Gogh - Starry Night - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 3/5, puntuación 41)"
+  },
+  {
+    "id": "vangogh-patatas",
+    "title": "Los comedores de patatas",
+    "artist": "Vincent van Gogh",
+    "date": "1885",
+    "source": {
+      "commons": "File:Vincent van Gogh - The potato eaters - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "vangogh-rodano",
+    "title": "Noche estrellada sobre el Ródano",
+    "artist": "Vincent van Gogh",
+    "date": "1888",
+    "source": {
+      "commons": "File:Vincent van Gogh - Starry Night - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 36)"
+  },
+  {
+    "id": "vangogh-cuervos",
+    "title": "Campo de trigo con cuervos",
+    "artist": "Vincent van Gogh",
+    "date": "1890",
+    "source": {
+      "commons": "File:Korenveld met kraaien - s0149V1962 - Van Gogh Museum.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 22)"
+  },
+  {
+    "id": "vangogh-terraza",
+    "title": "Terraza de café por la noche",
+    "artist": "Vincent van Gogh",
+    "date": "1888",
+    "source": {
+      "commons": "File:Van Gogh - Terrasse des Cafés an der Place du Forum in Arles am Abend1.jpeg"
+    },
+    "status": "rejected",
+    "note": "puntuación 49 (<50): vertical, pierde mucho en apaisado"
+  },
+  {
+    "id": "vangogh-autorretrato",
+    "title": "Autorretrato",
+    "artist": "Vincent van Gogh",
+    "date": "1889",
+    "source": {
+      "commons": "File:Vincent van Gogh - Self-Portrait - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: poco contraste, queda gris y plano (vista 3/5, puntuación 29)"
+  },
+  {
+    "id": "seurat-jatte",
+    "title": "Tarde de domingo en la isla de la Grande Jatte",
+    "artist": "Georges Seurat",
+    "date": "1886",
+    "source": {
+      "commons": "File:Georges Seurat - A Sunday on La Grande Jatte -- 1884 - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 3/5, puntuación 39)"
+  },
+  {
+    "id": "seurat-asnieres",
+    "title": "Bañistas en Asnières",
+    "artist": "Georges Seurat",
+    "date": "1884",
+    "source": {
+      "commons": "File:Baigneurs a Asnieres.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 35)"
+  },
+  {
+    "id": "seurat-amanjean",
+    "title": "Aman-Jean",
+    "artist": "Georges Seurat",
+    "date": "1883",
+    "source": {
+      "commons": "File:Aman-Jean (Portrait of Edmond François Aman-Jean) MET DP158522.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.3
+    ],
+    "note": "revisión e-ink: poco contraste, queda gris y plano (vista 3/5, puntuación 42)"
+  },
+  {
+    "id": "cezanne-jugadores",
+    "title": "Los jugadores de cartas",
+    "artist": "Paul Cézanne",
+    "date": "c. 1895",
+    "source": {
+      "commons": "File:Les Joueurs de cartes, par Paul Cézanne.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 3/5, puntuación 48)"
+  },
+  {
+    "id": "cezanne-victoire",
+    "title": "La montaña Sainte-Victoire",
+    "artist": "Paul Cézanne",
+    "date": "1904",
+    "source": {
+      "commons": "File:Paul Cézanne, Mont Sainte-Victoire.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.00 < 3.5 (opus 2, sonnet 2/2)"
+  },
+  {
+    "id": "cezanne-banistas",
+    "title": "Las grandes bañistas",
+    "artist": "Paul Cézanne",
+    "date": "1906",
+    "source": {
+      "commons": "File:Paul Cézanne, French - The Large Bathers - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: casi todo en grises medios, sin masas claras (vista 2/5, puntuación 45)"
+  },
+  {
+    "id": "cezanne-manzanas",
+    "title": "Bodegón con manzanas",
+    "artist": "Paul Cézanne",
+    "date": "c. 1895",
+    "source": {
+      "commons": "File:WLA moma Paul Czanne Still Life with Apples.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.15,
+      0.17,
+      0.135,
+      0.15
+    ],
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "gauguin-donde",
+    "title": "¿De dónde venimos? ¿Qué somos? ¿Adónde vamos?",
+    "artist": "Paul Gauguin",
+    "date": "1897",
+    "source": {
+      "commons": "File:Gauguin - Where Do We Come From? What Are We? Where Are We Going? (1897-98).jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 6)"
+  },
+  {
+    "id": "gauguin-vision",
+    "title": "La visión después del sermón",
+    "artist": "Paul Gauguin",
+    "date": "1888",
+    "source": {
+      "commons": "File:La vision après le sermon (Paul Gauguin).jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 47)"
+  },
+  {
+    "id": "lautrec-moulinrouge",
+    "title": "En el Moulin Rouge",
+    "artist": "Henri de Toulouse-Lautrec",
+    "date": "1892",
+    "source": {
+      "commons": "File:Henri de Toulouse-Lautrec - At the Moulin Rouge - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 17)"
+  },
+  {
+    "id": "rousseau-gitana",
+    "title": "La gitana dormida",
+    "artist": "Henri Rousseau",
+    "date": "1897",
+    "source": {
+      "commons": "File:La Bohémienne endormie.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 3/5, puntuación 40)"
+  },
+  {
+    "id": "rousseau-sorprendido",
+    "title": "¡Sorprendido!",
+    "artist": "Henri Rousseau",
+    "date": "1891",
+    "source": {
+      "commons": "File:Henri Rousseau - Surprise!.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 40)"
+  },
+  {
+    "id": "rousseau-sueno",
+    "title": "El sueño",
+    "artist": "Henri Rousseau",
+    "date": "1910",
+    "source": {
+      "commons": "File:Henri Rousseau - Le Rêve - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: pincelada y textura que en tinta electrónica se vuelven ruido (vista 3/5, puntuación 49)"
+  },
+  {
+    "id": "vuillard-interior",
+    "title": "Interior, madre y hermana del artista",
+    "artist": "Édouard Vuillard",
+    "date": "1893",
+    "source": {
+      "commons": "File:Vuillard - Interior, Mother and Sister of the Artist 1893.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "vangogh-sembrador",
+    "title": "El sembrador",
+    "artist": "Vincent van Gogh",
+    "date": "1888",
+    "source": {
+      "commons": "File:Sower at Sunset - Vincent Van Gogh.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 1/5, puntuación 10)"
+  },
+  {
+    "id": "cezanne-calaveras",
+    "title": "Pirámide de calaveras",
+    "artist": "Paul Cézanne",
+    "date": "c. 1901",
+    "source": {
+      "commons": "File:Pyramide de crânes, par Paul Cézanne, Yorck.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "vangogh-almendro",
+    "title": "Almendro en flor",
+    "artist": "Vincent van Gogh",
+    "date": "1890",
+    "source": {
+      "commons": "File:Amandelbloesem - s0176V1962 - Van Gogh Museum.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 14)"
+  },
+  {
+    "id": "bonnard-comedor",
+    "title": "El comedor en el campo",
+    "artist": "Pierre Bonnard",
+    "date": "1913",
+    "source": {
+      "commons": "File:The dining room in the country by Pierre Bonnard (1913).jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 48)"
+  },
+  {
+    "id": "bocklin-isla",
+    "title": "La isla de los muertos",
+    "artist": "Arnold Böcklin",
+    "date": "1880",
+    "source": {
+      "commons": "File:Arnold Böcklin - Die Toteninsel I (Basel, Kunstmuseum).jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: poco contraste, queda gris y plano (vista 3/5, puntuación 40)"
+  },
+  {
+    "id": "klimt-beso",
+    "title": "El beso",
+    "artist": "Gustav Klimt",
+    "date": "1908",
+    "source": {
+      "commons": "File:The Kiss - Gustav Klimt - Google Cultural Institute.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.25
+    ],
+    "note": "puntuación 37 (<50): vertical, pierde mucho en apaisado"
+  },
+  {
+    "id": "klimt-beethoven",
+    "title": "Friso de Beethoven",
+    "artist": "Gustav Klimt",
+    "date": "1902",
+    "source": {
+      "commons": "File:Klimt - Beethovenfries - Mittelwand.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: el recorte apaisado pierde demasiado (vista 2/5, puntuación 38)"
+  },
+  {
+    "id": "klimt-judith",
+    "title": "Judith I",
+    "artist": "Gustav Klimt",
+    "date": "1901",
+    "source": {
+      "commons": "File:Judith 1.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: el recorte apaisado pierde demasiado (vista 2/5, puntuación 31)"
+  },
+  {
+    "id": "waterhouse-shalott",
+    "title": "La dama de Shalott",
+    "artist": "John William Waterhouse",
+    "date": "1888",
+    "source": {
+      "commons": "File:John William Waterhouse - The Lady of Shalott - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "burnejones-escalera",
+    "title": "La escalera dorada",
+    "artist": "Edward Burne-Jones",
+    "date": "1880",
+    "source": {
+      "commons": "File:Edward coley burne-jones, the golden stairs, 1880.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.13,
+      0.075,
+      0.105,
+      0.085
+    ],
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "rossetti-beatrix",
+    "title": "Beata Beatrix",
+    "artist": "Dante Gabriel Rossetti",
+    "date": "c. 1870",
+    "source": {
+      "commons": "File:Dante Gabriel Rossetti - Beata Beatrix - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 32 (<50): vertical, pierde mucho en apaisado"
+  },
+  {
+    "id": "puvis-pescador",
+    "title": "El pobre pescador",
+    "artist": "Pierre Puvis de Chavannes",
+    "date": "1881",
+    "source": {
+      "commons": "File:Pierre Puvis de Chavannes - The Poor Fisherman - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "puvis-bosque",
+    "title": "El bosque sagrado",
+    "artist": "Pierre Puvis de Chavannes",
+    "date": "1884",
+    "source": {
+      "commons": "File:Pierre Puvis de Chavannes - The Sacred Grove, Beloved of the Arts and the Muses - 1922.445 - Art Institute of Chicago.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "moreau-aparicion",
+    "title": "La aparición",
+    "artist": "Gustave Moreau",
+    "date": "1876",
+    "source": {
+      "commons": "File:Gustave Moreau - The Apparition - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "khnopff-caricias",
+    "title": "Las caricias",
+    "artist": "Fernand Khnopff",
+    "date": "1896",
+    "source": {
+      "commons": "File:Fernand Khnopff - Caresses - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.15,
+      0.5
+    ],
+    "note": "revisión e-ink: el recorte apaisado pierde demasiado (vista 3/5, puntuación 49)"
+  },
+  {
+    "id": "hodler-ginebra",
+    "title": "El lago de Ginebra desde Chexbres",
+    "artist": "Ferdinand Hodler",
+    "date": "1905",
+    "source": {
+      "commons": "File:Ferdinand Hodler - Der Genfersee von Chexbres aus.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 26)"
+  },
+  {
+    "id": "hammershoi-piano",
+    "title": "Interior con mujer al piano",
+    "artist": "Vilhelm Hammershøi",
+    "date": "1901",
+    "source": {
+      "commons": "File:Vilhelm Hammershøi, Stue med kvinde ved klaver, Strandgade 30, 1901.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.5
+    ],
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "hammershoi-polvo",
+    "title": "Rayos de sol (Polvo bailando)",
+    "artist": "Vilhelm Hammershøi",
+    "date": "1900",
+    "source": {
+      "commons": "File:Hammershøi Dust motes dancing.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: poco contraste, queda gris y plano (vista 3/5, puntuación 46)"
+  },
+  {
+    "id": "hammershoi-strandgade",
+    "title": "Interior, Strandgade 30",
+    "artist": "Vilhelm Hammershøi",
+    "date": "1901",
+    "source": {
+      "commons": "File:Vilhelm Hammershøi, Interiør fra Strandgade 30, 1900.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "whistler-cohete",
+    "title": "Nocturno en negro y oro: el cohete cayendo",
+    "artist": "James McNeill Whistler",
+    "date": "1875",
+    "source": {
+      "commons": "File:Whistler-Nocturne in black and gold.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: poco contraste, queda gris y plano (vista 2/5, puntuación 34)"
+  },
+  {
+    "id": "mucha-estaciones",
+    "title": "Las estaciones",
+    "artist": "Alfons Mucha",
+    "date": "1896",
+    "source": {
+      "commons": "File:Alfons Mucha - The Seasons, 1896.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.25 < 3.5 (opus 2, sonnet 2/3)"
+  },
+  {
+    "id": "mucha-job",
+    "title": "Job",
+    "artist": "Alfons Mucha",
+    "date": "1896",
+    "source": {
+      "commons": "File:Alphonse Mucha - Job - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "romero-fuensanta",
+    "title": "La Fuensanta",
+    "artist": "Julio Romero de Torres",
+    "date": "1929",
+    "source": {
+      "commons": "File:La Fuensanta, by Julio Romero de Torres.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: poco contraste, queda gris y plano (vista 2/5, puntuación 32)"
+  },
+  {
+    "id": "segantini-madres",
+    "title": "Las dos madres",
+    "artist": "Giovanni Segantini",
+    "date": "1889",
+    "source": {
+      "commons": "File:Segantini - The Two Mothers, 1884-1886, hwm0304.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "mucha-gismonda",
+    "title": "Gismonda",
+    "artist": "Alfons Mucha",
+    "date": "1894",
+    "source": {
+      "commons": "File:Alphonse Mucha - Poster for Victorien Sardou's Gismonda starring Sarah Bernhardt - Original.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.1
+    ],
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 39)"
+  },
+  {
+    "id": "munch-grito",
+    "title": "El grito",
+    "artist": "Edvard Munch",
+    "date": "1893",
+    "source": {
+      "commons": "File:Edvard Munch, 1893, The Scream, oil, tempera and pastel on cardboard, 91 x 73 cm, National Gallery of Norway.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 36 (<50): vertical, pierde mucho en apaisado"
+  },
+  {
+    "id": "munch-melancolia",
+    "title": "Melancolía",
+    "artist": "Edvard Munch",
+    "date": "1894",
+    "source": {
+      "commons": "File:Edvard Munch - Melancholy (1894-96) KODE.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "munch-ansiedad",
+    "title": "Ansiedad",
+    "artist": "Edvard Munch",
+    "date": "1894",
+    "source": {
+      "commons": "File:Edvard Munch - Anxiety - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 47 (<50): vertical, pierde mucho en apaisado"
+  },
+  {
+    "id": "munch-danza",
+    "title": "La danza de la vida",
+    "artist": "Edvard Munch",
+    "date": "1900",
+    "source": {
+      "commons": "File:Edvard Munch - The Dance of Life - NG.M.00941 - National Museum of Art, Architecture and Design.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 3/5, puntuación 45)"
+  },
+  {
+    "id": "munch-noche",
+    "title": "Noche estrellada",
+    "artist": "Edvard Munch",
+    "date": "1893",
+    "source": {
+      "commons": "File:Edvard Munch - Starry Night (1893 Getty).jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 29)"
+  },
+  {
+    "id": "munch-vampiro",
+    "title": "Vampiro",
+    "artist": "Edvard Munch",
+    "date": "1895",
+    "source": {
+      "commons": "File:Edvard Munch - Vampire (1895) - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 18)"
+  },
+  {
+    "id": "kirchner-calle",
+    "title": "Calle, Berlín",
+    "artist": "Ernst Ludwig Kirchner",
+    "date": "1913",
+    "source": {
+      "commons": "File:Ernst Ludwig Kirchner, 1913, Street, Berlin, oil on canvas, 120.6 x 91.1 cm, MoMA.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.15
+    ],
+    "note": "revisión e-ink: el recorte apaisado pierde demasiado (vista 2/5, puntuación 41)"
+  },
+  {
+    "id": "kirchner-escena",
+    "title": "Escena callejera de Berlín",
+    "artist": "Ernst Ludwig Kirchner",
+    "date": "1913",
+    "source": {
+      "commons": "File:Kirchner Berlin Street Scene 1913.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.15
+    ],
+    "note": "puntuación 48 (<50): vertical, pierde mucho en apaisado"
+  },
+  {
+    "id": "schiele-ciudad",
+    "title": "Ciudad muerta",
+    "artist": "Egon Schiele",
+    "date": "1911",
+    "source": {
+      "commons": "File:Egon Schiele - Dead City III (City on the Blue River III) - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: el recorte apaisado pierde demasiado (vista 3/5, puntuación 45)"
+  },
+  {
+    "id": "schiele-casas",
+    "title": "Casas junto al río",
+    "artist": "Egon Schiele",
+    "date": "1914",
+    "source": {
+      "commons": "File:Houses on the River (The Old Town) (1914).jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "schiele-autorretrato",
+    "title": "Autorretrato con cabeza baja",
+    "artist": "Egon Schiele",
+    "date": "1912",
+    "source": {
+      "commons": "File:Egon Schiele - Self-Portrait with Lowered Head - Google Art Project.jpg"
+    },
+    "status": "approved",
+    "crop": [
+      0.5,
+      0.1
+    ]
+  },
+  {
+    "id": "marc-destino",
+    "title": "El destino de los animales",
+    "artist": "Franz Marc",
+    "date": "1913",
+    "source": {
+      "commons": "File:Marc - Tierschicksale (Die Bäume zeigten ihre Ringe, die Tiere ihre Adern), 1913, Inv. 1739.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 1/5, puntuación 17)"
+  },
+  {
+    "id": "marc-tigre",
+    "title": "El tigre",
+    "artist": "Franz Marc",
+    "date": "1912",
+    "source": {
+      "commons": "File:Marc, Franz - The Tiger - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.2
+    ],
+    "note": "puntuación 47 (<50): vertical, pierde mucho en apaisado"
+  },
+  {
+    "id": "modersohn-autorretrato",
+    "title": "Autorretrato en el sexto aniversario de boda",
+    "artist": "Paula Modersohn-Becker",
+    "date": "1906",
+    "source": {
+      "commons": "File:Paula Moderson-Becker - Selbstbildnis am 6 Hochzeitstag (1906).jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.0
+    ],
+    "note": "puntuación 47 (<50): vertical, pierde mucho en apaisado"
+  },
+  {
+    "id": "schiele-abrazo",
+    "title": "El abrazo",
+    "artist": "Egon Schiele",
+    "date": "1917",
+    "source": {
+      "commons": "File:Egon Schiele - Die Umarmung - 4438 - Österreichische Galerie Belvedere.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "kandinsky-jinete",
+    "title": "El jinete azul",
+    "artist": "Wassily Kandinsky",
+    "date": "1903",
+    "source": {
+      "commons": "File:Wassily Kandinsky, 1903, The Blue Rider (Der Blaue Reiter), oil on canvas, 52.1 x 54.6 cm, Stiftung Sammlung E.G. Bührle, Zurich.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 1/5, puntuación 24)"
+  },
+  {
+    "id": "kandinsky-composicion",
+    "title": "Composición VIII",
+    "artist": "Wassily Kandinsky",
+    "date": "1923",
+    "source": {
+      "commons": "File:Kandinsky - Composition 8, July 1923.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "kokoschka-novia",
+    "title": "La novia del viento",
+    "artist": "Oskar Kokoschka",
+    "date": "1914",
+    "source": {
+      "url": "https://uploads0.wikiart.org/images/oskar-kokoschka/bride-of-the-wind-1914.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "ensor-cristo",
+    "title": "La entrada de Cristo en Bruselas",
+    "artist": "James Ensor",
+    "date": "1889",
+    "source": {
+      "commons": "File:Christ's Entry into Brussels in 1889.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 26)"
+  },
+  {
+    "id": "beckmann-noche",
+    "title": "La noche",
+    "artist": "Max Beckmann",
+    "date": "1919",
+    "source": {
+      "commons": "File:1918 Beckmann Nacht anagoria.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "picasso-guernica",
+    "title": "Guernica",
+    "artist": "Pablo Picasso",
+    "date": "1937",
+    "source": {
+      "url": "https://uploads0.wikiart.org/00139/images/pablo-picasso/guernica-by-pablo-picasso.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "picasso-avignon",
+    "title": "Las señoritas de Avignon",
+    "artist": "Pablo Picasso",
+    "date": "1907",
+    "source": {
+      "url": "https://uploads2.wikiart.org/00492/images/pablo-picasso/les-demoiselles-d-avignon-1907.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 34)"
+  },
+  {
+    "id": "picasso-musicos",
+    "title": "Los tres músicos",
+    "artist": "Pablo Picasso",
+    "date": "1921",
+    "source": {
+      "url": "https://uploads1.wikiart.org/images/pablo-picasso/musicians-with-masks-1921.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 3/5, puntuación 44)"
+  },
+  {
+    "id": "picasso-guitarrista",
+    "title": "El viejo guitarrista ciego",
+    "artist": "Pablo Picasso",
+    "date": "1903",
+    "source": {
+      "url": "https://uploads2.wikiart.org/00198/images/pablo-picasso/old-guitarist-chicago.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.0
+    ],
+    "note": "revisión e-ink: el recorte apaisado pierde demasiado (vista 2/5, puntuación 42)"
+  },
+  {
+    "id": "picasso-saltimbanquis",
+    "title": "Familia de saltimbanquis",
+    "artist": "Pablo Picasso",
+    "date": "1905",
+    "source": {
+      "url": "https://uploads8.wikiart.org/images/pablo-picasso/family-of-acrobats-jugglers-1905.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "picasso-stein",
+    "title": "Retrato de Gertrude Stein",
+    "artist": "Pablo Picasso",
+    "date": "1906",
+    "source": {
+      "url": "https://uploads7.wikiart.org/images/pablo-picasso/portrait-of-gertrude-stein-1906.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: poco contraste, queda gris y plano (vista 2/5, puntuación 33)"
+  },
+  {
+    "id": "gris-picasso",
+    "title": "Retrato de Picasso",
+    "artist": "Juan Gris",
+    "date": "1912",
+    "source": {
+      "commons": "File:Juan Gris - Portrait of Pablo Picasso - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "gris-ravignan",
+    "title": "Bodegón ante una ventana abierta, Place Ravignan",
+    "artist": "Juan Gris",
+    "date": "1915",
+    "source": {
+      "commons": "File:Juan Gris (José Victoriano González Pérez), Spanish - Still Life before an Open Window, Place Ravignan - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: el recorte apaisado pierde demasiado (vista 3/5, puntuación 47)"
+  },
+  {
+    "id": "leger-ciudad",
+    "title": "La ciudad",
+    "artist": "Fernand Léger",
+    "date": "1919",
+    "source": {
+      "commons": "File:La Ville (Fernand Léger).jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.09,
+      0.045,
+      0.05,
+      0.08
+    ]
+  },
+  {
+    "id": "duchamp-desnudo",
+    "title": "Desnudo bajando una escalera nº 2",
+    "artist": "Marcel Duchamp",
+    "date": "1912",
+    "source": {
+      "url": "https://uploads5.wikiart.org/00475/images/marcel-duchamp/nude-descending-a-staircase-no-2-marcel-duchamp-1912.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "blanchard-abanico",
+    "title": "Mujer con abanico",
+    "artist": "María Blanchard",
+    "date": "1916",
+    "source": {
+      "commons": "File:Woman with a Fan, by Maria Blanchard, 1916, oil on canvas - Museo Nacional Centro de Arte Reina Sofía - Madrid, Spain - DSC08510.JPG"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.1
+    ],
+    "note": "revisión e-ink: el recorte apaisado pierde demasiado (vista 2/5, puntuación 43)"
+  },
+  {
+    "id": "dali-memoria",
+    "title": "La persistencia de la memoria",
+    "artist": "Salvador Dalí",
+    "date": "1931",
+    "source": {
+      "url": "https://uploads1.wikiart.org/00475/images/salvador-dali/w1siziisijm4njq3mcjdlfsiccisimnvbnzlcnqilcitcxvhbgl0esa5mcatcmvzaxplidiwmdb4mjawmfx1mdazzsjdxq.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dali-cisnes",
+    "title": "Cisnes que se reflejan como elefantes",
+    "artist": "Salvador Dalí",
+    "date": "1937",
+    "source": {
+      "url": "https://uploads6.wikiart.org/images/salvador-dali/cygnes-refletant-des-elephants.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dali-elefantes",
+    "title": "Los elefantes",
+    "artist": "Salvador Dalí",
+    "date": "1948",
+    "source": {
+      "url": "https://uploads4.wikiart.org/images/salvador-dali/the-elephants-large.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 2/5, puntuación 13)"
+  },
+  {
+    "id": "dali-judias",
+    "title": "Construcción blanda con judías hervidas",
+    "artist": "Salvador Dalí",
+    "date": "1936",
+    "source": {
+      "url": "https://uploads3.wikiart.org/images/salvador-dali/soft-construction-with-boiled-beans-premonition-of-civil-war(1).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "dali-cristo",
+    "title": "Cristo de san Juan de la Cruz",
+    "artist": "Salvador Dalí",
+    "date": "1951",
+    "source": {
+      "url": "https://uploads8.wikiart.org/00475/images/salvador-dali/christ-of-saint-john-of-the-cross-1951.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 32 (<50): vertical, pierde mucho en apaisado"
+  },
+  {
+    "id": "dali-abeja",
+    "title": "Sueño causado por el vuelo de una abeja",
+    "artist": "Salvador Dalí",
+    "date": "1944",
+    "source": {
+      "url": "https://uploads3.wikiart.org/00183/images/salvador-dali/624-1.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: el recorte apaisado pierde demasiado (vista 3/5, puntuación 39)"
+  },
+  {
+    "id": "magritte-imperio",
+    "title": "El imperio de las luces",
+    "artist": "René Magritte",
+    "date": "1954",
+    "source": {
+      "url": "https://uploads4.wikiart.org/images/rene-magritte/the-empire-of-lights-1954(1).jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.6
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 2, sonnet 4/4)"
+  },
+  {
+    "id": "magritte-pipa",
+    "title": "La traición de las imágenes",
+    "artist": "René Magritte",
+    "date": "1929",
+    "source": {
+      "url": "https://uploads8.wikiart.org/images/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948(2).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "magritte-golconda",
+    "title": "Golconda",
+    "artist": "René Magritte",
+    "date": "1953",
+    "source": {
+      "url": "https://uploads1.wikiart.org/images/rene-magritte/gonconda-1953(1).jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.02,
+      0.02,
+      0.07,
+      0.02
+    ]
+  },
+  {
+    "id": "magritte-amantes",
+    "title": "Los amantes",
+    "artist": "René Magritte",
+    "date": "1928",
+    "source": {
+      "url": "https://uploads3.wikiart.org/images/rene-magritte/the-lovers-1928(1).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "magritte-hijo",
+    "title": "El hijo del hombre",
+    "artist": "René Magritte",
+    "date": "1964",
+    "source": {
+      "url": "https://uploads3.wikiart.org/images/rene-magritte/son-of-man-1964(1).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "magritte-condicion",
+    "title": "La condición humana",
+    "artist": "René Magritte",
+    "date": "1933",
+    "source": {
+      "url": "https://uploads3.wikiart.org/images/rene-magritte/the-human-condition-1933(1).jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "ernst-celebes",
+    "title": "El elefante Célebes",
+    "artist": "Max Ernst",
+    "date": "1921",
+    "source": {
+      "url": "https://uploads6.wikiart.org/images/max-ernst/the-elephant-celebes-1921.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "ernst-ciudad",
+    "title": "La ciudad entera",
+    "artist": "Max Ernst",
+    "date": "1935",
+    "source": {
+      "url": "https://uploads1.wikiart.org/images/max-ernst/the-entire-city-1935.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: depende del color, en grises se empasta (vista 3/5, puntuación 37)"
+  },
+  {
+    "id": "miro-arlequin",
+    "title": "El carnaval de Arlequín",
+    "artist": "Joan Miró",
+    "date": "1925",
+    "source": {
+      "url": "https://uploads6.wikiart.org/images/joan-miro/harlequin-s-carnival-1925.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "kahlo-fridas",
+    "title": "Las dos Fridas",
+    "artist": "Frida Kahlo",
+    "date": "1939",
+    "source": {
+      "url": "https://uploads5.wikiart.org/images/magdalena-carmen-frieda-kahlo-y-calderón-de-rivera/the-two-fridas-1939.jpg"
+    },
+    "status": "approved",
+    "crop": [
+      0.5,
+      0.0
+    ]
+  },
+  {
+    "id": "delvaux-venus",
+    "title": "Venus dormida",
+    "artist": "Paul Delvaux",
+    "date": "1944",
+    "source": {
+      "url": "https://uploads7.wikiart.org/images/paul-delvaux/the-sleeping-venus-1944.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "whistler-southampton",
+    "title": "Nocturno: azul y oro, Southampton Water",
+    "artist": "James McNeill Whistler",
+    "date": "1872",
+    "source": {
+      "aic": "50034c7f-ce51-00f1-430e-a6f7efc233fc"
+    },
+    "status": "rejected",
+    "note": "puntuación 27 < 50"
+  },
+  {
+    "id": "whistler-mar-profundo",
+    "title": "Violeta y plata: el mar profundo",
+    "artist": "James McNeill Whistler",
+    "date": "1893",
+    "source": {
+      "aic": "5f663d6c-0121-a8ca-e875-896d9857a3f3"
+    },
+    "status": "rejected",
+    "note": "puntuación 40 < 50"
+  },
+  {
+    "id": "ryder-canal",
+    "title": "El canal de Essex",
+    "artist": "Albert Pinkham Ryder",
+    "date": "c. 1896",
+    "source": {
+      "aic": "1f1931d1-06f4-c005-a75d-1a0b12470d92"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 1.50 < 3.5 (opus 1, sonnet 2/2)"
+  },
+  {
+    "id": "blakelock-danza",
+    "title": "La danza de los espíritus",
+    "artist": "Ralph Albert Blakelock",
+    "date": "1895-97",
+    "source": {
+      "aic": "9eb5693e-eeea-b2cd-a021-18628daf6182"
+    },
+    "status": "rejected",
+    "note": "puntuación 36 < 50"
+  },
+  {
+    "id": "inness-tormenta",
+    "title": "La tormenta",
+    "artist": "George Inness",
+    "date": "1876",
+    "source": {
+      "aic": "05dcffe0-97a9-cd59-df71-73731a5dbd9f"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "pissarro-louveciennes",
+    "title": "Nieve en Louveciennes",
+    "artist": "Camille Pissarro",
+    "date": "c. 1870",
+    "source": {
+      "aic": "d4e43d76-594b-ce65-c1a3-45c865624f70"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "monet-waterloo",
+    "title": "Puente de Waterloo, tiempo gris",
+    "artist": "Claude Monet",
+    "date": "1900",
+    "source": {
+      "aic": "6f61a6fc-dcd8-e801-0ad8-5f7e561d91b6"
+    },
+    "status": "rejected",
+    "note": "puntuación 35 < 50"
+  },
+  {
+    "id": "gallenkallela-adastra",
+    "title": "Ad Astra",
+    "artist": "Akseli Gallen-Kallela",
+    "date": "1894-96",
+    "source": {
+      "aic": "585675bb-6b89-3c49-eb28-4bc4b2bbe500"
+    },
+    "status": "rejected",
+    "note": "puntuación 48 < 50"
+  },
+  {
+    "id": "diaz-paisaje-figuras",
+    "title": "Paisaje con figuras",
+    "artist": "Narcisse Virgile Díaz de la Peña",
+    "date": "c. 1870",
+    "source": {
+      "aic": "ad3280c6-611a-c136-29b8-8f303a02f416"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "lepine-sena",
+    "title": "Vista del Sena, París",
+    "artist": "Stanislas Lépine",
+    "date": "c. 1872",
+    "source": {
+      "aic": "3b901b0a-b8a8-7299-1851-c25116dfa116"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "corot-arleux",
+    "title": "Arleux-Palluel, el puente de las citas",
+    "artist": "Camille Corot",
+    "date": "1871-72",
+    "source": {
+      "aic": "2661329a-3c67-6216-82eb-90c755bb42b8"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "bocklin-mar",
+    "title": "En el mar",
+    "artist": "Arnold Böcklin",
+    "date": "1883",
+    "source": {
+      "aic": "fa81bfb9-5a07-5e3c-33b4-4efde68981c8"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "boudin-touques",
+    "title": "El Touques cerca de Deauville",
+    "artist": "Eugène Boudin",
+    "date": "1883",
+    "source": {
+      "aic": "8a55bdea-0087-deb5-01b2-def2d7ba27a8"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.75 < 3.5 (opus 3, sonnet 2/3)"
+  },
+  {
+    "id": "mancini-descanso",
+    "title": "Descanso",
+    "artist": "Antonio Mancini",
+    "date": "c. 1887",
+    "source": {
+      "aic": "f117b976-3897-fbbd-7a1f-ac8a5ccbfa51"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "anonimo-foxriver",
+    "title": "Casas junto al río Fox, Illinois",
+    "artist": "Artista desconocido",
+    "date": "1881-90",
+    "source": {
+      "aic": "fbccf7dc-9251-6d0b-1c4b-ef7a08218f64"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "hartley-nuevainglaterra",
+    "title": "Lo último de Nueva Inglaterra, lo primero de Nuevo México",
+    "artist": "Marsden Hartley",
+    "date": "1918-19",
+    "source": {
+      "aic": "75fc3e47-9b94-5838-25ea-6c24620765d0"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "beliard-calle",
+    "title": "Escena de calle francesa",
+    "artist": "Édouard Béliard",
+    "date": "1873-77",
+    "source": {
+      "aic": "2896c302-ed8e-90a5-9a24-1a306c57f44b"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.75 < 3.5 (opus 3, sonnet 2/3)"
+  },
+  {
+    "id": "twachtman-hielo",
+    "title": "Bloqueado por el hielo",
+    "artist": "John Henry Twachtman",
+    "date": "c. 1889",
+    "source": {
+      "aic": "3ae75415-0551-ae17-c478-3b8687a6f246"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.25 < 3.5 (opus 2, sonnet 2/3)"
+  },
+  {
+    "id": "bellows-invierno",
+    "title": "Amor al invierno",
+    "artist": "George Wesley Bellows",
+    "date": "1914",
+    "source": {
+      "aic": "18ab0c35-e35c-0216-9afd-f93357920db1"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "jarnefelt-invierno",
+    "title": "Paisaje marino en invierno",
+    "artist": "Eero Järnefelt",
+    "date": "1898",
+    "source": {
+      "commons": "File:Järnefelt, Talvinen merimaisema.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "thaulow-invierno",
+    "title": "Invierno noruego",
+    "artist": "Frits Thaulow",
+    "date": "1896",
+    "source": {
+      "commons": "File:Frits Thaulow - Norwegian Winter - NG.M.01243 - National Museum of Art, Architecture and Design.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.00 < 3.5 (opus 2, sonnet 2/2)"
+  },
+  {
+    "id": "kittelsen-patos",
+    "title": "Los doce patos salvajes",
+    "artist": "Theodor Kittelsen",
+    "date": "1897",
+    "source": {
+      "commons": "File:Theodor Kittelsen - The twelve Wild Ducks - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "shishkin-centeno",
+    "title": "Centeno",
+    "artist": "Iván Shishkin",
+    "date": "1878",
+    "source": {
+      "commons": "File:Ivan Ivanovich Shishkin - Rye field, 1878.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "kustodiev-maslenitsa",
+    "title": "Maslenitsa",
+    "artist": "Borís Kustódiev",
+    "date": "1916",
+    "source": {
+      "commons": "File:Maslenitsa kustodiev.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "aivazovsky-tormenta",
+    "title": "Se levanta tormenta en el mar Negro",
+    "artist": "Iván Aivazovski",
+    "date": "1881",
+    "source": {
+      "commons": "File:Иван Константинович Айвазовский - Черное море (на Черном море начинает разыгрываться буря) - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "fattori-barrocci",
+    "title": "Carros romanos",
+    "artist": "Giovanni Fattori",
+    "date": "1872-73",
+    "source": {
+      "commons": "File:Barrocci romani by Giovanni Fattori.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "breitner-damrak",
+    "title": "El Damrak en Ámsterdam",
+    "artist": "George Hendrik Breitner",
+    "date": "c. 1903",
+    "source": {
+      "commons": "File:George Hendrik Breitner - Het Damrak te Amsterdam.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "mondrian-arbol-gris",
+    "title": "El árbol gris",
+    "artist": "Piet Mondrian",
+    "date": "1911",
+    "source": {
+      "commons": "File:Gray Tree 1911.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "ury-lluvia",
+    "title": "Unter den Linden bajo la lluvia",
+    "artist": "Lesser Ury",
+    "date": "1920",
+    "source": {
+      "commons": "File:Lesser Ury - Unter den Linden im Regen (1920).jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "corinth-walchensee",
+    "title": "Walchensee, la serpentina",
+    "artist": "Lovis Corinth",
+    "date": "1920",
+    "source": {
+      "commons": "File:Lovis Corinth Walchensee Serpentine 1920.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "sohlberg-prado",
+    "title": "Prado florido en el norte",
+    "artist": "Harald Sohlberg",
+    "date": "1905",
+    "source": {
+      "commons": "File:Harald Sohlberg - Flower Meadow in the North - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "sohlberg-noche",
+    "title": "Noche de invierno en las montañas",
+    "artist": "Harald Sohlberg",
+    "date": "1914",
+    "source": {
+      "commons": "File:Harald Sohlberg - Winter Night in the Mountains. Rondane - TKM-264-1922 - Trondheim kunstmuseum.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.04,
+      0.04,
+      0.03,
+      0.03
+    ]
+  },
+  {
+    "id": "levitan-reposo",
+    "title": "Sobre el reposo eterno",
+    "artist": "Isaac Levitan",
+    "date": "1894",
+    "source": {
+      "commons": "File:Isaac Levitan - Au-dessus du repos éternel.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "homer-niebla",
+    "title": "Aviso de niebla",
+    "artist": "Winslow Homer",
+    "date": "1885",
+    "source": {
+      "commons": "File:Winslow Homer - The Fog Warning - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "homer-nordeste",
+    "title": "El nordeste",
+    "artist": "Winslow Homer",
+    "date": "1895",
+    "source": {
+      "commons": "File:Northeaster MET DT1545.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "bellows-sharkey",
+    "title": "Una velada en Sharkey's",
+    "artist": "George Wesley Bellows",
+    "date": "1909",
+    "source": {
+      "commons": "File:George Bellows - A Stag at Sharkey's - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hassam-lluvia",
+    "title": "Día de lluvia, Boston",
+    "artist": "Childe Hassam",
+    "date": "1885",
+    "source": {
+      "commons": "File:Childe Hassam - Rainy Day, Boston - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "kroyer-hurra",
+    "title": "¡Hip, hip, hurra! Fiesta de artistas en Skagen",
+    "artist": "Peder Severin Krøyer",
+    "date": "1888",
+    "source": {
+      "commons": "File:Hip, Hip, Hurrah! Artists’ Party, Skagen (Peder Severin Krøyer) - Gothenburg Museum of Art - F 62.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "edelfelt-luxemburgo",
+    "title": "Los jardines de Luxemburgo, París",
+    "artist": "Albert Edelfelt",
+    "date": "1887",
+    "source": {
+      "commons": "File:Albert Edelfelt - The Luxembourg Gardens, Paris.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "nash-totesmeer",
+    "title": "Totes Meer (Mar muerto)",
+    "artist": "Paul Nash",
+    "date": "1940-41",
+    "source": {
+      "commons": "File:Totes Meer (Dead Sea) 1940-1 Paul Nash.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.00 < 3.5 (opus 2, sonnet 2/2)"
+  },
+  {
+    "id": "mccubbin-suerte",
+    "title": "Sin suerte",
+    "artist": "Frederick McCubbin",
+    "date": "1889",
+    "source": {
+      "commons": "File:\"Down on his Luck\" by Frederick McCubbin - Art Gallery of Western Australia - Joy of Museums.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "sloan-mcsorley",
+    "title": "El bar de McSorley",
+    "artist": "John Sloan",
+    "date": "1912",
+    "source": {
+      "commons": "File:McSorley's Bar 1912 John Sloan.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "kuindzhi-abedules",
+    "title": "El bosque de abedules",
+    "artist": "Arjip Kuindzhi",
+    "date": "1879",
+    "source": {
+      "commons": "File:0828Ha. Kuindzhi A.I. Birch Grove, 1879.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  }
+]

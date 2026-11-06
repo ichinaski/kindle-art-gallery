@@ -67,7 +67,8 @@
     "source": {
       "commons": "File:冨嶽三十六景 駿州片倉茶園の不二-Fuji from the Katakura Tea Fields in Suruga (Sunshū Katakura chaen no Fuji), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141048.jpg"
     },
-    "status": "approved"
+    "status": "rejected",
+    "note": "puntuación < 50 (filtro previo del panel ciego)"
   },
   {
     "id": "hokusai-inume",
@@ -87,7 +88,8 @@
     "source": {
       "commons": "File:冨嶽三十六景 東海道金谷の不二-Fuji Seen from Kanaya on the Tōkaidō (Tōkaidō Kanaya no Fuji), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei MET DP141070.jpg"
     },
-    "status": "approved"
+    "status": "rejected",
+    "note": "puntuación < 50 (filtro previo del panel ciego)"
   },
   {
     "id": "hokusai-koishikawa",
@@ -157,7 +159,13 @@
     "source": {
       "commons": "File:東海道五十三次之内 日本橋 朝之景-Stations One- Morning View of Nihonbashi MET DP122174.jpg"
     },
-    "status": "approved"
+    "status": "approved",
+    "trim": [
+      0.05,
+      0.05,
+      0.05,
+      0.04
+    ]
   },
   {
     "id": "hiroshige-kameyama",
@@ -217,8 +225,7 @@
     "source": {
       "commons": "File:De pruimenboomgaard te Kameido-Rijksmuseum RP-P-1956-743.jpeg"
     },
-    "status": "approved",
-    "masterpiece": true
+    "status": "approved"
   },
   {
     "id": "hiroshige-atake",
@@ -228,14 +235,14 @@
     "source": {
       "commons": "File:Ōhashi Atake no yūdachi-名所江戸百景 大はしあたけの夕立-Sudden Shower over Shin-Ōhashi Bridge and Atake (Ōhashi Atake no yūdachi), from the series One Hundred Famous Views of Edo (Meisho Edo hyakkei) MET DP130156.jpg"
     },
-    "status": "approved",
-    "masterpiece": true,
+    "status": "rejected",
     "trim": [
       0.07,
       0.02,
       0.07,
       0.02
-    ]
+    ],
+    "note": "revisión e-ink: poco contraste, queda gris y plano (vista 3/5, puntuación 31)"
   },
   {
     "id": "kuniyoshi-takiyasha",
@@ -255,7 +262,8 @@
     "source": {
       "commons": "File:Miyamoto-Musashi-Attacking-Giant-Whale-Utagawa-Kuniyoshi.png"
     },
-    "status": "approved"
+    "status": "rejected",
+    "note": "panel ciego: 2.25 < 3.5 (opus 2, sonnet 3/2)"
   },
   {
     "id": "kuniyoshi-gatos",
@@ -265,7 +273,12 @@
     "source": {
       "commons": "File:Cats suggested as the fifty-three stations of the Tokaido.jpg"
     },
-    "status": "approved"
+    "status": "rejected",
+    "crop": [
+      1.0,
+      0.5
+    ],
+    "note": "revisión del propietario (noviembre 2026)"
   },
   {
     "id": "utamaro-caqui",
@@ -275,7 +288,8 @@
     "source": {
       "commons": "File:柿もぎ-Picking Persimmons ((Kaki mogi)) MET DP144588.jpg"
     },
-    "status": "approved"
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
   },
   {
     "id": "utamaro-abulones",
@@ -285,7 +299,8 @@
     "source": {
       "commons": "File:Utamaro (c. 1797–98) Awabi-tori.jpg"
     },
-    "status": "approved"
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
   },
   {
     "id": "hokusai-sumo",
@@ -295,7 +310,8 @@
     "source": {
       "commons": "File:Lutteurs de sûmo Hokusai Manga.jpg"
     },
-    "status": "approved"
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
   },
   {
     "id": "hokusai-umezawa",
@@ -315,7 +331,1955 @@
     "source": {
       "commons": "File:三代目大谷鬼次の奴江戸兵衛-Kabuki Actor Ōtani Oniji III as Yakko Edobei in the Play The Colored Reins of a Loving Wife (Koi nyōbō somewake tazuna) MET DP130228.jpg"
     },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-meguro",
+    "title": "Bajo Meguro",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 下目黒-Lower Meguro (Shimo Meguro), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP140998.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-tsukudajima",
+    "title": "Tsukudajima, en la provincia de Musashi",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 武陽佃島-Tsukudajima in Musashi Province (Buyō Tsukudajima), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141039.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-tatekawa",
+    "title": "El mercado de madera de Tatekawa",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 本所立川-Tatekawa in Honjō (Honjō Tatekawa), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141077.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-surugadai",
+    "title": "Surugadai, en Edo",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 東都駿台-Surugadai in Edo (Tōto Sundai), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141094.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "hokusai-noboto",
+    "title": "La bahía de Noboto",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 登戸浦-Noboto Bay (Noboto no ura), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141051.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-shichiri",
+    "title": "La playa de Shichirigahama",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 相州七里浜-Shichirigahama in Sagami Province (Sōshū Shichirigahama), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141074.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-honganji",
+    "title": "El templo Honganji de Asakusa",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 東都浅草本願寺-Honganji at Asakusa in Edo (Tōto Asakusa Honganji), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141095.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-ushibori",
+    "title": "Ushibori, en la provincia de Hitachi",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 常州牛掘-Ushibori in Hitachi Province (Jōshū Ushibori), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141057.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-aserradores",
+    "title": "Los aserradores de las montañas de Tōtomi",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 遠江山中-In the Mountains of Tōtomi Province (Tōtomi sanchū), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP140988.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-tama",
+    "title": "El río Tama, en Musashi",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 武州玉川-Tama River in Musashi Province (Bushū Tamagawa), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141090.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-fujimigahara",
+    "title": "Fujimigahara, en Owari",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 尾州不二見原-Fujimigahara in Owari Province (Bishū Fujimigahara), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141049.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-kazusa",
+    "title": "En el mar frente a Kazusa",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 上総の海路-At Sea off Kazusa (Kazusa no kairo), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP140990.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-senju",
+    "title": "Senju, en Musashi",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 武州千住-Senju in Musashi Province (Bushū Senju), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141087.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-peregrinos",
+    "title": "Grupos de peregrinos al Fuji",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 諸人登山-Groups of Mountain Climbers (Shojin tozan), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141055.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "hokusai-enoshima",
+    "title": "Enoshima, en Sagami",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 相州江の島-Enoshima in Sagami Province (Sōshū Enoshima), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141035.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "hokusai-suwa",
+    "title": "El lago Suwa, en Shinano",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 信州諏訪湖-Lake Suwa in Shinano Province (Shinshū Suwako), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP140970.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-gotenyama",
+    "title": "El Fuji desde Gotenyama, en Shinagawa",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 東海道品川御殿山の不二-Fuji from Gotenyama at Shinagawa on the Tōkaidō (Tōkaidō Shinagawa Gotenyama no Fuji), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141091.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-nakahara",
+    "title": "Nakahara, en Sagami",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 相州仲原-Nakahara in Sagami Province (Sōshū Nakahara), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141073.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-onden",
+    "title": "La noria de Onden",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 隠田の水車-The Waterwheel at Onden (Onden no suisha), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141060.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación < 50 (filtro previo del panel ciego)"
+  },
+  {
+    "id": "hokusai-hodogaya",
+    "title": "Hodogaya, en el Tōkaidō",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 東海道保土ケ谷-Hodogaya on the Tōkaidō (Tōkaidō Hodogaya), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141025.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-yoshida",
+    "title": "Yoshida, en el Tōkaidō",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 東海道吉田-Yoshida on the Tōkaidō (Tōkaidō Yoshida), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141069.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-nihonbashi",
+    "title": "Nihonbashi, en Edo",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 江戸日本橋-Nihonbashi in Edo (Edo Nihonbashi), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141003.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-minobu",
+    "title": "El Fuji desde el río Minobu",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1831",
+    "source": {
+      "commons": "File:冨嶽三十六景 身延川裏不二-View from the Other Side of Fuji from the Minobu River (Minobugawa ura Fuji), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP140978.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-sano",
+    "title": "El puente de barcas de Sano",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1834",
+    "source": {
+      "commons": "File:Old View of the Boat-bridge at Sano in Kōzuke Province (Kōzuke Sano funabashi no kozu), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran) MET DP141230.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-kumo",
+    "title": "El puente de las nubes de Ashikaga",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1834",
+    "source": {
+      "commons": "File:The Hanging-cloud Bridge at Mount Gyōdō near Ashikaga (Ashikaga Gyōdōzan kumo no kakehashi), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran) MET DP141233.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "hokusai-tenpozan",
+    "title": "Tenpōzan, en la desembocadura del Aji",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1834",
+    "source": {
+      "commons": "File:Tenpōzan at the Mouth of the Aji River in Settsu Province MET DP141237.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: pálido y abigarrado"
+  },
+  {
+    "id": "hokusai-yahagi",
+    "title": "El puente Yahagi de Okazaki",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1834",
+    "source": {
+      "commons": "File:諸國名橋奇覧 東海道岡崎矢はぎのはし-Yahagi Bridge at Okazaki on the Tōkaidō (Tōkaidō Okazaki Yahagi no hashi), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran) MET DP141082.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-fukui",
+    "title": "El puente de Fukui, en Echizen",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1834",
+    "source": {
+      "commons": "File:諸國名橋奇覧 ゑちぜんふくゐの橋-Fukui Bridge in Echizen Province (Echizen Fukui no hashi), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran) MET DP141231.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-arashiyama",
+    "title": "El puente Togetsu de Arashiyama",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1834",
+    "source": {
+      "commons": "File:諸國名橋奇覧 山城あらし山吐月橋 -Togetsu Bridge at Arashiyama in Yamashiro, from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran) MET DP141276.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "hokusai-taikobashi",
+    "title": "El puente arqueado del santuario Kameido",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1834",
+    "source": {
+      "commons": "File:諸國名橋奇覧 かめゐど天神たいこはし-The Arched Bridge at Kameido Tenjin Shrine (Kameido Tenjin Taikobashi), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran) MET DP141275.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-hitomaro",
+    "title": "Poema de Kakinomoto no Hitomaro",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1835",
+    "source": {
+      "commons": "File:百人一首 乳母かゑとき 柿本人麿-Poem by Kakinomoto Hitomaro, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki) MET DP140962.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: casi idéntica a hokusai-redes"
+  },
+  {
+    "id": "hokusai-takamura",
+    "title": "Poema de Sangi no Takamura",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1835",
+    "source": {
+      "commons": "File:百人一首 乳母か絵とき 参議篁-Poem by Sangi no Takamura (Ono no Takamura), from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki) MET DP141116.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-redes",
+    "title": "Pescadores recogiendo la red",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1835",
+    "source": {
+      "commons": "File:Vissers een net binnen halend Gedichten door elk van de 100 dichters, uitgelegd door de voedster. (serietitel) Hyakunin isshu uba ga etoki (serietitel op object), RP-P-1966-332.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.75 < 3.5 (opus 2, sonnet 3/4)"
+  },
+  {
+    "id": "hokusai-michinobu",
+    "title": "Poema de Fujiwara no Michinobu",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1835",
+    "source": {
+      "commons": "File:百人一首 宇波か縁説 藤原道信朝臣-Poem by Fujiwara no Michinobu Ason, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki) MET DP140968.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-totsuka",
+    "title": "Tōkaidō: Totsuka, la posada",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:Totsuka (5th Station 5), from the series Fifty-Three Stations of the Tokaido Road (Tokaido Gojusantsugi no Uchi), Utagawa Hiroshige, 1832-1834 - PR.972.63.6.tif"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-oiso",
+    "title": "Tōkaidō: Oiso, la lluvia de Tora",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:Tora Rain (Tear Drop) at Oiso (Oiso Tora ga Ame), Station 8, from the Fifty-Three Stations of the Tokaido Road (Hoeido edition), by Utagawa Hiroshige, 1832-1834, from the Hood Museum of Art - PR.972.63.9.tif"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "hiroshige-numazu",
+    "title": "Tōkaidō: Numazu, el crepúsculo",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:Twilight at Numazu (Numazu Tasogarezu), Station 12, from the Fifty-Three Stations of the Tokaido (Tokaido Gojusantsugi no Uchi) (Hoeido), by Utagawa (Andō) Hiroshige, 1832-1834, Hood Museum - PR.972.63.13.tif"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "hiroshige-yui",
+    "title": "Tōkaidō: Yui, el paso de Satta",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:The Satta Pass at Yui (Yui Satta Mine), Station 16, from the Fifty-Three Stations of the Tokaido (Tokaido Gojusantsugi no Uchi) (Hoeido edition), by Utagawa (Andō) Hiroshige, 1832-1834, Hood Museum of Art - PR.972.63.17.tif"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-okitsu",
+    "title": "Tōkaidō: Okitsu, el río",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:The Okitsu River at Okitsu (Okitsu Okitsugawa), Station 17, from the Fifty-Three Stations of the Tokaido (Tokaido Gojusantsugi no Uchi) (Hoeido edition), 1832-1834, from the Hood Museum of Art - PR.972.63.18.tif"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "hiroshige-fuchu",
+    "title": "Tōkaidō: Fuchū, el río Abe",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:Fuchu Abegawa (The Abe River near Fuchu), Tokaido Gojusan Tsugi no Uchi (Station 19, from the Fifty-Three Stations of the Tokaido) (Hoeido), by Utagawa (Andō) Hiroshige, 1832-1834, Hood Museum of Art - PR.972.63.20.tif"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-shimada",
+    "title": "Tōkaidō: Shimada, el río Ōi",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:The Suruga Bank of the Oi River near Simada (Shimada Oigawa Shungan), Station 23, from the Fifty-Three Stations of the Tokaido (Tokaido Gojusantsugi no Uchi) (Hoeido edition), by Utagawa (Andō) Hi1832-1834, Hood M - PR.972.63.24.tif"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "hiroshige-kakegawa",
+    "title": "Tōkaidō: Kakegawa, el monte Akiba",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:Distant View of Mount Akiba at Kakegawa (Kakegawa Akibayama Enbo), Station 27, from the Fifty-Three Stations of the Tokaido (Tokaido Gojusantsugi no Uchi) (Hoeido edition), by Utagawa Hiroshige, 1832-1834 - PR.972.63.27.tif"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-fukuroi",
+    "title": "Tōkaidō: Fukuroi, la casa de té",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:Outdoor tea stall at Fukuroi (Fukuroi Dechaya no Zu), Station 28, from the Fifty-Three Stations of the Tokaido (Tokaido Gojusantsugi no Uchi) (Hoeido edition), by Utagawa Hiroshige, 1832-1834 - PR.972.63.28.tif"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-mitsuke",
+    "title": "Tōkaidō: Mitsuke, el río Tenryū",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:The Tenryu River at Mitsuke (Mitsuke Tenryugawa no Zu), Station 29, from the Fifty-Three Stations of the Tokaido (Tokaido Gojusantsugi no Uchi) (Hoeido edition), by Utagawa Hiroshige, 1832-1834 - PR.972.63.29.tif"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "hiroshige-hamamatsu",
+    "title": "Tōkaidō: Hamamatsu, desolación invernal",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:Winter Desolation at Hamamatsu (Hamamatsu Fuyugare no Zu), Station 30, from the Fifty-Three Stations of the Tokaido (Tokaido Gojusantsugi no Uchi) (Hoeido edition), by Utagawa Hiroshige, 1832-1834 - PR.972.63.30.tif"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "hiroshige-maisaka",
+    "title": "Tōkaidō: Maisaka, el cabo Imagiri",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:The Imagiri Promontory from Maisaka (Maisaka Imagiri Shinkei), Station 31, from the Fifty-Three Stations of the Tokaido (Tokaido Gojusantsugi no Uchi) (Hoeido edition), by Utagawa Hiroshige, 1832-1834 - PR.972.63.31.tif"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-arai",
+    "title": "Tōkaidō: Arai, los transbordadores",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:Ferryboats at Arai (Arai Watshibune no Zu), Station 32, from the Fifty-Three Stations of the Tokaido (Tokaido Gojusantsugi no Uchi) (Hoeido edition), by Utagawa Hiroshige, 1832-1834 - PR.972.63.32.tif"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-shirasuka",
+    "title": "Tōkaidō: Shirasuka, la cuesta del mar",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:Ocean View Slope near Shirasuka (Shirasuka Shiomizaka no Zu), Station 33, from the Fifty-Three Stations of the Tokaido (Tokaido Gojusantsugi no Uchi) (Hoeido edition), by Utagawa Hiroshige, 1832-1834 - PR.972.63.33.tif"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "hiroshige-yoshida",
+    "title": "Tōkaidō: Yoshida, el puente del Toyokawa",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:The Bridge Over the Toyokawa River at Yoshida (Yoshida Toyokawabashi), Station 35, from the Fifty-Three Stations of the Tokaido (Tokaido Gojusantsugi no Uchi) (Hoeido edition), by Utagawa Hiroshig1832-1834 - PR.972.63.35.tif"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "hiroshige-goyu",
+    "title": "Tōkaidō: Goyu, la mujer que detiene a los viajeros",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:Woman Stopping Travelers at Goyu (Goyu Tabibito Tomeonna), Station 36, from the Fifty-Three Stations of the Tokaido (Tokaido Gojusantsugi no Uchi) (Hoeido edition), by Utagawa Hiroshige, 1832-1834 - PR.972.63.36.tif"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "hiroshige-akasaka",
+    "title": "Tōkaidō: Akasaka, la posada",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:Travelers and Hostesses at an Inn at Akasaka (Akasaka Ryoshu Shofu no Zu), Station 37, from the Fifty-Three Stations of the Tokaido (Tokaido Gojusantsugi no Uchi) (Hoeido edition), by Utagawa H, 1832-1834 - PR.972.63.37.tif"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "hiroshige-okazaki",
+    "title": "Tōkaidō: Okazaki, el puente Yahagi",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:The Bridge over the Yahagi River at Okazaki (Okazaki Yahagi no Hashi), Station 39, from the Fifty-Three Stations of the Tokaido (Tokaido Gojusantsugi no Uchi) (Hoeido edition), by Utagawa Hiroshi,1832-1834 - PR.972.63.39.tif"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-tsuchiyama",
+    "title": "Tōkaidō: Tsuchiyama, lluvia de primavera",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:Spring Rain at Tsuchiyama (Tsuchiyama Haru no Ame), Station 50, from the series Fifty-Three Stations of the Tokaido Road (Tokaido Gojusantsugi no Uchi), Utagawa Hiroshige, 1832-1834 - PR.972.63.50.tif"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-seki",
+    "title": "Tōkaidō: Seki, la partida temprana",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:Early Departure from the Main Camp at Seki (Seki Honjin Hayadachi), Station 48, from the series Fifty-Three Stations of the Tokaido Road (Tokaido Gojusantsugi no Uchi), Utagawa Hiroshige, 1832-1834 - PR.972.63.48.tif"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "hiroshige-otsu",
+    "title": "Tōkaidō: Ōtsu, el pozo de la casa de té",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:The Running Well Teahouse at Otsu (Otsu Hashirii Chamise), Station 54, from the series Fifty-Three Stations of the Tokaido Road (Tokaido Gojusantsugi no Uchi), Utagawa Hiroshige, 1832-1834 - PR.972.63.54.tif"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "hiroshige-kioto",
+    "title": "Tōkaidō: Kioto, el puente Sanjō",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:The Great Sanjo Bridge in Kyoto (Keishi Sanjo Ohashi), Station 55, from the series Fifty-Three Stations of the Tokaido Road (Tokaido Gojusantsugi no Uchi), Utagawa Hiroshige, 1832-1834 - PR.972.63.55.tif"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-yoshiwara",
+    "title": "Tōkaidō: Yoshiwara, el Fuji a la izquierda",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1833",
+    "source": {
+      "commons": "File:Mount Fuji seen on the Left of the Road at Yoshiwara, Station 14, from the Fifty-Three Stations of the Tokaido (Tokaido Gojusantsugi no Uchi) (Hoeido edition), by Utagawa (Andō) Hiroshige, 1832-1834, Hood - PR.972.63.15.tif"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "kiyochika-ikenohata",
+    "title": "Fuegos artificiales en Ikenohata",
+    "artist": "Kobayashi Kiyochika",
+    "date": "1881",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP-603-001.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.039,
+      0.103,
+      0.065,
+      0.061
+    ],
+    "note": "puntuación 47 < 50 (solo 8 grises)"
+  },
+  {
+    "id": "kiyochika-invierno",
+    "title": "Calle de las afueras de Edo en una tarde de invierno",
+    "artist": "Kobayashi Kiyochika",
+    "date": "c. 1878",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP123645.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.036,
+      0.056,
+      0.039,
+      0.154
+    ],
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "kiyochika-miho",
+    "title": "El Fuji y una barca en Miho",
+    "artist": "Kobayashi Kiyochika",
+    "date": "1878",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP147698.jpg"
+    },
+    "status": "rejected",
+    "note": "técnico: tríptico con huecos entre hojas y cartela impresa"
+  },
+  {
+    "id": "kiyochika-incendio",
+    "title": "Incendio visto desde Hisamatsuchō",
+    "artist": "Kobayashi Kiyochika",
+    "date": "1881",
+    "source": {
+      "aic": "e9c0ac68-887e-eb67-d095-8e2eddcb4fae"
+    },
+    "status": "rejected",
+    "trim": [
+      0.098,
+      0.122,
+      0.048,
+      0.1
+    ],
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "kiyochika-patos",
+    "title": "Pareja de patos en un estanque de lotos",
+    "artist": "Kobayashi Kiyochika",
+    "date": "1879",
+    "source": {
+      "aic": "d7f42e69-6b55-674b-60cd-d1705bb59415"
+    },
     "status": "approved",
-    "masterpiece": true
+    "trim": [
+      0.031,
+      0.033,
+      0.025,
+      0.1
+    ]
+  },
+  {
+    "id": "kiyochika-matsuchi",
+    "title": "La colina Matsuchi con nieve al anochecer",
+    "artist": "Kobayashi Kiyochika",
+    "date": "1896",
+    "source": {
+      "aic": "a3626934-8d04-02a7-ca7a-0c9abd741b19"
+    },
+    "status": "rejected",
+    "note": "puntuación 43 < 50; huecos entre hojas del tríptico"
+  },
+  {
+    "id": "kiyochika-haneda",
+    "title": "Luna entre las nubes en la costa de Haneda",
+    "artist": "Kobayashi Kiyochika",
+    "date": "1929 (diseño de Kiyochika)",
+    "source": {
+      "aic": "2c3cbd8c-1598-17d1-d162-642950e8cc2f"
+    },
+    "status": "approved",
+    "trim": [
+      0.121,
+      0.187,
+      0.124,
+      0.135
+    ]
+  },
+  {
+    "id": "kiyochika-shonagon",
+    "title": "Sei Shōnagon, de la serie Patrones antiguos",
+    "artist": "Kobayashi Kiyochika",
+    "date": "1896",
+    "source": {
+      "aic": "cf6f4728-153b-42b5-1957-9aadb453d589"
+    },
+    "status": "rejected",
+    "note": "puntuación 44 < 50; huecos entre hojas del tríptico"
+  },
+  {
+    "id": "yoshitoshi-yasumasa",
+    "title": "Fujiwara no Yasumasa tocando la flauta a la luz de la luna",
+    "artist": "Tsukioka Yoshitoshi",
+    "date": "c. 1883",
+    "source": {
+      "aic": "539466cc-d8e4-a17a-9925-c91a8e447581"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "yoshitoshi-benkei",
+    "title": "Ichikawa Danjūrō IX como Benkei",
+    "artist": "Tsukioka Yoshitoshi",
+    "date": "1890",
+    "source": {
+      "aic": "1c977bd3-44a9-d61d-1c42-1230b9ac45cf"
+    },
+    "status": "rejected",
+    "note": "técnico: tríptico con huecos blancos entre hojas"
+  },
+  {
+    "id": "yoshitoshi-vapor",
+    "title": "Guerrero mirando pasar un barco de vapor",
+    "artist": "Tsukioka Yoshitoshi",
+    "date": "c. 1865",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP142154.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 49 < 50; grabado vertical"
+  },
+  {
+    "id": "yoshitoshi-shinbashi",
+    "title": "Veinticuatro horas en Shinbashi: mediodía",
+    "artist": "Tsukioka Yoshitoshi",
+    "date": "1880",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP148167.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 39 < 50; grabado vertical"
+  },
+  {
+    "id": "kuniyoshi-imado",
+    "title": "Asakusa Imado",
+    "artist": "Utagawa Kuniyoshi",
+    "date": "c. 1832",
+    "source": {
+      "aic": "7a17c756-9f35-34c1-1273-63a2c0606ac0"
+    },
+    "status": "rejected",
+    "trim": [
+      0.05,
+      0.034,
+      0.053,
+      0.042
+    ],
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "kuniyoshi-kasumigaseki",
+    "title": "Kasumigaseki",
+    "artist": "Utagawa Kuniyoshi",
+    "date": "c. 1832",
+    "source": {
+      "aic": "cec2e437-603d-fd23-9c0c-4c6b85bc003d"
+    },
+    "status": "approved",
+    "trim": [
+      0.02,
+      0.045,
+      0.025,
+      0.02
+    ]
+  },
+  {
+    "id": "kuniyoshi-omori",
+    "title": "Ōmori",
+    "artist": "Utagawa Kuniyoshi",
+    "date": "c. 1832",
+    "source": {
+      "aic": "3c2ae034-a566-d016-9c50-a11885ccc309"
+    },
+    "status": "rejected",
+    "trim": [
+      0.02,
+      0.02,
+      0.02,
+      0.045
+    ],
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "hiroshige-kiso-miyanokoshi",
+    "title": "Kisokaidō: Miyanokoshi, noche de luna",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1835-38",
+    "source": {
+      "aic": "0c3cfa88-eaac-afd5-63eb-c74e7b4d9382"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-kiso-seba",
+    "title": "Kisokaidō: Seba",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1835-38",
+    "source": {
+      "aic": "f7a5cc17-a592-2068-49db-fbc068e9491c"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-kiso-mieji",
+    "title": "Kisokaidō: Mieji",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1835-38",
+    "source": {
+      "aic": "511cfed0-6388-94cc-b17b-871670f29f7f"
+    },
+    "status": "approved",
+    "trim": [
+      0.04,
+      0.07,
+      0.04,
+      0.04
+    ]
+  },
+  {
+    "id": "hiroshige-kiso-nagakubo",
+    "title": "Kisokaidō: Nagakubo",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1835-38",
+    "source": {
+      "aic": "6cab31f7-7c48-8e0c-70c0-7910364b3c0d"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-kiso-mochizuki",
+    "title": "Kisokaidō: Mochizuki",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1835-38",
+    "source": {
+      "aic": "d97f323a-1bfe-58e8-3fc4-338a468b1ad4"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-kiso-echikawa",
+    "title": "Kisokaidō: Echikawa",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1835-38",
+    "source": {
+      "aic": "0be3fc78-131f-b228-728c-03c034b400ac"
+    },
+    "status": "approved",
+    "trim": [
+      0.04,
+      0.07,
+      0.04,
+      0.04
+    ]
+  },
+  {
+    "id": "hiroshige-omi-karasaki",
+    "title": "Ōmi: lluvia nocturna en Karasaki",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1835",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP122118.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "hiroshige-omi-seta",
+    "title": "Ōmi: resplandor del ocaso en Seta",
+    "artist": "Utagawa Hiroshige",
+    "date": "1834-35",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP122157.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.03,
+      0.07,
+      0.035,
+      0.035
+    ]
+  },
+  {
+    "id": "hiroshige-omi-katada",
+    "title": "Ōmi: gansos descendiendo en Katada",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1834-35",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP122146.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.075,
+      0.11,
+      0.075,
+      0.09
+    ]
+  },
+  {
+    "id": "hiroshige-omi-miidera",
+    "title": "Ōmi: campana de la tarde en Miidera",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1834-35",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP122148.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.06,
+      0.105,
+      0.085,
+      0.065
+    ]
+  },
+  {
+    "id": "hiroshige-kioto-yodo",
+    "title": "Kioto: el río Yodo",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1834",
+    "source": {
+      "aic": "056df650-b2f9-1e4d-b5a1-34f998f12f7d"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-kioto-gion",
+    "title": "Kioto: el santuario Gion bajo la nieve",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1834",
+    "source": {
+      "aic": "fe8f2ca1-954d-4399-96a1-21a08b438818"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-kioto-shimabara",
+    "title": "Kioto: el sauce de la puerta de Shimabara",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1834",
+    "source": {
+      "aic": "82720cf7-55fa-ac58-07e1-187688bd7583"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "hiroshige-kioto-tsuten",
+    "title": "Kioto: arces rojos en el puente Tsūten",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1834",
+    "source": {
+      "aic": "060d612d-6a19-680c-858e-3f475c64b43e"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "hiroshige-kioto-yase",
+    "title": "Kioto: la aldea de Yase",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1834",
+    "source": {
+      "aic": "6a2298a5-4271-cb05-8856-2e1e55e622f0"
+    },
+    "status": "approved",
+    "trim": [
+      0.02,
+      0.02,
+      0.03,
+      0.02
+    ]
+  },
+  {
+    "id": "hiroshige-edo-ryogoku",
+    "title": "Edo: luna del crepúsculo sobre el puente Ryōgoku",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1831",
+    "source": {
+      "aic": "f4865c67-4277-dbca-7503-c0d45cf4b4e1"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "hiroshige-edo-takanawa",
+    "title": "Edo: luna llena en Takanawa",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1831",
+    "source": {
+      "aic": "ce777b53-39ba-095b-783b-a33a0eade437"
+    },
+    "status": "approved",
+    "trim": [
+      0.02,
+      0.075,
+      0.02,
+      0.07
+    ]
+  },
+  {
+    "id": "hiroshige-edo-nippori",
+    "title": "Edo: Nippori",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1835-38",
+    "source": {
+      "aic": "d6db6595-9b16-d1b0-b4ad-363f42a624b9"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "hiroshige-edo-shinobazu",
+    "title": "Gansos descendiendo en el estanque Shinobazu",
+    "artist": "Utagawa Hiroshige",
+    "date": "1836-37",
+    "source": {
+      "aic": "2e26043c-bda6-a136-14b1-ff99c7ce31eb"
+    },
+    "status": "rejected",
+    "note": "técnico: grabado en forma de abanico, esquinas blancas imposibles de recortar"
+  },
+  {
+    "id": "hiroshige-edo-mimeguri",
+    "title": "Nieve de la tarde en Mimeguri",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1840-42",
+    "source": {
+      "aic": "0a6c237d-ad7f-45ae-4343-6dc4eed074f4"
+    },
+    "status": "approved",
+    "trim": [
+      0.04,
+      0.07,
+      0.04,
+      0.04
+    ]
+  },
+  {
+    "id": "hiroshige-edo-kameido",
+    "title": "Glicinias en Kameido",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1839-42",
+    "source": {
+      "aic": "491dcb75-c3d3-5523-08d3-12de6cb07e91"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "hiroshige-edo-akabane",
+    "title": "Nieve en el puente Akabane, Shiba",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1843-47",
+    "source": {
+      "aic": "66ebff3a-12b4-763f-8f56-167301b59360"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hiroshige-edo-inokashira",
+    "title": "Nieve en el santuario de Benzaiten, estanque Inokashira",
+    "artist": "Utagawa Hiroshige",
+    "date": "c. 1844-45",
+    "source": {
+      "aic": "880f5bf5-4675-c0aa-2e39-1eec70e6c9df"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "kuniyoshi-surugadai",
+    "title": "Surugadai",
+    "artist": "Utagawa Kuniyoshi",
+    "date": "c. 1832",
+    "source": {
+      "aic": "f8c73e36-3a2d-c12e-4812-a876950400e9"
+    },
+    "status": "approved",
+    "trim": [
+      0.05,
+      0.02,
+      0.02,
+      0.02
+    ]
+  },
+  {
+    "id": "kuniyoshi-mitsumata",
+    "title": "Mitsumata, en la capital del este",
+    "artist": "Utagawa Kuniyoshi",
+    "date": "principios de 1830",
+    "source": {
+      "aic": "1c475d30-edd4-e83b-8ba3-2b6934a6a235"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "kuniyoshi-algas",
+    "title": "Recogiendo algas en Ōmori",
+    "artist": "Utagawa Kuniyoshi",
+    "date": "s. f.",
+    "source": {
+      "aic": "7a10cbaf-84b5-6b8c-91fb-52a8a8250a41"
+    },
+    "status": "rejected",
+    "note": "técnico: dibujo preparatorio con parches de papel y manchas"
+  },
+  {
+    "id": "eisen-kutsukake",
+    "title": "Kisokaidō: lluvia en la llanura de Hiratsuka",
+    "artist": "Keisai Eisen",
+    "date": "c. 1835-36",
+    "source": {
+      "aic": "f09d79df-02f5-a8d0-97f6-00130281a62a"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "eisen-sumida",
+    "title": "Nieve sobre el río Sumida",
+    "artist": "Keisai Eisen",
+    "date": "c. 1840-44",
+    "source": {
+      "aic": "21c8f49c-a611-34b2-50c9-44443bf39b75"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "eisen-nojiri",
+    "title": "Kisokaidō: vista del puente del río Ina en Nojiri",
+    "artist": "Keisai Eisen",
+    "date": "c. 1835-36",
+    "source": {
+      "aic": "a88b2590-ffd0-5766-4c01-f762fc6aa250"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "eisen-suwa",
+    "title": "Kisokaidō: el lago Suwa desde el paso de Shiojiri",
+    "artist": "Keisai Eisen",
+    "date": "c. 1835-36",
+    "source": {
+      "aic": "6bcc29c9-84da-a43c-c655-bec2e7817b84"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "shotei-shinagawa",
+    "title": "Ocho vistas del sureste: Shinagawa",
+    "artist": "Takahashi Shōtei",
+    "date": "s. XX",
+    "source": {
+      "commons": "File:Tonan hakkei no uchi, Shinagawa by Takahashi Shōtei.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.02,
+      0.045,
+      0.02,
+      0.02
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "shotei-ikegami",
+    "title": "Ocho vistas del sureste: Ikegami",
+    "artist": "Takahashi Shōtei",
+    "date": "s. XX",
+    "source": {
+      "commons": "File:Tonan hakkei no uchi, Ikegami by Takahashi Shōtei.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 35 < 50"
+  },
+  {
+    "id": "shotei-omuro",
+    "title": "El Fuji en las cuatro estaciones: Ōmuro",
+    "artist": "Takahashi Shōtei",
+    "date": "s. XX",
+    "source": {
+      "commons": "File:Shiki no Fuji, Ōmuro fukin by Takahashi Shōtei.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.02,
+      0.05,
+      0.02,
+      0.02
+    ]
+  },
+  {
+    "id": "shotei-arakawa",
+    "title": "Arakawa bajo la lluvia de principios de invierno",
+    "artist": "Takahashi Shōtei",
+    "date": "c. 1923",
+    "source": {
+      "commons": "File:Arakawa in Early Winter Rain by Takahashi Shōtei, c. 1923, woodblock print.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "shotei-izumibashi",
+    "title": "Lluvia en el puente Izumi",
+    "artist": "Takahashi Shōtei",
+    "date": "s. XX",
+    "source": {
+      "commons": "File:Izumi-bashi no Ame by Takahashi Shōtei (Hiroaki).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "shotei-ayase",
+    "title": "Nieve sobre el río Ayase",
+    "artist": "Takahashi Shōtei",
+    "date": "s. XX",
+    "source": {
+      "commons": "File:Snow on Ayase river, Rijksmuseum RP-P-2016-66-8.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "shotei-inatori",
+    "title": "Juncos en la bahía de Inatori, Izu",
+    "artist": "Takahashi Shōtei",
+    "date": "s. XX",
+    "source": {
+      "commons": "File:Junks in Inatori Bay, Izu by Takahashi Shōtei.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "koson-bloesem",
+    "title": "Pájaro cantor sobre una rama en flor",
+    "artist": "Ōhara Koson",
+    "date": "s. XX",
+    "source": {
+      "commons": "File:Zangvogel op bloesemtak, RP-P-1999-485.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 42 < 50"
+  },
+  {
+    "id": "koson-vissersboten",
+    "title": "Barcas de pesca",
+    "artist": "Ōhara Koson",
+    "date": "s. XX",
+    "source": {
+      "commons": "File:Vissersboten, RP-P-1994-12.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "koson-cachorro",
+    "title": "Cachorro entre agujas de pino",
+    "artist": "Ōhara Koson",
+    "date": "s. XX",
+    "source": {
+      "commons": "File:Puppy walking on fallen pine needles by Ohara Koson.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 45 < 50"
+  },
+  {
+    "id": "koson-palanquin",
+    "title": "Palanquín junto al río",
+    "artist": "Ōhara Koson",
+    "date": "s. XX",
+    "source": {
+      "commons": "File:Draagstoel bij rivier, RP-P-2005-483.jpg"
+    },
+    "status": "approved",
+    "crop": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "id": "koitsu-seiwashi",
+    "title": "Seiwashi dampan",
+    "artist": "Tsuchiya Kōitsu",
+    "date": "s. XX",
+    "source": {
+      "commons": "File:Seiwashi dampan no zu by Tsuchiya Kōitsu.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 49 < 50"
+  },
+  {
+    "id": "yoshida-fuji-a",
+    "title": "Peregrinación al monte Fuji (A)",
+    "artist": "Yoshida Hiroshi",
+    "date": "1928",
+    "source": {
+      "commons": "File:Pelgrimage op de berg Fuji, AK-RAK-2004-4-A.jpg"
+    },
+    "status": "rejected",
+    "note": "técnico: fotografía de un biombo plegado con marco y perspectiva"
+  },
+  {
+    "id": "yoshida-fuji-b",
+    "title": "Peregrinación al monte Fuji (B)",
+    "artist": "Yoshida Hiroshi",
+    "date": "1928",
+    "source": {
+      "commons": "File:Pelgrimage op de berg Fuji, AK-RAK-2004-4-B.jpg"
+    },
+    "status": "rejected",
+    "note": "técnico: fotografía de un biombo plegado con marco y perspectiva"
+  },
+  {
+    "id": "yoshida-binnenzee",
+    "title": "Bosquejos del Mar Interior de Seto",
+    "artist": "Yoshida Hiroshi",
+    "date": "s. XX",
+    "source": {
+      "commons": "File:Schetsen van de Japanse Binnenzee Setonaikai Shasei Isshu (titel op object), RP-P-2005-554.jpg"
+    },
+    "status": "rejected",
+    "note": "técnico: portada de libro con estuche, no es una estampa"
+  },
+  {
+    "id": "hokusai-sumida-nieve",
+    "title": "Nieve en el río Sumida",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1833",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP141240.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-yodo-luna",
+    "title": "Luz de luna en el río Yodo",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1833",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP141241.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hokusai-yoshino",
+    "title": "Cerezos en flor en Yoshino",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1833",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP141242.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "hokusai-ryukyu-izumizaki",
+    "title": "Ryūkyū: luna de la tarde en Izumizaki",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1832",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP141121.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.035,
+      0.045,
+      0.04,
+      0.165
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "hokusai-ryukyu-ryuto",
+    "title": "Ryūkyū: pinos y olas en Ryūtō",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1832",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP141128.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "hokusai-ryukyu-platanos",
+    "title": "Ryūkyū: el jardín de bananos en Nakashima",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1832",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP141122.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.75 < 3.5 (opus 2, sonnet 3/4)"
+  },
+  {
+    "id": "hokusai-ryukyu-rinkai",
+    "title": "Ryūkyū: el sonido del lago en Rinkai",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1832",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP141125.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "hokusai-ryukyu-choko",
+    "title": "Ryūkyū: cielo de otoño en Chōkō",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1832",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP141127.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.033,
+      0.048,
+      0.045,
+      0.165
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "hokusai-poema-jito",
+    "title": "Poema de la emperatriz Jitō",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1839",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP141104.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.036,
+      0.05,
+      0.038,
+      0.15
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "hokusai-poema-kanke",
+    "title": "Poema de Sugawara no Michizane",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1839",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP140963.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.03,
+      0.036,
+      0.033,
+      0.085
+    ]
+  },
+  {
+    "id": "hokusai-poema-nakamaro",
+    "title": "Poema de Abe no Nakamaro",
+    "artist": "Katsushika Hokusai",
+    "date": "c. 1835-36",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP141115.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.038,
+      0.05,
+      0.042,
+      0.153
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "hokusai-poema-yoshinobu",
+    "title": "Poema de Ōnakatomi no Yoshinobu",
+    "artist": "Katsushika Hokusai",
+    "date": "1839",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP140965.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "motonobu-paisaje",
+    "title": "Paisaje",
+    "artist": "Kanō Motonobu",
+    "date": "s. XVI",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP-41805-002.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 28 < 50"
+  },
+  {
+    "id": "sesson-acantilado",
+    "title": "Paisaje con acantilado rocoso",
+    "artist": "Sesson Shūkei",
+    "date": "s. XVI",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP-12232-041.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.085,
+      0.13,
+      0.04,
+      0.085
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "sesson-paisaje",
+    "title": "Paisaje",
+    "artist": "Sesson Shūkei",
+    "date": "s. XVI",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/LC-1982_244_16_cc-001.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 37 < 50"
+  },
+  {
+    "id": "unkoku-xiaoxiang",
+    "title": "Escenas de las ocho vistas de Xiao y Xiang",
+    "artist": "Unkoku Tōeki",
+    "date": "s. XVII",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DT1613.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 45 < 50"
+  },
+  {
+    "id": "unkoku-estaciones",
+    "title": "Paisaje de las cuatro estaciones",
+    "artist": "Unkoku Tōgan",
+    "date": "finales s. XVI - principios s. XVII",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP704908.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 39 < 50"
+  },
+  {
+    "id": "unkoku-toban",
+    "title": "Paisaje",
+    "artist": "Unkoku Tōban",
+    "date": "s. XVII",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/2015_300_220_D1_Burke.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "okyo-xiaoxiang",
+    "title": "Ocho vistas de Xiao y Xiang",
+    "artist": "Maruyama Ōkyo",
+    "date": "finales s. XVIII",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/56_116_Front_sf.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 32 < 50"
+  },
+  {
+    "id": "miyouren-nubes",
+    "title": "Montañas nubladas",
+    "artist": "Mi Youren",
+    "date": "antes de 1200",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP212993_4_CRD.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 21 < 50"
+  },
+  {
+    "id": "wuzhen-pescador",
+    "title": "Pescador",
+    "artist": "Wu Zhen",
+    "date": "c. 1350",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP-18549-001.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.02,
+      0.07,
+      0.02,
+      0.22
+    ],
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "zhaoyuan-paisaje",
+    "title": "Paisaje",
+    "artist": "Zhao Yuan",
+    "date": "finales s. XIV",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP157322_CRD.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "xiang-rio",
+    "title": "Paisaje fluvial",
+    "artist": "Xiang Yuanbian",
+    "date": "1578",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP205466_CRD.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.25 < 3.5 (opus 2, sonnet 2/3)"
+  },
+  {
+    "id": "wanghui-lluvia",
+    "title": "Montañas después de la lluvia",
+    "artist": "Wang Hui",
+    "date": "1695",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP153889.jpg"
+    },
+    "status": "rejected",
+    "note": "técnico: pintura en abanico, bordes blancos imposibles de recortar"
+  },
+  {
+    "id": "shenzhou-velas",
+    "title": "Paisaje con veleros",
+    "artist": "Shen Zhou",
+    "date": "s. XV",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP156828.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "shenzhou-puente",
+    "title": "Paisaje con un hombre cruzando un puente",
+    "artist": "Shen Zhou",
+    "date": "s. XV",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP156827.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "shenzhou-sauces",
+    "title": "Paisaje con pabellón y sauces",
+    "artist": "Shen Zhou",
+    "date": "s. XV",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP156826.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "shenzhou-otono",
+    "title": "Paisaje con follaje otoñal",
+    "artist": "Shen Zhou",
+    "date": "s. XV",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/as/original/DP156825.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "tohaku-pinos-izq",
+    "title": "Bosque de pinos (biombo izquierdo)",
+    "artist": "Hasegawa Tōhaku",
+    "date": "s. XVI",
+    "source": {
+      "commons": "File:《松林図屏風》左 制作年不詳 東京国立博物館.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.3,
+      0.5
+    ],
+    "note": "puntuación 46 < 50"
+  },
+  {
+    "id": "tohaku-pinos-der",
+    "title": "Bosque de pinos (biombo derecho)",
+    "artist": "Hasegawa Tōhaku",
+    "date": "s. XVI",
+    "source": {
+      "commons": "File:《松林図屏風》右 制作年不詳 東京国立博物館.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.1,
+      0.5
+    ],
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "sesshu-estaciones",
+    "title": "Paisajes de las cuatro estaciones",
+    "artist": "Sesshū Tōyō",
+    "date": "s. XV",
+    "source": {
+      "commons": "File:Landscape of the four seasons (left).jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "sesshu-haboku",
+    "title": "Paisaje en tinta rota (Haboku sansui)",
+    "artist": "Sesshū Tōyō",
+    "date": "1495",
+    "source": {
+      "commons": "File:Sesshu - Haboku-Sansui.jpg"
+    },
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.62
+    ],
+    "note": "puntuación 42 < 50; recorte vertical"
+  },
+  {
+    "id": "yoshida-hodaka",
+    "title": "Doce escenas de los Alpes japoneses: Hodakayama",
+    "artist": "Yoshida Hiroshi",
+    "date": "1926",
+    "source": {
+      "commons": "File:Hodakayama, from the series Twelve Scenes in the Japan Alps, Hiroshi Yoshida.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.031,
+      0.063,
+      0.046,
+      0.075
+    ]
+  },
+  {
+    "id": "yoshida-tone",
+    "title": "Rápidos en el curso alto del río Tone",
+    "artist": "Yoshida Hiroshi",
+    "date": "1928",
+    "source": {
+      "commons": "File:Yoshida Hiroshi, Rapids at the Upper Reaches of Tone River, 1928.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.04,
+      0.067,
+      0.043,
+      0.057
+    ],
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "yoshida-suzukawa",
+    "title": "Suzukawa",
+    "artist": "Yoshida Hiroshi",
+    "date": "1935",
+    "source": {
+      "commons": "File:Yoshida Hiroshi Suzukawa, 1935.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.02,
+      0.024,
+      0.019,
+      0.08
+    ]
+  },
+  {
+    "id": "yoshida-chugoku",
+    "title": "Pequeña ciudad en Chūgoku",
+    "artist": "Yoshida Hiroshi",
+    "date": "s. XX",
+    "source": {
+      "commons": "File:Yoshida Hiroshi Small town in Chugoku.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.038,
+      0.035,
+      0.034,
+      0.075
+    ],
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "yoshida-komagatake",
+    "title": "Komagatake",
+    "artist": "Yoshida Hiroshi",
+    "date": "s. XX",
+    "source": {
+      "commons": "File:Yoshida Komagatake.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "yoshida-onsen",
+    "title": "Primavera en unas aguas termales",
+    "artist": "Yoshida Hiroshi",
+    "date": "s. XX",
+    "source": {
+      "commons": "File:Spring in a Hot Spring (5759555822).jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.012,
+      0.012,
+      0.012,
+      0.075
+    ],
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "yoshida-glicinia",
+    "title": "Glicinias",
+    "artist": "Yoshida Hiroshi",
+    "date": "s. XX",
+    "source": {
+      "commons": "File:Hiroshi Yoshida - Wisteria - 10651.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.025,
+      0.05,
+      0.036,
+      0.085
+    ],
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "yoshida-kumoi",
+    "title": "Los cerezos de Kumoi",
+    "artist": "Yoshida Hiroshi",
+    "date": "1920",
+    "source": {
+      "commons": "File:Hiroshi Yoshida - Kumoi-Zakura (Kumoi Cherry Trees) - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "yoshida-rangun",
+    "title": "La pagoda dorada de Rangún",
+    "artist": "Yoshida Hiroshi",
+    "date": "1932",
+    "source": {
+      "commons": "File:Golden Pagoda in Rangoon, by Yoshida Hiroshi, 1932, from the Hood Museum of Art - 162.13.14759.tif"
+    },
+    "status": "rejected",
+    "trim": [
+      0.036,
+      0.076,
+      0.062,
+      0.085
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "yoshida-taj",
+    "title": "Niebla matinal en el Taj Mahal",
+    "artist": "Yoshida Hiroshi",
+    "date": "1931",
+    "source": {
+      "commons": "File:Morning Mist in Taj Mahal, no. 5, Hiroshi yoshida.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.033,
+      0.03,
+      0.066,
+      0.085
+    ]
+  },
+  {
+    "id": "yoshida-canon",
+    "title": "El Gran Cañón",
+    "artist": "Yoshida Hiroshi",
+    "date": "1925",
+    "source": {
+      "commons": "File:Yoshida Hiroshi Grand Canyon.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.054,
+      0.05,
+      0.051,
+      0.09
+    ],
+    "note": "técnico: resolución insuficiente tras el recorte (1355 px < 1448)"
+  },
+  {
+    "id": "yoshida-amritsar",
+    "title": "El Templo Dorado de Amritsar",
+    "artist": "Yoshida Hiroshi",
+    "date": "1931",
+    "source": {
+      "commons": "File:Golden Temple in Amritsar, by Yoshida Hiroshi, 1931.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 46 < 50"
+  },
+  {
+    "id": "koson-barcas",
+    "title": "Barcas",
+    "artist": "Ōhara Koson",
+    "date": "s. XX",
+    "source": {
+      "commons": "File:Koson Boote.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "shotei-edogawa",
+    "title": "Escena de tarde en el río Edo",
+    "artist": "Takahashi Shōtei",
+    "date": "s. XX",
+    "source": {
+      "commons": "File:Avondscène op de Edo rivier Edogawa (titel op object), RP-P-1979-24.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.033,
+      0.077,
+      0.041,
+      0.154
+    ]
   }
 ]

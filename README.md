@@ -7,8 +7,9 @@ by itself when the Kindle boots.
 
 ![The Great Wave by Hokusai on a Kindle Paperwhite in landscape](docs/images/hero.jpg)
 
-The repo comes with 322 works in 13 collections, from the Renaissance to ukiyo-e and
-black-and-white photography, each picked and cropped to hold up in the screen's 16 greys.
+The repo comes with 297 works in 6 collections: old masters, modern painting, prints
+and drawings, two of black-and-white photography, and ukiyo-e. They were
+chosen by a blind panel from 739 candidates, judged as they look in the screen's 16 greys.
 You can curate your own: the build pipeline downloads the originals, renders the panels
 and scores how well each one survives on e-ink.
 
@@ -20,8 +21,7 @@ Swipes change the work too; after 30 seconds without touches it goes back to sle
 
 ![The card over Rembrandt's Night Watch](docs/images/bar.jpg)
 
-Everything else is one level down, in **Ajustes**: the collections (one per art
-movement; the gallery shuffles the ticked ones and shows every work once before
+Everything else is one level down, in **Ajustes**: the collections (the gallery shuffles the ticked ones and shows every work once before
 reshuffling), how often the work changes, and the way out, which asks first. The gallery
 is meant to be left running; leaving it by accident should be hard.
 

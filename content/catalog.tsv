@@ -1,323 +1,301 @@
 # id	collection	file	sha256	title	artist	date
-leonardo-cena	renacimiento	renacimiento/leonardo-cena.png	82a3c15435a04f636b68e72c66fb1bb1ce4276f90b101e47c77673310ff3ef78	La última cena	Leonardo da Vinci	c. 1498
-leonardo-gioconda	renacimiento	renacimiento/leonardo-gioconda.png	aa3d80b6409107c3b114bac7b041fbb8057a528a46307ef7c44d7470e5d6667a	La Gioconda	Leonardo da Vinci	c. 1503
-leonardo-anunciacion	renacimiento	renacimiento/leonardo-anunciacion.png	4b16799ada0a4d043ee5b61fb04dba851c6f12860f14c9e0e7349ad71494ad9d	La Anunciación	Leonardo da Vinci	c. 1475
-miguelangel-adan	renacimiento	renacimiento/miguelangel-adan.png	ed472a61837387ac4d9ff10c058a01bec8b46f11dfc149b9839268a0c0413c03	La creación de Adán	Miguel Ángel	c. 1512
-rafael-atenas	renacimiento	renacimiento/rafael-atenas.png	06ebea20e8d3832da5d3a4a4f160aeed6a301207ff776c8f5ab0703d40550fa7	La escuela de Atenas	Rafael	1511
-rafael-parnaso	renacimiento	renacimiento/rafael-parnaso.png	bd24cf5bf142d2a229eaeeeab6d6508cf6083a2908be6b161bdf52a2b6e2a425	El Parnaso	Rafael	1511
-botticelli-venus	renacimiento	renacimiento/botticelli-venus.png	f05e19c335bb633a5a76f115d7ff654c115a95cfc7bc9a803e7eb04c74b7dac9	El nacimiento de Venus	Sandro Botticelli	c. 1485
-botticelli-primavera	renacimiento	renacimiento/botticelli-primavera.png	c21a3048eb749c1131d30782e728e79123e18f4ec72300c984cb70eb0af04f1f	La primavera	Sandro Botticelli	c. 1482
-weyden-descendimiento	renacimiento	renacimiento/weyden-descendimiento.png	e012f3c9cfd8f200de30d4a8a73f19df4084df7fca1feb2a6773d4d31c1c8b8f	El descendimiento	Rogier van der Weyden	c. 1435
-bosco-jardin	renacimiento	renacimiento/bosco-jardin.png	b24a6be9ea66230558059519f46ac4546e10cc709f0d4d0459f2a1b561277c66	El jardín de las delicias	El Bosco	c. 1500
-bruegel-cazadores	renacimiento	renacimiento/bruegel-cazadores.png	1b48157556d98a8768d4a05580766e878de5903b10f74a7e8bc714d6993a295a	Cazadores en la nieve	Pieter Bruegel el Viejo	1565
-bruegel-babel	renacimiento	renacimiento/bruegel-babel.png	53ec776394e42551cd92aaf6c5306cdfbeeb74fc47221700c5a3cc8825a6761b	La torre de Babel	Pieter Bruegel el Viejo	1563
-bruegel-boda	renacimiento	renacimiento/bruegel-boda.png	e5d782ff94800cc0ca009f73d8c46e8d7a0b5807eed3ad3aead2198e23283a1f	Banquete de bodas campesino	Pieter Bruegel el Viejo	c. 1567
-bruegel-muerte	renacimiento	renacimiento/bruegel-muerte.png	60a4f7e0742462b59d249ce513e454082b26159a91806b5a2a6459b2bd34bef9	El triunfo de la muerte	Pieter Bruegel el Viejo	c. 1562
-durero-melancolia	renacimiento	renacimiento/durero-melancolia.png	5f9bf4faaf332475917b0c2346e80d1c05ed1f559a6e4c307b1e8746598e695b	Melancolía I	Alberto Durero	1514
-durero-caballero	renacimiento	renacimiento/durero-caballero.png	828ff4e9961a49fd27365d1f3bfe861214ba75a9ac57ccce48e35fae878c3684	El caballero, la muerte y el diablo	Alberto Durero	1513
-durero-rinoceronte	renacimiento	renacimiento/durero-rinoceronte.png	c626760a24da18b4084e003a0b374864f44712771c05885ffb1036f65663c831	Rinoceronte	Alberto Durero	1515
-durero-jeronimo	renacimiento	renacimiento/durero-jeronimo.png	e4fe38405dc8cf43361da5274bbf8336e01c71317d3bb1d4e9dacac4b25e6ea9	San Jerónimo en su gabinete	Alberto Durero	1514
-holbein-embajadores	renacimiento	renacimiento/holbein-embajadores.png	24c6f8fd4df2687e63d4e7a2f014e873c6eba803a1e8d89885c826d2af237c1c	Los embajadores	Hans Holbein el Joven	1533
-tiziano-venus	renacimiento	renacimiento/tiziano-venus.png	8963219f8a8420674c0f980874c6753bd273948dd02e3b9cfef41da95944df27	Venus de Urbino	Tiziano	1538
-tiziano-baco	renacimiento	renacimiento/tiziano-baco.png	f8b5034686720e31c39b2bbf5cac6c98174df8ad1db1eeef830688eec4e34b82	Baco y Ariadna	Tiziano	c. 1523
-mantegna-cristo	renacimiento	renacimiento/mantegna-cristo.png	9cb4ec7a9eef8f8b6ff1e9bff4a0e38f6852b7c07d77e6b358eb63f80fd63603	Cristo muerto	Andrea Mantegna	c. 1480
-piero-flagelacion	renacimiento	renacimiento/piero-flagelacion.png	912a06d892900a23d26efa14df9abc8c9d36c050dfd8b359302dafb8d76b3850	La flagelación de Cristo	Piero della Francesca	c. 1460
-uccello-sanromano	renacimiento	renacimiento/uccello-sanromano.png	e736d551062eb9d634f84cae8ded40b3353af58ee4133cb663bb7be73821d658	La batalla de San Romano	Paolo Uccello	c. 1438
-masaccio-tributo	renacimiento	renacimiento/masaccio-tributo.png	a02bf83a8ec808d1b29685336b714fc2f365b4349a37924488a0b9127b69da08	El tributo de la moneda	Masaccio	c. 1425
-angelico-anunciacion	renacimiento	renacimiento/angelico-anunciacion.png	988a88d614c8beec736fb89434d67b546c3be9bcbf95c3d8e5e55a79db8de3c7	La Anunciación	Fra Angelico	c. 1426
-greco-orgaz	renacimiento	renacimiento/greco-orgaz.png	48c8f8890e9d4fcf035896190b552fd970199bb1edb06e0b59796320f49b92fe	El entierro del conde de Orgaz	El Greco	1586
-greco-toledo	renacimiento	renacimiento/greco-toledo.png	8d210be57296420d45876e756ba4db63fc1036d3c927b55b6f1249f8219d5ae9	Vista de Toledo	El Greco	c. 1600
-bruegel-icaro	renacimiento	renacimiento/bruegel-icaro.png	5c67d0659c3fd56b722d0193eb5c9d05ad46e24a8baa20e0d9ef72149d5793bc	Paisaje con la caída de Ícaro	Pieter Bruegel el Viejo	c. 1560
-giotto-lamentacion	renacimiento	renacimiento/giotto-lamentacion.png	ac6a9c95e4c165cc3b02289ed3dcee1b4c442513f4267e26c203a541adfeeda6	La lamentación sobre Cristo muerto	Giotto	c. 1305
-vaneyck-gante	renacimiento	renacimiento/vaneyck-gante.png	594ff6c1beda3004b4747fbee9760be8ceeee72fbb648b27210e41eb067745f3	El retablo de Gante	Jan y Hubert van Eyck	1432
-leonardo-arminio	renacimiento	renacimiento/leonardo-arminio.png	dc4c4d2108730528732e108286d7e43820a3845889ab7e2fd254a8c8eb7e2d61	La dama del armiño	Leonardo da Vinci	c. 1490
-durero-liebre	renacimiento	renacimiento/durero-liebre.png	c588734f6777961f663777e07848399c2308718628f4c51406e080f4720e9561	Liebre joven	Alberto Durero	1502
-miguelangel-juicio	renacimiento	renacimiento/miguelangel-juicio.png	ebf4f070f16620b8569d865834e444aa0494e9becc320a4ada42da17fb2f9410	El juicio final	Miguel Ángel	1541
-velazquez-meninas	barroco	barroco/velazquez-meninas.png	a53110f513bbac30762066a4fd81c3acb886d01532ddd8e9cd3005237c9c581c	Las meninas	Diego Velázquez	1656
-velazquez-breda	barroco	barroco/velazquez-breda.png	ae4e91d6ff1548ff53fbebe41409084423a1daa07d4021f257749f5c9675d0a9	La rendición de Breda	Diego Velázquez	1635
-velazquez-fragua	barroco	barroco/velazquez-fragua.png	6c6a83d44fc00f3b5bc69fbcae7c8237251041a74f8430d7cbd615680dca10cf	La fragua de Vulcano	Diego Velázquez	1630
-velazquez-hilanderas	barroco	barroco/velazquez-hilanderas.png	5d5839f7b34a3c44c21d06bf8dd6232c996d7bd91e0a7b066c002ea4d854e44d	Las hilanderas	Diego Velázquez	c. 1657
-velazquez-borrachos	barroco	barroco/velazquez-borrachos.png	b85631deceaee691b4d6303f37bf2ea84341160f3b6d1ce3866a48fda4cc5ee6	El triunfo de Baco (Los borrachos)	Diego Velázquez	1629
-velazquez-vieja	barroco	barroco/velazquez-vieja.png	6b9e51b2bb91d6acea2379a7e841a8ca62bd86fb67e7fb0bab26611d1c6b3210	Vieja friendo huevos	Diego Velázquez	1618
-zurbaran-agnus	barroco	barroco/zurbaran-agnus.png	7c1e879c0c3c92f00ee39c4a3c04c8c65577e1b27070ba3df664a19d6de9ffc4	Agnus Dei	Francisco de Zurbarán	c. 1635
-zurbaran-bodegon	barroco	barroco/zurbaran-bodegon.png	e70ca08a37aa5a57b67682b7deb017f75ad55ec14bb79dbebd98ba6d878113dc	Bodegón con cacharros	Francisco de Zurbarán	c. 1650
-ribera-jacob	barroco	barroco/ribera-jacob.png	8df76ab4db538ddb4c556784787f5b26cc359e6d072823b8098708be4956786a	El sueño de Jacob	José de Ribera	1639
-ribera-felipe	barroco	barroco/ribera-felipe.png	8f073ffb6f60babc81454169074546ce33ba17ca7a6932d627737aed370cddb0	El martirio de san Felipe	José de Ribera	1639
-caravaggio-mateo	barroco	barroco/caravaggio-mateo.png	1c18fb5b51a62e2efe551eb5666fcf0b6399d92f91454b8950bff5d8096e4054	La vocación de san Mateo	Caravaggio	1600
-caravaggio-emaus	barroco	barroco/caravaggio-emaus.png	bc1e74e4b0b631434878a8565a841c329241485836bd84fe11beaf4909bde469	La cena de Emaús	Caravaggio	1601
-caravaggio-judith	barroco	barroco/caravaggio-judith.png	c0aa1e2b904979a7c0ad389659bdc2b35a9b70d8601c125bae4b2a76a8dbb841	Judit y Holofernes	Caravaggio	c. 1599
-caravaggio-tomas	barroco	barroco/caravaggio-tomas.png	c8bdea02e240aa72a4d52c8c9c87656c07b714e01d26641a04597b9657593788	La incredulidad de santo Tomás	Caravaggio	c. 1602
-caravaggio-jugadores	barroco	barroco/caravaggio-jugadores.png	e565ea3eecdf2db8231a67154ff12bbee64042e7a0a49cbae8fbf89ddabd77a6	Los jugadores de cartas	Caravaggio	c. 1595
-gentileschi-judith	barroco	barroco/gentileschi-judith.png	6c1f09173ce96a3291c0aff8f6c9e60ab48c7df664086114b2c8359156999fe4	Judit decapitando a Holofernes	Artemisia Gentileschi	c. 1620
-latour-tramposo	barroco	barroco/latour-tramposo.png	e228a092199201f6e7e79c35e779ff17d656a8659ba95297fc11865949b1d468	El tramposo del as de diamantes	Georges de La Tour	c. 1635
-latour-recien	barroco	barroco/latour-recien.png	93a0c13e530c567d86554c08cf7ccff939d38499c28a66ab0921edd954a79dc5	El recién nacido	Georges de La Tour	c. 1648
-rembrandt-ronda	barroco	barroco/rembrandt-ronda.png	ec9acd39525768fdcc0b8b9b11163d82cf319afecf2991ae08c234bf26575f4a	La ronda de noche	Rembrandt	1642
-rembrandt-tulp	barroco	barroco/rembrandt-tulp.png	ae890db51de434305da399c40335113ad0a187adbaadfff2f45d4f309f5a1981	La lección de anatomía del doctor Tulp	Rembrandt	1632
-rembrandt-sindicos	barroco	barroco/rembrandt-sindicos.png	fed2aff69cd5cae44125ea372c850213fbe378810b0778970c0ea9ef290cc25f	Los síndicos de los pañeros	Rembrandt	1662
-rembrandt-cienflorines	barroco	barroco/rembrandt-cienflorines.png	14098392720c65d5f7b7c8ca2d60b099c5aedc6365fd002a8ca2a5e3bf590c70	La estampa de los cien florines	Rembrandt	c. 1648
-vermeer-delft	barroco	barroco/vermeer-delft.png	41c32d5e5166a5d170e1a711cd461407bc9470da0a74210b064da6c4e31a2dab	Vista de Delft	Johannes Vermeer	c. 1661
-vermeer-perla	barroco	barroco/vermeer-perla.png	e4cdfc312def8df4c28815a62192b785a02180b9da069e35517f9c6acf72c706	La joven de la perla	Johannes Vermeer	c. 1665
-vermeer-lechera	barroco	barroco/vermeer-lechera.png	1e574fad9815a8f438091004c2ab8e8fc02e649642db66f0c4d510f8ac8ccc6e	La lechera	Johannes Vermeer	c. 1658
-vermeer-pintura	barroco	barroco/vermeer-pintura.png	4f0217ff19708572c19a8b02445afa3e1690da44ab767d4c682fed056fbb6154	El arte de la pintura	Johannes Vermeer	c. 1666
-hals-regentes	barroco	barroco/hals-regentes.png	37b33444927670ba79dac93a986d1850d871461df8cb952ea535ffa92c755587	Las regentes del asilo de ancianos	Frans Hals	c. 1664
-rubens-jardin	barroco	barroco/rubens-jardin.png	c087ae19d49e506a0a4f83c9a06e40ae57118cdf86efb46f4153a69d2254a5c6	El jardín del amor	Peter Paul Rubens	c. 1633
-hobbema-avenida	barroco	barroco/hobbema-avenida.png	5b01d941946c7dfa1c7d4310ad77fd571d1fb047f0bae02afa7ef1c2c94d63dd	La avenida de Middelharnis	Meindert Hobbema	1689
-ruisdael-molino	barroco	barroco/ruisdael-molino.png	bad655b9138decb4c0dab910c9575957d51cf9cd5a99ab179c60b1b32e493f6c	El molino de Wijk bij Duurstede	Jacob van Ruisdael	c. 1670
-claesz-vanitas	barroco	barroco/claesz-vanitas.png	0bea5741be6688127e78763b3f4b3aa4d5701987c9893bdad2c0de4a18447348	Vanitas	Pieter Claesz	1630
-poussin-arcadia	barroco	barroco/poussin-arcadia.png	ed77eac37f063ec196b64c70d9822bbe4d7b123b89b429939980256748fddebe	Et in Arcadia ego	Nicolas Poussin	c. 1638
-lorrain-puerto	barroco	barroco/lorrain-puerto.png	94964274b53a78c060a4791a89a6f0fd2b09b191a1a513935d49982ca09cae96	Puerto con el embarque de la reina de Saba	Claude Lorrain	1648
-velazquez-venus	barroco	barroco/velazquez-venus.png	8e819f517bb525f019c40e1caaf846fadfd5c787e253709417da437a38ce84bd	La Venus del espejo	Diego Velázquez	c. 1651
-rembrandt-circulos	barroco	barroco/rembrandt-circulos.png	35fc2ae0da348311354754e946406bee8f2145a2a17a83b12c1c28a3bd2ef11e	Autorretrato con dos círculos	Rembrandt	c. 1665
-rubens-gracias	barroco	barroco/rubens-gracias.png	f38e1799c34fd77a2ad96b922a4fb841d456851e10afeff68b35f633dc943163	Las tres Gracias	Pedro Pablo Rubens	c. 1635
-david-marat	neoclasicismo	neoclasicismo/david-marat.png	cbd4c8ad18a8bb3c96507cc4205c089958c0289db02e2b76c1a3bcda5c5f33ad	La muerte de Marat	Jacques-Louis David	1793
-david-horacios	neoclasicismo	neoclasicismo/david-horacios.png	a3d43a7f9b9ea935897f74c75a3f7d0fa0d92cf6714c3543ee082c1cd849749d	El juramento de los Horacios	Jacques-Louis David	1784
-david-socrates	neoclasicismo	neoclasicismo/david-socrates.png	703628d4d8835fde885daae5cb04351d55bef1820084a89bdd38fff2cd8291cd	La muerte de Sócrates	Jacques-Louis David	1787
-david-coronacion	neoclasicismo	neoclasicismo/david-coronacion.png	a4884cdb6106a46ad72fe61f943eaaec0f4c14651e944c308b8ccb051ad4edc2	La coronación de Napoleón	Jacques-Louis David	1807
-david-sabinas	neoclasicismo	neoclasicismo/david-sabinas.png	7c59f36f9dc89a80a19bb921c43fcd5f506c9e3b6c6e5ffef4771bb47eb5406f	Las sabinas	Jacques-Louis David	1799
-david-recamier	neoclasicismo	neoclasicismo/david-recamier.png	e4e2b3ccbcd6b4c5f6883eaba940e555091ae3003cfefc877f1b3f8e8450af96	Retrato de Madame Récamier	Jacques-Louis David	1800
-david-napoleon	neoclasicismo	neoclasicismo/david-napoleon.png	e6819b1835b5f5df5b5e927da0197d15aacf41df9b12c5954c60155146d1e013	Napoleón cruzando los Alpes	Jacques-Louis David	1801
-ingres-odalisca	neoclasicismo	neoclasicismo/ingres-odalisca.png	93b6361132f42c0a825b4493df73cd441222e1bf9241d86574b4f5995d62c367	La gran odalisca	Jean-Auguste-Dominique Ingres	1814
-ingres-edipo	neoclasicismo	neoclasicismo/ingres-edipo.png	630dda26d8b57869d703d94e0c6f27cbf94d423faf90c5a581ea58086460b2df	Edipo y la esfinge	Jean-Auguste-Dominique Ingres	1808
-ingres-bertin	neoclasicismo	neoclasicismo/ingres-bertin.png	b5535882b90e3048881d4cae1e6b0cb77edcc06d3c68fa796c66fdc792b2efe4	Retrato de Louis-François Bertin	Jean-Auguste-Dominique Ingres	1832
-ingres-banista	neoclasicismo	neoclasicismo/ingres-banista.png	07ec6b724b028efa5f6333cdc0f09f0b3ea9b48c35a8e8876301a3f916f98d51	La bañista de Valpinçon	Jean-Auguste-Dominique Ingres	1808
-wright-bomba	neoclasicismo	neoclasicismo/wright-bomba.png	5c2e681cb1116ed1ec642591f9874af7722f0ff15325ce766082289ea81b1632	Experimento con un pájaro en una bomba de aire	Joseph Wright of Derby	1768
-wright-planetario	neoclasicismo	neoclasicismo/wright-planetario.png	fb8ef1fe414c2933b25a17b1ea5ac5a5e8de838152851eed5b6c339b50f05595	Un filósofo da una lección sobre el planetario	Joseph Wright of Derby	c. 1766
-west-wolfe	neoclasicismo	neoclasicismo/west-wolfe.png	91f403f963592ead120b3915b09af9f63b56f147578065d77d1c4a1aa99ef372	La muerte del general Wolfe	Benjamin West	1770
-kauffman-cornelia	neoclasicismo	neoclasicismo/kauffman-cornelia.png	ab57daa701836072f791e6a9786b8257c3a5c2bfcd6193219e531dbe08188e32	Cornelia, madre de los Gracos	Angelica Kauffman	c. 1785
-mengs-parnaso	neoclasicismo	neoclasicismo/mengs-parnaso.png	011ffe54b3a3704c67f080f3e137291a084a02d4763f47d04cf1291993368baa	El Parnaso	Anton Raphael Mengs	1761
-girodet-endimion	neoclasicismo	neoclasicismo/girodet-endimion.png	5c283704356a8158a01cbd322ab57240746c687a2c0e2e3c6d454c6ad7fc8c2d	El sueño de Endimión	Anne-Louis Girodet	1791
-gros-jaffa	neoclasicismo	neoclasicismo/gros-jaffa.png	a47bdef5ed6da62610ba93479dcbb9f93e6156a0467556ad9599dca01548ac43	Napoleón visita a los apestados de Jaffa	Antoine-Jean Gros	1804
-piranesi-panteon	neoclasicismo	neoclasicismo/piranesi-panteon.png	47aad65b85fbfc71e8faaaa9c77d6ff6787f8188f22812e9ed62a47bc4da4e19	Vista del Panteón	Giovanni Battista Piranesi	c. 1761
-piranesi-coliseo	neoclasicismo	neoclasicismo/piranesi-coliseo.png	0249c26301ede30f5afe6cb2f98ba39892d693f0a79815a365b8871171123365	Vista del Coliseo	Giovanni Battista Piranesi	c. 1776
-piranesi-carceles	neoclasicismo	neoclasicismo/piranesi-carceles.png	2cf075dd24d41ae51e54202a7686931838e2c538389860fca81fe867fc11b109	Cárceles, lámina VII: el puente levadizo	Giovanni Battista Piranesi	1761
-flaxman-iliada	neoclasicismo	neoclasicismo/flaxman-iliada.png	cb115d41c1a1f465e8c0d8a1b0ca8874400f30ba615b05244e0c59ed1ce0e927	Ilustración de la Ilíada	John Flaxman	1793
-goya-mayo	romanticismo	romanticismo/goya-mayo.png	f2a0d6bf46b9a8c0023d7c1f80ed4352344acd8c62407f86e360dfb2dedc570a	El 3 de mayo en Madrid	Francisco de Goya	1814
-goya-saturno	romanticismo	romanticismo/goya-saturno.png	1b64070ab6bfce944b3f1efa44af5a89f76bdff1e82f6e76d4d4aef46f3f9d43	Saturno devorando a su hijo	Francisco de Goya	c. 1823
-goya-garrotazos	romanticismo	romanticismo/goya-garrotazos.png	834c9b884f7d49607b36b6b396878780191618a89aeb4d16522279cfa99a7177	Duelo a garrotazos	Francisco de Goya	c. 1823
-goya-aquelarre	romanticismo	romanticismo/goya-aquelarre.png	40f0b223cced7ff8416e2f43397f5c23ce5ccb239e916707d1d2d88ccb6172d8	El aquelarre	Francisco de Goya	c. 1823
-goya-sueno	romanticismo	romanticismo/goya-sueno.png	9a9aa3304d3e226e512a1b2172a7a895e1172d2dbd08927e926c21a79bdad87a	El sueño de la razón produce monstruos	Francisco de Goya	1799
-goya-majadesnuda	romanticismo	romanticismo/goya-majadesnuda.png	1b46a9cf0f7f342519327a7ca6e5e82a2221da75bf7879e6b401ee4d2f9c5743	La maja desnuda	Francisco de Goya	c. 1800
-goya-carlosiv	romanticismo	romanticismo/goya-carlosiv.png	f0cf6aa3251200fd8d50197a1c328b17f5a5147c9cfb127d94ca3ee7f3ba18a0	La familia de Carlos IV	Francisco de Goya	1800
-goya-hazana	romanticismo	romanticismo/goya-hazana.png	36b70a588e742395b4d2d9f8253d9ce474ce535a30cee9bdb6c2b09c60b57449	Desastres de la guerra: ¡Grande hazaña! ¡Con muertos!	Francisco de Goya	c. 1810
-goya-pepeillo	romanticismo	romanticismo/goya-pepeillo.png	b5f951112f07aedcd43ed7ce02e21d10c823356eea2a3877beefe559c89a0bed	Tauromaquia: la muerte de Pepe Illo	Francisco de Goya	1816
-friedrich-caminante	romanticismo	romanticismo/friedrich-caminante.png	0e04db4a95fd51477902fdc0b929211b7c6b8f4c183c267a4c90f720dfe0d7f7	El caminante sobre el mar de nubes	Caspar David Friedrich	c. 1818
-friedrich-monje	romanticismo	romanticismo/friedrich-monje.png	b0f28de32b53063e6a71b8576b9a79c7813400ac85ecc9bfd85b667b639cb374	El monje a la orilla del mar	Caspar David Friedrich	c. 1810
-friedrich-hielo	romanticismo	romanticismo/friedrich-hielo.png	6b95711d9ca287e22fecb3d8e8237520c6807df11023f0130eea0b313d55fc41	El mar de hielo	Caspar David Friedrich	c. 1824
-friedrich-abadia	romanticismo	romanticismo/friedrich-abadia.png	df598914cab6431bab2d11e3ca7fad90e958a931a16b6791d8f339257aba224a	Abadía en el robledal	Caspar David Friedrich	c. 1810
-friedrich-luna	romanticismo	romanticismo/friedrich-luna.png	417f9945677b8f716bad96facc222aff39648b18a25e3cc57b1ce7a939f68c00	Dos hombres contemplando la luna	Caspar David Friedrich	c. 1820
-friedrich-invierno	romanticismo	romanticismo/friedrich-invierno.png	c9eaa9fb0cfbf684d51ad70cec2951a3d1db7c0a1b0767b118616e736a98a4b9	Paisaje invernal con iglesia	Caspar David Friedrich	1811
-turner-temerario	romanticismo	romanticismo/turner-temerario.png	3a807bde749d5fd52fe1710ddb5433ddb0072d83a7342f6243b30ef0f08a5499	El Temerario remolcado a su último atraque	J. M. W. Turner	1839
-turner-lluvia	romanticismo	romanticismo/turner-lluvia.png	5ee95d200717981c7e2011c8d10a416a1973b169fd1cefcc27ced3df05997a52	Lluvia, vapor y velocidad	J. M. W. Turner	1844
-turner-anibal	romanticismo	romanticismo/turner-anibal.png	48e61b02cea6959a983535a252bb843001719e45bd638a6fac7f0683dd887699	Tormenta de nieve: Aníbal cruzando los Alpes	J. M. W. Turner	1812
-constable-carro	romanticismo	romanticismo/constable-carro.png	47372dc7f3fd5fac1239579cb18dd8a8bbb2525c6674445727b6770113dd5d99	El carro de heno	John Constable	1821
-gericault-medusa	romanticismo	romanticismo/gericault-medusa.png	144ed73b0cb46b256a7fa99ef879408d7d984a24b431bef7cac9ad22f15f1036	La balsa de la Medusa	Théodore Géricault	1819
-delacroix-libertad	romanticismo	romanticismo/delacroix-libertad.png	7ed8737ed05b977929075925f7731a5b9f5e279d8dc93722643a2481f2c374cf	La libertad guiando al pueblo	Eugène Delacroix	1830
-delacroix-sardanapalo	romanticismo	romanticismo/delacroix-sardanapalo.png	cce81b3211d7ed9fd4460ac5993401fb549289bbbe980b26cfc6b99f87d5cc6c	La muerte de Sardanápalo	Eugène Delacroix	1827
-delacroix-dante	romanticismo	romanticismo/delacroix-dante.png	71adb7b15cd457e5e3b31709caf0c635e0d2069abceb41e09dbe8792e6d456cc	La barca de Dante	Eugène Delacroix	1822
-fussli-pesadilla	romanticismo	romanticismo/fussli-pesadilla.png	0bd4f9961926cc1eb7554ab73b9b796cc203fe0012b22f26d00426af3706baa1	La pesadilla	Johann Heinrich Füssli	1781
-blake-newton	romanticismo	romanticismo/blake-newton.png	a77dc7ecb401fa5fe5e71bbac88f3b9b155b643aab0d47c592ba66abf97b8bad	Newton	William Blake	1795
-cole-destruccion	romanticismo	romanticismo/cole-destruccion.png	b28706a6b51fab9bce34771137ec3f2a13215b76462db35d47853fd95ce7e612	El curso del imperio: destrucción	Thomas Cole	1836
-aivazovsky-ola	romanticismo	romanticismo/aivazovsky-ola.png	e05fd3571df38c032f828475b4456f95d41f3fc15c7385a2025a9921a2138fb6	La novena ola	Iván Aivazovski	1850
-martin-ira	romanticismo	romanticismo/martin-ira.png	feea13a26049ca65a73a49857651f042ef785176689eceb69e65b605b82d3214	El gran día de su ira	John Martin	1853
-dore-caronte	romanticismo	romanticismo/dore-caronte.png	92ac2d9d2ada00164502a3e062a3abf9e30902995621e12697411f021846a8ce	Infierno: Caronte	Gustave Doré	1857
-dore-londres	romanticismo	romanticismo/dore-londres.png	c7e919e1d892309128d43b2029c175c7365f3ec9a7cc6838ad2d9b99cb81f57a	Londres: Over London by Rail	Gustave Doré	1872
-dore-diluvio	romanticismo	romanticismo/dore-diluvio.png	e0cf2b742f3689a84d2708fb8e299bbbb85fb026d9e7f5ea31fc111ae33ed3fd	La Biblia: el diluvio	Gustave Doré	1866
-delacroix-argel	romanticismo	romanticismo/delacroix-argel.png	5e299ac9b1b443e856b2e39d253f80cfeb0b0ad4fd8dce891454a002343e73fa	Mujeres de Argel	Eugène Delacroix	1834
-goya-majavestida	romanticismo	romanticismo/goya-majavestida.png	de4723b897a8e0f1eea543c18c549790d6baf3b03a43a92c57d3da717ab5fdc0	La maja vestida	Francisco de Goya	c. 1805
-millet-espigadoras	realismo	realismo/millet-espigadoras.png	2a6826f6c1f399d06d654558a81f5222e72e841602185f8ef9b541b10e32e51d	Las espigadoras	Jean-François Millet	1857
-millet-angelus	realismo	realismo/millet-angelus.png	745c7a3ab36a2ff5100ed45b800239b86e29d78167c7666bb78ebf096e0aae6a	El Ángelus	Jean-François Millet	1859
-millet-sembrador	realismo	realismo/millet-sembrador.png	7419f48bce1e78fcda0e409026544ccb7a89e55029372a1dc4c8b553dc410adf	El sembrador	Jean-François Millet	1850
-courbet-ornans	realismo	realismo/courbet-ornans.png	19effd9eba74c8c60ef8b3b5f9bf0c7dee8073e01e7ba765eb162a97fe8d1ca8	Entierro en Ornans	Gustave Courbet	1850
-courbet-picapedreros	realismo	realismo/courbet-picapedreros.png	62352d2aeb8f3e1c7b0d2bfafcffb6760ef25fd9a74c97f355f0a6106f5f8173	Los picapedreros	Gustave Courbet	1849
-courbet-desesperado	realismo	realismo/courbet-desesperado.png	c526def17bed41bfe7c6c8454442c270b4db800e51d67f3c9244625d9cc1bf5b	El desesperado	Gustave Courbet	c. 1845
-courbet-buenosdias	realismo	realismo/courbet-buenosdias.png	7a050c67fe8b049f9d3a81461ebc76e0cd0e4ea74fe5066f4f99c9a244ee018b	¡Buenos días, señor Courbet!	Gustave Courbet	1854
-courbet-ola	realismo	realismo/courbet-ola.png	1546301a9e23280c2c536cb153efeb7182b3ddac7d07422f693ec7f502e296da	La ola	Gustave Courbet	1869
-courbet-taller	realismo	realismo/courbet-taller.png	dd2e411821c20f105f9b98cbe1c5c54525458bf148b29f3d86dc72e8f69826f6	El taller del pintor	Gustave Courbet	1855
-daumier-vagon	realismo	realismo/daumier-vagon.png	5893ba37cc8996a8bb9c19859dd761bac3cfcda0d36a04b2a8c151bf4d32b3f2	El vagón de tercera clase	Honoré Daumier	c. 1864
-daumier-transnonain	realismo	realismo/daumier-transnonain.png	fcaf7d4df3720bb5e82d8c0ff4abe3937340886f0a396cce810621e0363a0402	Rue Transnonain, 15 de abril de 1834	Honoré Daumier	1834
-daumier-lavandera	realismo	realismo/daumier-lavandera.png	54c2fb9442c6623e052a65e2b5dddb46faf1026d1c6715e9cd88d13be308cdf5	La lavandera	Honoré Daumier	c. 1863
-bonheur-feria	realismo	realismo/bonheur-feria.png	152f6f712c2d860ad08d73cfd41fd81be43c46b214508941ba7c92618d851c04	La feria de caballos	Rosa Bonheur	1853
-bonheur-arando	realismo	realismo/bonheur-arando.png	af4dd06ef9000558984b184ff11c5cafda1e220b7ee355efbf7915f22ba7e19b	Arando en el Nivernais	Rosa Bonheur	1849
-repin-sirgadores	realismo	realismo/repin-sirgadores.png	ba908738e2d60b8b8b2581b3028e268675323afcdf4bafd5db8aa6092791e8df	Los sirgadores del Volga	Iliá Repin	1870
-repin-cosacos	realismo	realismo/repin-cosacos.png	2a77d6f3b9542009d5ef8cce5c6f1d0f218351b386674e2446ab9748fb05a0b3	Los cosacos zaporogos escriben al sultán	Iliá Repin	1891
-homer-corriente	realismo	realismo/homer-corriente.png	79e4ef6927f7435aeaa52c4ba1b3a868111558d3471e4745bee0bf8fa052048b	La corriente del Golfo	Winslow Homer	1899
-homer-viento	realismo	realismo/homer-viento.png	d74f1cab3c18d254745b010981e6d969348f72a6bebfbb0cd0d2087602306555	Viento fresco	Winslow Homer	1876
-eakins-schmitt	realismo	realismo/eakins-schmitt.png	b1cb7f9c6fe4445da4e52137ca2e36362694142805d667d792655c96de476192	Max Schmitt en un bote individual	Thomas Eakins	1871
-eakins-gross	realismo	realismo/eakins-gross.png	772e08cbd1d1115949c2be2ad433f00d60fec404aad214d6c9c758eff1d01dc5	La clínica Gross	Thomas Eakins	1875
-menzel-forja	realismo	realismo/menzel-forja.png	81d34f25241884840ba0488dcf3fe36b2c199efb971c5f3449dbfeda16ef5bfb	La forja	Adolph Menzel	1875
-corot-mortefontaine	realismo	realismo/corot-mortefontaine.png	ab99cfffbc265f438a728e835a16aa15e411396cf86ad177015d6e8da6a440cc	Recuerdo de Mortefontaine	Camille Corot	1864
-bastien-heno	realismo	realismo/bastien-heno.png	9c09f39e6499855c7f56bf5066544741ec6de03d0012080562196ccab83d58b6	El heno	Jules Bastien-Lepage	1877
-sorolla-pescado	realismo	realismo/sorolla-pescado.png	988b2c834c7df9245a999d5aab9880cf5fe3da2e198b767fe4859ff5a7cd12be	¡Aún dicen que el pescado es caro!	Joaquín Sorolla	1894
-casas-garrote	realismo	realismo/casas-garrote.png	86f8df9521215d23cc6318a8acde4275e788945e5c321cc03a91a6d5955a12c0	Garrote vil	Ramon Casas	1894
-breton-alondra	realismo	realismo/breton-alondra.png	62b35bf0a421c353cef845559176fed32f33bfc61f086c3fddbb41348bb3b5b8	El canto de la alondra	Jules Breton	1884
-repin-ivan	realismo	realismo/repin-ivan.png	64f1a00c80ba8a229f2751dda5d3ccd48301cc8204e0baaefb77cd5bc1ac41ce	Iván el Terrible y su hijo	Iliá Repin	1885
-wood-gotico	realismo	realismo/wood-gotico.png	74c2df7af16e08efdf96f2b03e7625262145090bb4e7f7987a7df825e7f19a78	American Gothic	Grant Wood	1930
-hopper-nighthawks	realismo	realismo/hopper-nighthawks.png	fc615af0b342bf2e4a7d52a1244ce8900b3ded0238008b88408384ac9d8340eb	Nighthawks	Edward Hopper	1942
-hopper-domingo	realismo	realismo/hopper-domingo.png	f20d700cafb1c6ff9d329f87a8185bd8530335d7f37b2435516586763d6f2020	Early Sunday Morning	Edward Hopper	1930
-wyeth-christina	realismo	realismo/wyeth-christina.png	f5b2f4a10037c36acd9f0d6c055c20c72b2631d9ec91766d0249fb0524467027	El mundo de Christina	Andrew Wyeth	1948
-monet-saintlazare	impresionismo	impresionismo/monet-saintlazare.png	f64c4ad9d5a7ef31ebffe1a1db8be8555f4bd2070a7ee84a0317f1a2d4354976	La estación de Saint-Lazare	Claude Monet	1877
-monet-urraca	impresionismo	impresionismo/monet-urraca.png	36580c5bca8f0f8a53871ba3bc9d4ad89205546cf251ea10f99e068c4c81ea94	La urraca	Claude Monet	c. 1869
-monet-impresion	impresionismo	impresionismo/monet-impresion.png	4572a7ade76425f94f1f2d59f53bd4e116cfd6acdd0c7e516fa5b547e17f8e44	Impresión, sol naciente	Claude Monet	1872
-manet-almuerzo	impresionismo	impresionismo/manet-almuerzo.png	c80981723056223be19ef05aa830228934b13f7186e971fc529e1f3d7ffb5529	Almuerzo sobre la hierba	Édouard Manet	1863
-manet-olympia	impresionismo	impresionismo/manet-olympia.png	4ed0c45c35d0508c721578dd856c7664ef08d0804a3c9023234557dfeab7262d	Olympia	Édouard Manet	1863
-manet-folies	impresionismo	impresionismo/manet-folies.png	bde9c6b664c8134d77ad34ea468f1535ac33df57679a647e6fd8d86f4348396e	Un bar del Folies-Bergère	Édouard Manet	1882
-manet-pifano	impresionismo	impresionismo/manet-pifano.png	2f831b69a5e61f7f5dff4bf37dabd9661b184f3f353c76396c81c91e8db7d609	El pífano	Édouard Manet	1866
-degas-clase	impresionismo	impresionismo/degas-clase.png	89fabbdef29bf358ed9cd86c7f5d1f4e4cbde017c22f6e8deaf1cbe4f0552148	La clase de danza	Edgar Degas	c. 1874
-degas-absenta	impresionismo	impresionismo/degas-absenta.png	bdb6224938143a4ab798f5bd0e3fbad6c53f69493974e6d20738496efbe48d8a	La absenta	Edgar Degas	1876
-degas-barra	impresionismo	impresionismo/degas-barra.png	8bd364c6e240dc163e276e4731197b95ac47e9818ebeaf403be8ae20ea81c7ec	Bailarinas en la barra	Edgar Degas	c. 1888
-renoir-galette	impresionismo	impresionismo/renoir-galette.png	727205a25ea40db20187f6ea30d1feeb78bcfe4f56ea6a34b22dcec18c156b87	Baile en el Moulin de la Galette	Pierre-Auguste Renoir	1876
-renoir-remeros	impresionismo	impresionismo/renoir-remeros.png	d4b113b4017ba290d5feb0879d784395b04906ece9ac3281ed106a8085f6073c	El almuerzo de los remeros	Pierre-Auguste Renoir	1881
-caillebotte-lluvia	impresionismo	impresionismo/caillebotte-lluvia.png	47a5aab9e4bb05789f305e96c39ca99a709ebbc07a68bd5093f142c08fa82bb2	Calle de París, día lluvioso	Gustave Caillebotte	1877
-caillebotte-acuchilladores	impresionismo	impresionismo/caillebotte-acuchilladores.png	e30725a25384c993e9c846860fa156eb960e4ce9d15ddd6026a4aae1206b6455	Los acuchilladores de parqué	Gustave Caillebotte	1875
-caillebotte-europa	impresionismo	impresionismo/caillebotte-europa.png	0c523814768305e86762b60ba83feafed89d568fcdddf2643ba5a441c154cccd	El puente de Europa	Gustave Caillebotte	1876
-pissarro-noche	impresionismo	impresionismo/pissarro-noche.png	f5ce8c632bcc6452fb47a8f72ef2d6dd68d39e7a562b8f50d6b0fd1abe11cc81	Boulevard Montmartre de noche	Camille Pissarro	1897
-pissarro-invierno	impresionismo	impresionismo/pissarro-invierno.png	b43be3148653ae578786e132fb0d41fb45ab2aa7d9e2dd5c161ef7a9b17da58c	Boulevard Montmartre, mañana de invierno	Camille Pissarro	1897
-sisley-inundacion	impresionismo	impresionismo/sisley-inundacion.png	aaf73b783496f600d0e6b4c8b7a50adf95670bf2a7da07a5f55aef5425cf1f4c	La inundación en Port-Marly	Alfred Sisley	1876
-morisot-cuna	impresionismo	impresionismo/morisot-cuna.png	c146f8e07c3764a31674ed42070e19141795ed052fc1e80d704b196ce48917b8	La cuna	Berthe Morisot	1872
-cassatt-bano	impresionismo	impresionismo/cassatt-bano.png	f3ed69809d8304cc98c39e5d0933e2daa3f16811e82355969bacae44b1c8a451	El baño	Mary Cassatt	1893
-whistler-madre	impresionismo	impresionismo/whistler-madre.png	c172a9ed7dd981f1693613b785e0ef8e46d8c590206354d1617a16f30719061e	Composición en gris y negro (La madre del artista)	James McNeill Whistler	1871
-sargent-jaleo	impresionismo	impresionismo/sargent-jaleo.png	1058e5d651515ff3383e72bdca8bec5a46df9c6a264be1a880e974bac0005ae3	El Jaleo	John Singer Sargent	1882
-sargent-boit	impresionismo	impresionismo/sargent-boit.png	6b387b980aeaee0593aaaf8bb75fbe66e7b738139cba7b601624dd2924f93a89	Las hijas de Edward Darley Boit	John Singer Sargent	1882
-sorolla-paseo	impresionismo	impresionismo/sorolla-paseo.png	ea039823a2aaa1118314050e3390c6a47726643e9a0d3af25369ee074e6a4be8	Paseo a orillas del mar	Joaquín Sorolla	1909
-sorolla-ninos	impresionismo	impresionismo/sorolla-ninos.png	0dd047834e536849fbba9056811ea1dab7bf62326464baa535c1c69952ffce28	Niños en la playa	Joaquín Sorolla	1910
-vangogh-noche	postimpresionismo	postimpresionismo/vangogh-noche.png	ceee4faf6ea95b94faead290f631cef98e2c669f9271815f7914b8b9dbdb229b	La noche estrellada	Vincent van Gogh	1889
-vangogh-patatas	postimpresionismo	postimpresionismo/vangogh-patatas.png	063c56d8e52c5c6940c527f6699af4d27ee9db849abfa40b240a532e494cf7f7	Los comedores de patatas	Vincent van Gogh	1885
-vangogh-rodano	postimpresionismo	postimpresionismo/vangogh-rodano.png	b00c69ff500c151c30888f24e662dedf3b0a7fa89e4669967a3bbb7712cff127	Noche estrellada sobre el Ródano	Vincent van Gogh	1888
-vangogh-cuervos	postimpresionismo	postimpresionismo/vangogh-cuervos.png	c8f7080f406a1e702bc1f9a9707c5484165b3e53a749fddeb1dfad4e8e59db2b	Campo de trigo con cuervos	Vincent van Gogh	1890
-vangogh-crau	postimpresionismo	postimpresionismo/vangogh-crau.png	1d85d443dda7778b8b42e2fc65ef05183bf5320d0125a0d51b353bf808581d61	La Crau vista desde Montmajour	Vincent van Gogh	1888
-vangogh-autorretrato	postimpresionismo	postimpresionismo/vangogh-autorretrato.png	59dab63644626b9c251848ebc0eb4ecc7eb446d638463ce1d3e162337c381fd4	Autorretrato	Vincent van Gogh	1889
-seurat-jatte	postimpresionismo	postimpresionismo/seurat-jatte.png	a59c85e26956858fb1964b4df36bab7bb88abe40d369640653043da798d9c57c	Tarde de domingo en la isla de la Grande Jatte	Georges Seurat	1886
-seurat-asnieres	postimpresionismo	postimpresionismo/seurat-asnieres.png	af01907d0a01894b7562bffbcbbcf8359564a03adb1a3d38277023e2561ce0a5	Bañistas en Asnières	Georges Seurat	1884
-seurat-amanjean	postimpresionismo	postimpresionismo/seurat-amanjean.png	c7bb8f8bb5fac5963f6aba660d16252f44952c2f691a15b995ec056255d5273e	Aman-Jean	Georges Seurat	1883
-cezanne-jugadores	postimpresionismo	postimpresionismo/cezanne-jugadores.png	ac306c95e364da23a8432402473ef6c0c7e748bb0f7cd18db76d240df46421ea	Los jugadores de cartas	Paul Cézanne	c. 1895
-cezanne-victoire	postimpresionismo	postimpresionismo/cezanne-victoire.png	18e00ae77389813a3f4c8536e42545b26810875a98f6c8ec2100878060498f92	La montaña Sainte-Victoire	Paul Cézanne	1904
-cezanne-banistas	postimpresionismo	postimpresionismo/cezanne-banistas.png	6ca9c37af4f77d72a0c73554346b280ae95b4175e1f81f0145eb3da5205e6db9	Las grandes bañistas	Paul Cézanne	1906
-cezanne-manzanas	postimpresionismo	postimpresionismo/cezanne-manzanas.png	29849152accc2f6aac6f5dd46f0c7c17d025415ea7ff414e1c95795904a48d29	Bodegón con manzanas	Paul Cézanne	c. 1895
-gauguin-donde	postimpresionismo	postimpresionismo/gauguin-donde.png	7bd9a2c448814e56be49d051a3cfbf5cb4f86b3ac11e07b0d08bc8f551c78020	¿De dónde venimos? ¿Qué somos? ¿Adónde vamos?	Paul Gauguin	1897
-gauguin-vision	postimpresionismo	postimpresionismo/gauguin-vision.png	4ae23901d9d2d2f7793183dd56b92199ae1e328ffc84adbcdec0d8c343e5f185	La visión después del sermón	Paul Gauguin	1888
-gauguin-noanoa	postimpresionismo	postimpresionismo/gauguin-noanoa.png	421960f3d1c047196162cc8988333d358c40a429adcc26853970a11b7c546f9b	Noa Noa	Paul Gauguin	1894
-lautrec-moulinrouge	postimpresionismo	postimpresionismo/lautrec-moulinrouge.png	0a81c43f880e74b372623a7eeec05088696ab160e020ea648c06d914a5e4e96a	En el Moulin Rouge	Henri de Toulouse-Lautrec	1892
-lautrec-goulue	postimpresionismo	postimpresionismo/lautrec-goulue.png	d10a2cfbe96dc690464a297d75fdac57c67f9bc377712f7d1b205709f3f2125b	Moulin Rouge: La Goulue	Henri de Toulouse-Lautrec	1891
-lautrec-avril	postimpresionismo	postimpresionismo/lautrec-avril.png	72ac4dbf188aee910e5e537084b09596010dee5be54acd4ae4c527a0e740b85a	Jane Avril	Henri de Toulouse-Lautrec	1893
-rousseau-gitana	postimpresionismo	postimpresionismo/rousseau-gitana.png	5670136011a87dc230e294706cd9e5fb4a561c2a1ab77ae27eda8841c2d58721	La gitana dormida	Henri Rousseau	1897
-rousseau-sorprendido	postimpresionismo	postimpresionismo/rousseau-sorprendido.png	f2534beed68129f28b93ea33accbd14813ba98e97d6855d06b759286895cfcf8	¡Sorprendido!	Henri Rousseau	1891
-rousseau-sueno	postimpresionismo	postimpresionismo/rousseau-sueno.png	f5f4398b93159ef5a251d382e3d439b2f7b5d14ad1bd7894a787b750017df7f4	El sueño	Henri Rousseau	1910
-vuillard-interior	postimpresionismo	postimpresionismo/vuillard-interior.png	d99623c15888c4e033671194d9e523edccbe15d2f65d3e2972354ebed792dc62	Interior, madre y hermana del artista	Édouard Vuillard	1893
-vangogh-sembrador	postimpresionismo	postimpresionismo/vangogh-sembrador.png	6237e89aab20467017a79f4b12efa925605c5633f02c521346b4f0d11c322892	El sembrador	Vincent van Gogh	1888
-cezanne-calaveras	postimpresionismo	postimpresionismo/cezanne-calaveras.png	d50a9f95c80166f514cd7ba24340dbf3f3db4a9cf49a7be8d1442d98870dcd4c	Pirámide de calaveras	Paul Cézanne	c. 1901
-vangogh-almendro	postimpresionismo	postimpresionismo/vangogh-almendro.png	dc74b206478434a2bb1128936e9f7467c085714ab482734375c3c3f956c83f2f	Almendro en flor	Vincent van Gogh	1890
-bonnard-comedor	postimpresionismo	postimpresionismo/bonnard-comedor.png	b7718264fbaa0fd9a5f895f387ae2de4581884ada5ed018ee33b969fd19a2be1	El comedor en el campo	Pierre Bonnard	1913
-bocklin-isla	simbolismo	simbolismo/bocklin-isla.png	b1a108eef1383dcf869e3641f75da8f3c4a2ca4bc7255d3d632f28876ffbde89	La isla de los muertos	Arnold Böcklin	1880
-klimt-beethoven	simbolismo	simbolismo/klimt-beethoven.png	e36f31bebbbd3653d9ca79975e6b9efe4a520d205db1d89a063e40db855e1367	Friso de Beethoven	Gustav Klimt	1902
-klimt-judith	simbolismo	simbolismo/klimt-judith.png	14ef596e2235fe50d9a3e241b0c4b098856ecfe1fa79714b08827f72832645bd	Judith I	Gustav Klimt	1901
-millais-ofelia	simbolismo	simbolismo/millais-ofelia.png	7d821defc5c7808c329df22ba4adbf0659395bdc24fdb6c9107153e3ae0315ab	Ofelia	John Everett Millais	1852
-waterhouse-shalott	simbolismo	simbolismo/waterhouse-shalott.png	7b40f333b4ff93f04e43a36ac7a68328bb250dae91aff71460749ea1a82e20ad	La dama de Shalott	John William Waterhouse	1888
-burnejones-escalera	simbolismo	simbolismo/burnejones-escalera.png	4ef8814ca4db16808678c5c137dacd55b995282b142d0717378a6d14c460e00d	La escalera dorada	Edward Burne-Jones	1880
-puvis-pescador	simbolismo	simbolismo/puvis-pescador.png	adf84bf3cf741ed707f1429b25e02aaf913fbf265ab9aafa2b2c44fc2002f782	El pobre pescador	Pierre Puvis de Chavannes	1881
-puvis-bosque	simbolismo	simbolismo/puvis-bosque.png	328b2822f2f34e33773add1c1e2d62b184a02a8195eccedb34cf795828277d1d	El bosque sagrado	Pierre Puvis de Chavannes	1884
-moreau-aparicion	simbolismo	simbolismo/moreau-aparicion.png	df377e053ec0cca30925d9b8bb4e6fd89c362e29e8f05c3e88eb227077ae1eba	La aparición	Gustave Moreau	1876
-redon-ojo	simbolismo	simbolismo/redon-ojo.png	50b025f4bc89dd1959dc21ccad86b385365b78a4fb07ea5cc5d6e27f76d943f8	El ojo, como un globo extraño, se dirige hacia el infinito	Odilon Redon	1882
-khnopff-caricias	simbolismo	simbolismo/khnopff-caricias.png	44591b751317f13dd904be6e18af47b330ca48e0560016ac8517898b544618f9	Las caricias	Fernand Khnopff	1896
-hodler-ginebra	simbolismo	simbolismo/hodler-ginebra.png	c3f516a3fbfbde83fb4b1ffc238d757d221c9b51b38edf5ccf126ab707aa3595	El lago de Ginebra desde Chexbres	Ferdinand Hodler	1905
-hammershoi-piano	simbolismo	simbolismo/hammershoi-piano.png	d0a5a2e4980d76e7376fa0efca916455eb9a5ff9ea25e1fb62cbdc5b6979aa15	Interior con mujer al piano	Vilhelm Hammershøi	1901
-hammershoi-polvo	simbolismo	simbolismo/hammershoi-polvo.png	66620683f88c128eb023439eb27186e13fe3239f5a8b0895d49084ed77a8af62	Rayos de sol (Polvo bailando)	Vilhelm Hammershøi	1900
-hammershoi-strandgade	simbolismo	simbolismo/hammershoi-strandgade.png	8c070217804f42ae90681da696d66438a6b4cd62f39907d2246c4e0228fc4684	Interior, Strandgade 30	Vilhelm Hammershøi	1901
-whistler-cohete	simbolismo	simbolismo/whistler-cohete.png	bbc073d40cc4ae401313c04b5e0cfe06f78ca2956f8d96733d27cd2bb9d5295a	Nocturno en negro y oro: el cohete cayendo	James McNeill Whistler	1875
-mucha-estaciones	simbolismo	simbolismo/mucha-estaciones.png	17faf50b6d6fa7b8ba1a1c32c5785a7b1de275b3998a796c0ce8c52478d38365	Las estaciones	Alfons Mucha	1896
-mucha-job	simbolismo	simbolismo/mucha-job.png	3516e0dbc5f2c1300711f55eea35249b0b703ac599c9b20bf53e8e78f4a747c2	Job	Alfons Mucha	1896
-beardsley-climax	simbolismo	simbolismo/beardsley-climax.png	8f2866d9c4ec18334af366830ad1bf1fbf19a1ae0404f3b8050ed684b305fb37	Salomé: el clímax	Aubrey Beardsley	1893
-beardsley-pavo	simbolismo	simbolismo/beardsley-pavo.png	981d3d7908fee4bbc04af430709ed3bb8b43602167268ae72e65cdbf8e2c0183	Salomé: la falda de pavo real	Aubrey Beardsley	1893
-romero-fuensanta	simbolismo	simbolismo/romero-fuensanta.png	dcca7b2d13e50c9f18b8d84b0c9287f2f0f19e00a3976dc322df3ce849b2f9e0	La Fuensanta	Julio Romero de Torres	1929
-segantini-madres	simbolismo	simbolismo/segantini-madres.png	5818bc1c9b4d4015a6b464b48be7e10f4b65807122dce1bd52a97a03a3a872a0	Las dos madres	Giovanni Segantini	1889
-mucha-gismonda	simbolismo	simbolismo/mucha-gismonda.png	842b17a2fd22e095c81490ea50500f2df639ce9c71366add14feb27a9a1a241b	Gismonda	Alfons Mucha	1894
-munch-gritolito	expresionismo	expresionismo/munch-gritolito.png	64f37aa58d739b3eacacb46816d4d9225b826e2326f1f6852a9a0c7a49290f4b	El grito (litografía)	Edvard Munch	1895
-munch-melancolia	expresionismo	expresionismo/munch-melancolia.png	a61b3b950fc056575ea198b5ba9fce945e12ded4b6b9209eb124ae70bba818e6	Melancolía	Edvard Munch	1894
-munch-danza	expresionismo	expresionismo/munch-danza.png	04cc089f8492ff15cbbef480f196a07f8b577972becaa5e6cdeb6cbe87ac7a19	La danza de la vida	Edvard Munch	1900
-munch-noche	expresionismo	expresionismo/munch-noche.png	68cf2eb5ca6c5ca62af7fbc02f3435ee21c26b42ce4993c0df1f19591fb1c749	Noche estrellada	Edvard Munch	1893
-munch-vampiro	expresionismo	expresionismo/munch-vampiro.png	470152d361546304ead5a43ff2647e63ba311552448305324b91ad924bb7e227	Vampiro	Edvard Munch	1895
-munch-beso	expresionismo	expresionismo/munch-beso.png	925907e0a30127b479db95db4f18679a3b50ce3717bc48850310f9b0e18edc33	El beso	Edvard Munch	1897
-kirchner-calle	expresionismo	expresionismo/kirchner-calle.png	d36c4cde6dc4eb616d336d00b38592d77fcb50a5df1de54940968a250481c1ed	Calle, Berlín	Ernst Ludwig Kirchner	1913
-schiele-ciudad	expresionismo	expresionismo/schiele-ciudad.png	20587e9fb0bcd098590ddd47257fb5f300e59380a2ff73c993882e6b8159355f	Ciudad muerta	Egon Schiele	1911
-schiele-casas	expresionismo	expresionismo/schiele-casas.png	5b2ed3c57e1e787737fac52ae39db1b9bc604564eb29faa249eebc599e59946d	Casas junto al río	Egon Schiele	1914
-schiele-autorretrato	expresionismo	expresionismo/schiele-autorretrato.png	64f977f7df6e5a6c84fdfa1ff727c4c5a232c12af3ee4937f9efc985512a1631	Autorretrato con cabeza baja	Egon Schiele	1912
-kollwitz-tejedores	expresionismo	expresionismo/kollwitz-tejedores.png	5ce21df429fea7af71f4491c89739fed5bb133b2a9c36c46bc772c6911c708b7	Una revuelta de tejedores: marcha de los tejedores	Käthe Kollwitz	1897
-kollwitz-nino	expresionismo	expresionismo/kollwitz-nino.png	b8e839630715ce138357cd351b0945f7c3e82ca7ab1dadc329121bd1d63ae558	Mujer con niño muerto	Käthe Kollwitz	1903
-marc-destino	expresionismo	expresionismo/marc-destino.png	00510f7193ae5b3f46c26522cb9a3c668663a9519166c1f9d9c0a589f7415d47	El destino de los animales	Franz Marc	1913
-schiele-abrazo	expresionismo	expresionismo/schiele-abrazo.png	32604ef62bbf59b560a965533ab90dbf489b7fffee09fbf404ad51b7b1990f1f	El abrazo	Egon Schiele	1917
-kandinsky-jinete	expresionismo	expresionismo/kandinsky-jinete.png	dd3f4c75734686c81d863f6891fa1a710fee19f81c1c6614e1ede317488b288b	El jinete azul	Wassily Kandinsky	1903
-kandinsky-composicion	expresionismo	expresionismo/kandinsky-composicion.png	7c8be79c9eb0b18a0859a9d54f39f69569a5898bf76dc175facce78ebdabe460	Composición VIII	Wassily Kandinsky	1923
-kokoschka-novia	expresionismo	expresionismo/kokoschka-novia.png	fb50af4fc9329b391f98bbfc7fa6817dfcba1ab3ba80354e539081020c8d6392	La novia del viento	Oskar Kokoschka	1914
-ensor-cristo	expresionismo	expresionismo/ensor-cristo.png	91726952fceb8872bdff4dd86641d29f9ce04483e4187273396045ff5b35f9b6	La entrada de Cristo en Bruselas	James Ensor	1889
-beckmann-noche	expresionismo	expresionismo/beckmann-noche.png	8d5b62c9a457e40410602ea4d59edf9118378d107cfbadd9084c26401e7e44cd	La noche	Max Beckmann	1919
-picasso-guernica	cubismo	cubismo/picasso-guernica.png	a8c8f2f955849e6ca7ff3bc2a17be6a579be0035a847424c3c4ded207f1ff1a2	Guernica	Pablo Picasso	1937
-picasso-avignon	cubismo	cubismo/picasso-avignon.png	e2de98976b39f0f06e9f4af15b33917428d9c79a6d87c0d40d74df7bb4111655	Las señoritas de Avignon	Pablo Picasso	1907
-picasso-musicos	cubismo	cubismo/picasso-musicos.png	728d38f1f412488f3fe1b9b09dc99ba6257825b5700b199c2f41a7f7b061f1d0	Los tres músicos	Pablo Picasso	1921
-picasso-guitarrista	cubismo	cubismo/picasso-guitarrista.png	9a2018a9712c950ea3801e8d8dab46df3024b9e1ad065d65e4ae5f885101efba	El viejo guitarrista ciego	Pablo Picasso	1903
-picasso-saltimbanquis	cubismo	cubismo/picasso-saltimbanquis.png	600066f1867bfb95b3cff74a4d46e85b0121689f86feb19a2fafe137b8b3c95b	Familia de saltimbanquis	Pablo Picasso	1905
-picasso-stein	cubismo	cubismo/picasso-stein.png	250e4110b7efb8f9ae3b9a6f508cfa11829268932d5c82c53ceb1892a0d0d149	Retrato de Gertrude Stein	Pablo Picasso	1906
-gris-picasso	cubismo	cubismo/gris-picasso.png	b0092ededd7062f6c4d4b3451749207abd92d396a5765959a8d4df8aa5d21f1d	Retrato de Picasso	Juan Gris	1912
-gris-ravignan	cubismo	cubismo/gris-ravignan.png	713255579253a1e65dbdfa3cdecdb6206210d13a87fd3f3c4a27cbf44ebc4e36	Bodegón ante una ventana abierta, Place Ravignan	Juan Gris	1915
-leger-ciudad	cubismo	cubismo/leger-ciudad.png	62cee4b349e569a5710f210ffcf2a7b68746981f8da103cf9b453d910b3c825c	La ciudad	Fernand Léger	1919
-duchamp-desnudo	cubismo	cubismo/duchamp-desnudo.png	bbcc99c4d2b153430f249484995c8f13a9f3aa7d6dab911a301283ee35603787	Desnudo bajando una escalera nº 2	Marcel Duchamp	1912
-blanchard-abanico	cubismo	cubismo/blanchard-abanico.png	56eb3525505c50177d3bf390ad4e91941c922256a8c82fc71234d3ac5e956b2b	Mujer con abanico	María Blanchard	1916
-dali-memoria	surrealismo	surrealismo/dali-memoria.png	e14c0d634819e0a62bdccf7c4e3018dd80b2fccf3a64110b6aaf503c6b12adae	La persistencia de la memoria	Salvador Dalí	1931
-dali-cisnes	surrealismo	surrealismo/dali-cisnes.png	28832fa51a64abf5094e4fb1083137a3619bf827e85bfab5fc28cb20d198a6cf	Cisnes que se reflejan como elefantes	Salvador Dalí	1937
-dali-elefantes	surrealismo	surrealismo/dali-elefantes.png	9287be6d0b3660eef51d147ddb81e2f5e82e8d08cfca903361882243e5aa0de7	Los elefantes	Salvador Dalí	1948
-dali-judias	surrealismo	surrealismo/dali-judias.png	84c608901e281a789793d5852c77b78008edde5101bcf0254b67f04f72756842	Construcción blanda con judías hervidas	Salvador Dalí	1936
-dali-abeja	surrealismo	surrealismo/dali-abeja.png	eb43cd422ac83433c8992f31bb94ab5b9d5e1a23ce806ee85de3f20aebbd4fb3	Sueño causado por el vuelo de una abeja	Salvador Dalí	1944
-magritte-imperio	surrealismo	surrealismo/magritte-imperio.png	b1f0b7452b6c2dc01c3df76fa6919dc011dade1829be375f7a78702222426615	El imperio de las luces	René Magritte	1954
-magritte-pipa	surrealismo	surrealismo/magritte-pipa.png	0a5750a08710c4b9c4756b84c39c07560aae75b31243299a12b8fce90671f6c3	La traición de las imágenes	René Magritte	1929
-magritte-golconda	surrealismo	surrealismo/magritte-golconda.png	f57cea684266771b263d7951aa839f4b5bf95658acab168858cf191195daaf7c	Golconda	René Magritte	1953
-magritte-amantes	surrealismo	surrealismo/magritte-amantes.png	fd8e2f5e8f2f6a17c1b18972ad6b1fc9d3d21de8ef77ed74306c762ba3b52b08	Los amantes	René Magritte	1928
-magritte-hijo	surrealismo	surrealismo/magritte-hijo.png	a09be633b9dbb3334433aef8dd4294b48b8bcc80955b016c8b4c99fdbf3d28e4	El hijo del hombre	René Magritte	1964
-magritte-condicion	surrealismo	surrealismo/magritte-condicion.png	b642f66977bf343992f04c5a0db8dc15e98e21082ca39836c3ed47c24557c7d9	La condición humana	René Magritte	1933
-ernst-celebes	surrealismo	surrealismo/ernst-celebes.png	7d27a8ab950510a5e8d2911b3cfe89a663cd354cd114a9c867a6192d95d133c3	El elefante Célebes	Max Ernst	1921
-ernst-ciudad	surrealismo	surrealismo/ernst-ciudad.png	96b536a43e78d71f7c3c96ff9cc09d3958b94a6343a08a93d8ad643490b264b3	La ciudad entera	Max Ernst	1935
-miro-arlequin	surrealismo	surrealismo/miro-arlequin.png	22c98fdedb7a5babf6d9cbc1e1466bfc06860a848db8b713fd5621a7ae32ef1c	El carnaval de Arlequín	Joan Miró	1925
-kahlo-fridas	surrealismo	surrealismo/kahlo-fridas.png	a8eaa681724e5483d162df929a44e19b1edd9321840e76576104e2fe915259e1	Las dos Fridas	Frida Kahlo	1939
-delvaux-venus	surrealismo	surrealismo/delvaux-venus.png	36a6ed88be5db343ce12db97041eeb60c69ec1ddccad5ade90558d0f1a53709a	Venus dormida	Paul Delvaux	1944
+botticelli-venus	antigua	antigua/botticelli-venus.png	f05e19c335bb633a5a76f115d7ff654c115a95cfc7bc9a803e7eb04c74b7dac9	El nacimiento de Venus	Sandro Botticelli	c. 1485
+weyden-descendimiento	antigua	antigua/weyden-descendimiento.png	e012f3c9cfd8f200de30d4a8a73f19df4084df7fca1feb2a6773d4d31c1c8b8f	El descendimiento	Rogier van der Weyden	c. 1435
+bruegel-cazadores	antigua	antigua/bruegel-cazadores.png	1b48157556d98a8768d4a05580766e878de5903b10f74a7e8bc714d6993a295a	Cazadores en la nieve	Pieter Bruegel el Viejo	1565
+bruegel-babel	antigua	antigua/bruegel-babel.png	53ec776394e42551cd92aaf6c5306cdfbeeb74fc47221700c5a3cc8825a6761b	La torre de Babel	Pieter Bruegel el Viejo	1563
+bruegel-boda	antigua	antigua/bruegel-boda.png	e5d782ff94800cc0ca009f73d8c46e8d7a0b5807eed3ad3aead2198e23283a1f	Banquete de bodas campesino	Pieter Bruegel el Viejo	c. 1567
+holbein-embajadores	antigua	antigua/holbein-embajadores.png	24c6f8fd4df2687e63d4e7a2f014e873c6eba803a1e8d89885c826d2af237c1c	Los embajadores	Hans Holbein el Joven	1533
+tiziano-venus	antigua	antigua/tiziano-venus.png	8963219f8a8420674c0f980874c6753bd273948dd02e3b9cfef41da95944df27	Venus de Urbino	Tiziano	1538
+mantegna-cristo	antigua	antigua/mantegna-cristo.png	9cb4ec7a9eef8f8b6ff1e9bff4a0e38f6852b7c07d77e6b358eb63f80fd63603	Cristo muerto	Andrea Mantegna	c. 1480
+cranach-adultera	antigua	antigua/cranach-adultera.png	767e6832d127a3717ec49c4a38cb0a2894aa17090e818431dabd70e503b12588	Cristo y la adúltera	Lucas Cranach el Joven	h. 1545-50
+velazquez-fragua	antigua	antigua/velazquez-fragua.png	6c6a83d44fc00f3b5bc69fbcae7c8237251041a74f8430d7cbd615680dca10cf	La fragua de Vulcano	Diego Velázquez	1630
+velazquez-borrachos	antigua	antigua/velazquez-borrachos.png	b85631deceaee691b4d6303f37bf2ea84341160f3b6d1ce3866a48fda4cc5ee6	El triunfo de Baco (Los borrachos)	Diego Velázquez	1629
+velazquez-vieja	antigua	antigua/velazquez-vieja.png	6b9e51b2bb91d6acea2379a7e841a8ca62bd86fb67e7fb0bab26611d1c6b3210	Vieja friendo huevos	Diego Velázquez	1618
+ribera-felipe	antigua	antigua/ribera-felipe.png	8f073ffb6f60babc81454169074546ce33ba17ca7a6932d627737aed370cddb0	El martirio de san Felipe	José de Ribera	1639
+caravaggio-judith	antigua	antigua/caravaggio-judith.png	c0aa1e2b904979a7c0ad389659bdc2b35a9b70d8601c125bae4b2a76a8dbb841	Judit y Holofernes	Caravaggio	c. 1599
+caravaggio-tomas	antigua	antigua/caravaggio-tomas.png	c8bdea02e240aa72a4d52c8c9c87656c07b714e01d26641a04597b9657593788	La incredulidad de santo Tomás	Caravaggio	c. 1602
+caravaggio-jugadores	antigua	antigua/caravaggio-jugadores.png	e565ea3eecdf2db8231a67154ff12bbee64042e7a0a49cbae8fbf89ddabd77a6	Los jugadores de cartas	Caravaggio	c. 1595
+gentileschi-judith	antigua	antigua/gentileschi-judith.png	6c1f09173ce96a3291c0aff8f6c9e60ab48c7df664086114b2c8359156999fe4	Judit decapitando a Holofernes	Artemisia Gentileschi	c. 1620
+latour-tramposo	antigua	antigua/latour-tramposo.png	e228a092199201f6e7e79c35e779ff17d656a8659ba95297fc11865949b1d468	El tramposo del as de diamantes	Georges de La Tour	c. 1635
+rembrandt-tulp	antigua	antigua/rembrandt-tulp.png	ae890db51de434305da399c40335113ad0a187adbaadfff2f45d4f309f5a1981	La lección de anatomía del doctor Tulp	Rembrandt	1632
+vermeer-delft	antigua	antigua/vermeer-delft.png	41c32d5e5166a5d170e1a711cd461407bc9470da0a74210b064da6c4e31a2dab	Vista de Delft	Johannes Vermeer	c. 1661
+vermeer-perla	antigua	antigua/vermeer-perla.png	e4cdfc312def8df4c28815a62192b785a02180b9da069e35517f9c6acf72c706	La joven de la perla	Johannes Vermeer	c. 1665
+vermeer-lechera	antigua	antigua/vermeer-lechera.png	1e574fad9815a8f438091004c2ab8e8fc02e649642db66f0c4d510f8ac8ccc6e	La lechera	Johannes Vermeer	c. 1658
+hobbema-avenida	antigua	antigua/hobbema-avenida.png	5b01d941946c7dfa1c7d4310ad77fd571d1fb047f0bae02afa7ef1c2c94d63dd	La avenida de Middelharnis	Meindert Hobbema	1689
+ruisdael-molino	antigua	antigua/ruisdael-molino.png	bad655b9138decb4c0dab910c9575957d51cf9cd5a99ab179c60b1b32e493f6c	El molino de Wijk bij Duurstede	Jacob van Ruisdael	c. 1670
+claesz-vanitas	antigua	antigua/claesz-vanitas.png	0bea5741be6688127e78763b3f4b3aa4d5701987c9893bdad2c0de4a18447348	Vanitas	Pieter Claesz	1630
+velazquez-venus	antigua	antigua/velazquez-venus.png	8e819f517bb525f019c40e1caaf846fadfd5c787e253709417da437a38ce84bd	La Venus del espejo	Diego Velázquez	c. 1651
+rubens-gracias	antigua	antigua/rubens-gracias.png	f38e1799c34fd77a2ad96b922a4fb841d456851e10afeff68b35f633dc943163	Las tres Gracias	Pedro Pablo Rubens	c. 1635
+canaletto-sanmarcos	antigua	antigua/canaletto-sanmarcos.png	be37c73b6c62e6374fcf5020402d937d33added726256d646dc55b1923caa5ce	La plaza de San Marcos	Canaletto	finales de 1720
+saenredam-hertogenbosch	antigua	antigua/saenredam-hertogenbosch.png	a12fdbd01484928e367849ca1a0aa1a5a7bc6d5f306df7934c4206f09a23d6c9	Interior de la iglesia de San Pedro en Bolduque	Pieter Saenredam	1632
+ruisdael-trigo	antigua	antigua/ruisdael-trigo.png	f7f9cddb7b9f3dbbfcd4943e25b8db3d979ea1320fe5ef3e609fcb538b715475	Campos de trigo	Jacob van Ruisdael	h. 1670
+ruisdael-aldea	antigua	antigua/ruisdael-aldea.png	9c282444531e757d12899394c8d29128be1813b7ce303b0636d05041833ab47d	Paisaje con una aldea a lo lejos	Jacob van Ruisdael	1646
+caravaggio-musicos	antigua	antigua/caravaggio-musicos.png	a62e110aa746b6fe318f82c601193017bca77d495595b96a49d02db2f837b29b	Los músicos	Caravaggio	1597
+david-horacios	moderna	moderna/david-horacios.png	a3d43a7f9b9ea935897f74c75a3f7d0fa0d92cf6714c3543ee082c1cd849749d	El juramento de los Horacios	Jacques-Louis David	1784
+david-sabinas	moderna	moderna/david-sabinas.png	7c59f36f9dc89a80a19bb921c43fcd5f506c9e3b6c6e5ffef4771bb47eb5406f	Las sabinas	Jacques-Louis David	1799
+david-recamier	moderna	moderna/david-recamier.png	e4e2b3ccbcd6b4c5f6883eaba940e555091ae3003cfefc877f1b3f8e8450af96	Retrato de Madame Récamier	Jacques-Louis David	1800
+ingres-odalisca	moderna	moderna/ingres-odalisca.png	93b6361132f42c0a825b4493df73cd441222e1bf9241d86574b4f5995d62c367	La gran odalisca	Jean-Auguste-Dominique Ingres	1814
+ingres-edipo	moderna	moderna/ingres-edipo.png	630dda26d8b57869d703d94e0c6f27cbf94d423faf90c5a581ea58086460b2df	Edipo y la esfinge	Jean-Auguste-Dominique Ingres	1808
+goya-mayo	moderna	moderna/goya-mayo.png	f2a0d6bf46b9a8c0023d7c1f80ed4352344acd8c62407f86e360dfb2dedc570a	El 3 de mayo en Madrid	Francisco de Goya	1814
+goya-majadesnuda	moderna	moderna/goya-majadesnuda.png	1b46a9cf0f7f342519327a7ca6e5e82a2221da75bf7879e6b401ee4d2f9c5743	La maja desnuda	Francisco de Goya	c. 1800
+friedrich-caminante	moderna	moderna/friedrich-caminante.png	0e04db4a95fd51477902fdc0b929211b7c6b8f4c183c267a4c90f720dfe0d7f7	El caminante sobre el mar de nubes	Caspar David Friedrich	c. 1818
+friedrich-hielo	moderna	moderna/friedrich-hielo.png	6b95711d9ca287e22fecb3d8e8237520c6807df11023f0130eea0b313d55fc41	El mar de hielo	Caspar David Friedrich	c. 1824
+friedrich-abadia	moderna	moderna/friedrich-abadia.png	df598914cab6431bab2d11e3ca7fad90e958a931a16b6791d8f339257aba224a	Abadía en el robledal	Caspar David Friedrich	c. 1810
+friedrich-luna	moderna	moderna/friedrich-luna.png	417f9945677b8f716bad96facc222aff39648b18a25e3cc57b1ce7a939f68c00	Dos hombres contemplando la luna	Caspar David Friedrich	c. 1820
+friedrich-invierno	moderna	moderna/friedrich-invierno.png	c9eaa9fb0cfbf684d51ad70cec2951a3d1db7c0a1b0767b118616e736a98a4b9	Paisaje invernal con iglesia	Caspar David Friedrich	1811
+delacroix-libertad	moderna	moderna/delacroix-libertad.png	7ed8737ed05b977929075925f7731a5b9f5e279d8dc93722643a2481f2c374cf	La libertad guiando al pueblo	Eugène Delacroix	1830
+blake-newton	moderna	moderna/blake-newton.png	a77dc7ecb401fa5fe5e71bbac88f3b9b155b643aab0d47c592ba66abf97b8bad	Newton	William Blake	1795
+goya-majavestida	moderna	moderna/goya-majavestida.png	de4723b897a8e0f1eea543c18c549790d6baf3b03a43a92c57d3da717ab5fdc0	La maja vestida	Francisco de Goya	c. 1805
+courbet-picapedreros	moderna	moderna/courbet-picapedreros.png	62352d2aeb8f3e1c7b0d2bfafcffb6760ef25fd9a74c97f355f0a6106f5f8173	Los picapedreros	Gustave Courbet	1849
+courbet-desesperado	moderna	moderna/courbet-desesperado.png	c526def17bed41bfe7c6c8454442c270b4db800e51d67f3c9244625d9cc1bf5b	El desesperado	Gustave Courbet	c. 1845
+courbet-buenosdias	moderna	moderna/courbet-buenosdias.png	7a050c67fe8b049f9d3a81461ebc76e0cd0e4ea74fe5066f4f99c9a244ee018b	¡Buenos días, señor Courbet!	Gustave Courbet	1854
+courbet-ola	moderna	moderna/courbet-ola.png	1546301a9e23280c2c536cb153efeb7182b3ddac7d07422f693ec7f502e296da	La ola	Gustave Courbet	1869
+homer-corriente	moderna	moderna/homer-corriente.png	79e4ef6927f7435aeaa52c4ba1b3a868111558d3471e4745bee0bf8fa052048b	La corriente del Golfo	Winslow Homer	1899
+homer-viento	moderna	moderna/homer-viento.png	d74f1cab3c18d254745b010981e6d969348f72a6bebfbb0cd0d2087602306555	Viento fresco	Winslow Homer	1876
+eckersberg-claustro	moderna	moderna/eckersberg-claustro.png	e87fbb039b0b2abd5ceafc5c6ab2302f0cae5d8343b90e989e9aac95b1c576b1	El claustro de San Lorenzo Extramuros	Christoffer Wilhelm Eckersberg	1824
+birch-tripoli	moderna	moderna/birch-tripoli.png	1113b23dfc485f9044e434aea9f39f58ea802f32e1c7cbd3ad3a521b86762c34	La captura del Tripoli por el Enterprise	Thomas Birch	1806-12
+wood-gotico	moderna	moderna/wood-gotico.png	74c2df7af16e08efdf96f2b03e7625262145090bb4e7f7987a7df825e7f19a78	American Gothic	Grant Wood	1930
+manet-olympia	moderna	moderna/manet-olympia.png	4ed0c45c35d0508c721578dd856c7664ef08d0804a3c9023234557dfeab7262d	Olympia	Édouard Manet	1863
+manet-folies	moderna	moderna/manet-folies.png	bde9c6b664c8134d77ad34ea468f1535ac33df57679a647e6fd8d86f4348396e	Un bar del Folies-Bergère	Édouard Manet	1882
+degas-clase	moderna	moderna/degas-clase.png	89fabbdef29bf358ed9cd86c7f5d1f4e4cbde017c22f6e8deaf1cbe4f0552148	La clase de danza	Edgar Degas	c. 1874
+caillebotte-lluvia	moderna	moderna/caillebotte-lluvia.png	47a5aab9e4bb05789f305e96c39ca99a709ebbc07a68bd5093f142c08fa82bb2	Calle de París, día lluvioso	Gustave Caillebotte	1877
+caillebotte-acuchilladores	moderna	moderna/caillebotte-acuchilladores.png	e30725a25384c993e9c846860fa156eb960e4ce9d15ddd6026a4aae1206b6455	Los acuchilladores de parqué	Gustave Caillebotte	1875
+whistler-madre	moderna	moderna/whistler-madre.png	c172a9ed7dd981f1693613b785e0ef8e46d8c590206354d1617a16f30719061e	Composición en gris y negro (La madre del artista)	James McNeill Whistler	1871
+sargent-jaleo	moderna	moderna/sargent-jaleo.png	1058e5d651515ff3383e72bdca8bec5a46df9c6a264be1a880e974bac0005ae3	El Jaleo	John Singer Sargent	1882
+sorolla-paseo	moderna	moderna/sorolla-paseo.png	ea039823a2aaa1118314050e3390c6a47726643e9a0d3af25369ee074e6a4be8	Paseo a orillas del mar	Joaquín Sorolla	1909
+vangogh-patatas	moderna	moderna/vangogh-patatas.png	063c56d8e52c5c6940c527f6699af4d27ee9db849abfa40b240a532e494cf7f7	Los comedores de patatas	Vincent van Gogh	1885
+cezanne-calaveras	moderna	moderna/cezanne-calaveras.png	d50a9f95c80166f514cd7ba24340dbf3f3db4a9cf49a7be8d1442d98870dcd4c	Pirámide de calaveras	Paul Cézanne	c. 1901
+waterhouse-shalott	moderna	moderna/waterhouse-shalott.png	7b40f333b4ff93f04e43a36ac7a68328bb250dae91aff71460749ea1a82e20ad	La dama de Shalott	John William Waterhouse	1888
+munch-melancolia	moderna	moderna/munch-melancolia.png	a61b3b950fc056575ea198b5ba9fce945e12ded4b6b9209eb124ae70bba818e6	Melancolía	Edvard Munch	1894
+schiele-autorretrato	moderna	moderna/schiele-autorretrato.png	64f977f7df6e5a6c84fdfa1ff727c4c5a232c12af3ee4937f9efc985512a1631	Autorretrato con cabeza baja	Egon Schiele	1912
+beckmann-noche	moderna	moderna/beckmann-noche.png	8d5b62c9a457e40410602ea4d59edf9118378d107cfbadd9084c26401e7e44cd	La noche	Max Beckmann	1919
+picasso-guernica	moderna	moderna/picasso-guernica.png	a8c8f2f955849e6ca7ff3bc2a17be6a579be0035a847424c3c4ded207f1ff1a2	Guernica	Pablo Picasso	1937
+leger-ciudad	moderna	moderna/leger-ciudad.png	62cee4b349e569a5710f210ffcf2a7b68746981f8da103cf9b453d910b3c825c	La ciudad	Fernand Léger	1919
+dali-memoria	moderna	moderna/dali-memoria.png	e14c0d634819e0a62bdccf7c4e3018dd80b2fccf3a64110b6aaf503c6b12adae	La persistencia de la memoria	Salvador Dalí	1931
+dali-cisnes	moderna	moderna/dali-cisnes.png	28832fa51a64abf5094e4fb1083137a3619bf827e85bfab5fc28cb20d198a6cf	Cisnes que se reflejan como elefantes	Salvador Dalí	1937
+dali-judias	moderna	moderna/dali-judias.png	84c608901e281a789793d5852c77b78008edde5101bcf0254b67f04f72756842	Construcción blanda con judías hervidas	Salvador Dalí	1936
+magritte-pipa	moderna	moderna/magritte-pipa.png	0a5750a08710c4b9c4756b84c39c07560aae75b31243299a12b8fce90671f6c3	La traición de las imágenes	René Magritte	1929
+magritte-golconda	moderna	moderna/magritte-golconda.png	f57cea684266771b263d7951aa839f4b5bf95658acab168858cf191195daaf7c	Golconda	René Magritte	1953
+magritte-amantes	moderna	moderna/magritte-amantes.png	fd8e2f5e8f2f6a17c1b18972ad6b1fc9d3d21de8ef77ed74306c762ba3b52b08	Los amantes	René Magritte	1928
+magritte-hijo	moderna	moderna/magritte-hijo.png	a09be633b9dbb3334433aef8dd4294b48b8bcc80955b016c8b4c99fdbf3d28e4	El hijo del hombre	René Magritte	1964
+ernst-celebes	moderna	moderna/ernst-celebes.png	7d27a8ab950510a5e8d2911b3cfe89a663cd354cd114a9c867a6192d95d133c3	El elefante Célebes	Max Ernst	1921
+kahlo-fridas	moderna	moderna/kahlo-fridas.png	a8eaa681724e5483d162df929a44e19b1edd9321840e76576104e2fe915259e1	Las dos Fridas	Frida Kahlo	1939
+kustodiev-maslenitsa	moderna	moderna/kustodiev-maslenitsa.png	df312c489b4a8b5a5f73933a057c965c1a44234c377c5e63982313018454c5f4	Maslenitsa	Borís Kustódiev	1916
+sohlberg-noche	moderna	moderna/sohlberg-noche.png	2a1d4c8410bffdc41a2823bc43a955ecca0984af713f1974cd530841f32215f0	Noche de invierno en las montañas	Harald Sohlberg	1914
+homer-niebla	moderna	moderna/homer-niebla.png	643b47e65d9d72156ada866ac2fba7528e9579f8e875059489836a57f6e457df	Aviso de niebla	Winslow Homer	1885
+homer-nordeste	moderna	moderna/homer-nordeste.png	ac03ea839128253f2dc73a20c817230fec3448fa4e6cfdc2ef99b6bdcdd6332c	El nordeste	Winslow Homer	1895
+bellows-sharkey	moderna	moderna/bellows-sharkey.png	67c6f70c6e7eef107a670804294fc6e11afc4a6e69f7f26b90c424b7cec60520	Una velada en Sharkey's	George Wesley Bellows	1909
+hassam-lluvia	moderna	moderna/hassam-lluvia.png	fa3e220ea69af520406d03d7299251917d304ffb426fdeb3ab621cfbd1f50b1d	Día de lluvia, Boston	Childe Hassam	1885
+durero-caballero	grabado	grabado/durero-caballero.png	828ff4e9961a49fd27365d1f3bfe861214ba75a9ac57ccce48e35fae878c3684	El caballero, la muerte y el diablo	Alberto Durero	1513
+durero-rinoceronte	grabado	grabado/durero-rinoceronte.png	c626760a24da18b4084e003a0b374864f44712771c05885ffb1036f65663c831	Rinoceronte	Alberto Durero	1515
+durero-jeronimo	grabado	grabado/durero-jeronimo.png	e4fe38405dc8cf43361da5274bbf8336e01c71317d3bb1d4e9dacac4b25e6ea9	San Jerónimo en su gabinete	Alberto Durero	1514
+piranesi-panteon	grabado	grabado/piranesi-panteon.png	803cf6699736c27cb2e2dc58e86641ff4b2078f126ad9dbe503fef81800a1818	Vista del Panteón	Giovanni Battista Piranesi	c. 1761
+piranesi-coliseo	grabado	grabado/piranesi-coliseo.png	772a31133586ec453d6d638b64a2201aa7a204aa19c85d52bc61001612ce9016	Vista del Coliseo	Giovanni Battista Piranesi	c. 1776
+piranesi-carceles	grabado	grabado/piranesi-carceles.png	2cf075dd24d41ae51e54202a7686931838e2c538389860fca81fe867fc11b109	Cárceles, lámina VII: el puente levadizo	Giovanni Battista Piranesi	1761
+goya-sueno	grabado	grabado/goya-sueno.png	9a9aa3304d3e226e512a1b2172a7a895e1172d2dbd08927e926c21a79bdad87a	El sueño de la razón produce monstruos	Francisco de Goya	1799
+goya-hazana	grabado	grabado/goya-hazana.png	36b70a588e742395b4d2d9f8253d9ce474ce535a30cee9bdb6c2b09c60b57449	Desastres de la guerra: ¡Grande hazaña! ¡Con muertos!	Francisco de Goya	c. 1810
+dore-caronte	grabado	grabado/dore-caronte.png	92ac2d9d2ada00164502a3e062a3abf9e30902995621e12697411f021846a8ce	Infierno: Caronte	Gustave Doré	1857
+dore-diluvio	grabado	grabado/dore-diluvio.png	e0cf2b742f3689a84d2708fb8e299bbbb85fb026d9e7f5ea31fc111ae33ed3fd	La Biblia: el diluvio	Gustave Doré	1866
+daumier-transnonain	grabado	grabado/daumier-transnonain.png	fcaf7d4df3720bb5e82d8c0ff4abe3937340886f0a396cce810621e0363a0402	Rue Transnonain, 15 de abril de 1834	Honoré Daumier	1834
+gauguin-noanoa	grabado	grabado/gauguin-noanoa.png	421960f3d1c047196162cc8988333d358c40a429adcc26853970a11b7c546f9b	Noa Noa	Paul Gauguin	1894
+lautrec-goulue	grabado	grabado/lautrec-goulue.png	d10a2cfbe96dc690464a297d75fdac57c67f9bc377712f7d1b205709f3f2125b	Moulin Rouge: La Goulue	Henri de Toulouse-Lautrec	1891
+munch-gritolito	grabado	grabado/munch-gritolito.png	d547d42c463aea75af966ac117f613e69a8400c45167ff67efe67405458035a8	El grito (litografía)	Edvard Munch	1895
+munch-beso	grabado	grabado/munch-beso.png	925907e0a30127b479db95db4f18679a3b50ce3717bc48850310f9b0e18edc33	El beso	Edvard Munch	1897
+kollwitz-tejedores	grabado	grabado/kollwitz-tejedores.png	5ce21df429fea7af71f4491c89739fed5bb133b2a9c36c46bc772c6911c708b7	Una revuelta de tejedores: marcha de los tejedores	Käthe Kollwitz	1897
+goya-disparate-alegre	grabado	grabado/goya-disparate-alegre.png	7cc5524ee91c15099b7f4f3cd7f1189d931feb69296f64ae3aa9dc68cd9dcfbb	Disparate alegre	Francisco de Goya	c. 1815-19
+goya-apinani	grabado	grabado/goya-apinani.png	8b816e24df2cd49d257919d79b4bc22a40909dfe403f9b4d0eb5103ad7ab6221	Ligereza y atrevimiento de Juanito Apiñani	Francisco de Goya	1816
+piranesi-tito	grabado	grabado/piranesi-tito.png	6774f4464c256894c9c551072750dbf3d21de20aa2c51229f82eb72d3c16d4f4	El arco de Tito	Giovanni Battista Piranesi	c. 1760
+piranesi-arco-gotico	grabado	grabado/piranesi-arco-gotico.png	4055297e4244da5bf7b8d1d5d1d9296e0dfffeb8428548b1c31c3432b3f75b95	El arco gótico (Cárceles)	Giovanni Battista Piranesi	c. 1749-50
+meryon-pompe	grabado	grabado/meryon-pompe.png	84704943940dfdcad2dc68e2ad8fa44c1ab856c7539829ced075bc7fe7504e3f	La bomba de Notre-Dame	Charles Meryon	1852
+homer-fuegos	grabado	grabado/homer-fuegos.png	60d63e8d6e520187deecb0099d67344ebea4c3c72a01695139d968cf409e2fea	Fuegos artificiales del 4 de julio	Winslow Homer	1868
+vallotton-portadores	grabado	grabado/vallotton-portadores.png	4961fe799f0a6d2157a3665af879f1b293ef53e6642cf4928a485dcf75ae3057	Los portadores del féretro	Félix Vallotton	1892
+vallotton-cinco	grabado	grabado/vallotton-cinco.png	7d60f11a6115c099ec574f27e646a5e64a63d987fe1b611853aa13cf2748866c	Las cinco (Intimidades)	Félix Vallotton	1898
+vallotton-dinero	grabado	grabado/vallotton-dinero.png	08e89690c797ddf4e0b44e9abfb5e4fd7bda7e3c111915d2597ddcc2504224d1	El dinero (Intimidades)	Félix Vallotton	1898
+vallotton-entierro	grabado	grabado/vallotton-entierro.png	e5dd7deea7a9f059924b2616fc21a13fc8d40676a299461c4ec1c7129b637a20	El entierro	Félix Vallotton	1891
+callot-bohemios	grabado	grabado/callot-bohemios.png	f65a7796567f0e0874f6e63922b8c9d2e3847a8f73bbc86822e6764937c0f3d7	Los bohemios en marcha	Jacques Callot	1621
+hollar-insectos	grabado	grabado/hollar-insectos.png	65e17a80a9afebfe1b24826165c49682700a20679847861457a42a9283161d54	Polilla, mariposas y abejas	Wenceslaus Hollar	después de 1644
+daumier-cometa	grabado	grabado/daumier-cometa.png	9f7705c14edbad43942ca1adf2970551fc391a0ea01bd9e57cd21c1a709d754d	¿Ve usted el cometa?	Honoré Daumier	1857
+goya-martincho	grabado	grabado/goya-martincho.png	0b6080a3b850e6304759e7258fcf606adf60a68bb482e892d496256d14782219	Temeridad de Martincho en la plaza de Zaragoza	Francisco de Goya	1816
+lucas-lechera	grabado	grabado/lucas-lechera.png	8017796196f3f8213fb0362b8763bd069af48b174feed13093710e96b59e425d	La lechera	Lucas van Leyden	1510
+seurat-potro	grabado	grabado/seurat-potro.png	ed16a00de7e8b042209c8ea9d0fc59f1f3daa3fed76287137b7e90e790db2ad0	El potro	Georges Seurat	1882-83
+baldung-caballos	grabado	grabado/baldung-caballos.png	f58c403f8af701f76cdd10c6c3749b879cbe11bd5386d037e624aca4376e1dee	Siete caballos	Hans Baldung Grien	1534
+tiepolo-puerta	grabado	grabado/tiepolo-puerta.png	d387b879400662aa011eb3a875c314b541d0691b1bcb1cb7019ac2341d6eb9e7	La Sagrada Familia sale por una puerta de la ciudad	Giovanni Domenico Tiepolo	1753
+jacque-granja	grabado	grabado/jacque-granja.png	c82bc1fac33d706e49116d8d6b26c3a7f827b372aaf864426d5ad75ab7a8baeb	Rincón de granja	Charles Jacque	c. 1849
+buhot-paris-nieve	grabado	grabado/buhot-paris-nieve.png	ad54b885bb713f70c493b9ba92dcf3e05640737871b737273d6d1c685005cfbd	París bajo la nieve	Félix Buhot	1879
+klinger-isla	grabado	grabado/klinger-isla.png	8631391a08cb49ccd530176086a87c56251c9d68e02901dce4fe2a435204f8e4	La isla de los muertos	Max Klinger	1890
+homer-tira	grabado	grabado/homer-tira.png	894f77a330d5e7e63183d6fb041de23b41d661b681f7f89d0d614c3f236626aa	Tira y afloja	Winslow Homer	1873
+beham-prodigo	grabado	grabado/beham-prodigo.png	09a8d4218dda3c8970b3efc52b41633831121f451582cd1eefdd3557847288aa	El regreso del hijo pródigo	Sebald Beham	c. 1540
+kirchner-banistas	grabado	grabado/kirchner-banistas.png	78c26cf956e86462ad7273c89c744c1a0c21db105c5d2dca9c6cdb746d46fdfd	Pareja bañándose	Ernst Ludwig Kirchner	1910
+bewick-leopardo	grabado	grabado/bewick-leopardo.png	183d830367c5cea0cfd9cf272c4446b5716547b32cd6eb8db28de262ad9ea5d0	Leopardo	Thomas Bewick	c. 1790
 adams-tetons	fotografia	fotografia/adams-tetons.png	5a821e846745f9ef81a5380a466e08b28c5672827e55cf83da2a7995c396b04b	The Tetons and the Snake River	Ansel Adams	1942
 adams-moonrise	fotografia	fotografia/adams-moonrise.png	b79fa0a36b50caad83300f43ed6669fc1f239f797395c069980d8b099457e6c9	Moonrise, Hernandez	Ansel Adams	1941
-adams-monolith	fotografia	fotografia/adams-monolith.png	d9c47156c3ac528faf894526b7d91eb4e79db5fdd023e69fbb1f0c4984a5db4e	Monolith, the Face of Half Dome	Ansel Adams	1927
 adams-tormenta	fotografia	fotografia/adams-tormenta.png	6c0e132aa8d28e73deeaf05131431c5c2609528a3467296d8c4a31519a4cf6b1	Clearing Winter Storm, Yosemite	Ansel Adams	1940
-lange-madre	fotografia	fotografia/lange-madre.png	6b4874f77472e86a222f9bcc97fe6e85fa936e868a84e83475d75e5b1d9352f3	Madre migrante	Dorothea Lange	1936
-ebbets-almuerzo	fotografia	fotografia/ebbets-almuerzo.png	b448f687333c4039fa72e182bd56e678d8bf7b59309d515cb42d0ce00ffe1033	Almuerzo en lo alto de un rascacielos	Charles Ebbets (atrib.)	1932
-stieglitz-steerage	fotografia	fotografia/stieglitz-steerage.png	4320ae6b806e1c80e7ce7bbb55a4477680aca591f040cd758d1ead88024e0462	The Steerage	Alfred Stieglitz	1907
-steichen-flatiron	fotografia	fotografia/steichen-flatiron.png	78baa6fedda36c25cb5a5a33b9f51d8de5c175ea491dfdd5766e2212cb8e3063	The Flatiron	Edward Steichen	1904
-steichen-pond	fotografia	fotografia/steichen-pond.png	b397f2b07425da8b139c0f701ebd73916aa0114ec48e1ed45625b3d1182de069	The Pond, Moonlight	Edward Steichen	1904
-weston-pimiento	fotografia	fotografia/weston-pimiento.png	6389299874d0b17483096df385950933ea44af856c3ff038270da8d2658a6f35	Pimiento nº 30	Edward Weston	1930
-muybridge-caballo	fotografia	fotografia/muybridge-caballo.png	ab41187b2e9948afdff0877e06eff468013d383690038973e6cc268fa60284a9	El caballo en movimiento	Eadweard Muybridge	1878
-hine-empire	fotografia	fotografia/hine-empire.png	bd1c924016aa772eb56f9500104db8e8fecf994207e1d153abdca9f3eb46ef7d	Trabajador del Empire State	Lewis Hine	1930
-atget-genevieve	fotografia	fotografia/atget-genevieve.png	9af6ebff8e4a0d4e3613abd9dc075d23b1d49aae30ca28130f8c7e967ebd43d2	Rue de la Montagne-Sainte-Geneviève	Eugène Atget	1924
-evans-burroughs	fotografia	fotografia/evans-burroughs.png	3f2dc9fcc27224ff734180624d3b995cd8d9ac62a30e6c3548440c845f8846c0	Allie Mae Burroughs	Walker Evans	1936
+adams-glaciar-e05	fotografia	fotografia/adams-glaciar-e05.png	bcc1f4b2cb5bf23a3b01ff439700d85ef964d58ebd68dfa8d54ceb3f59acbe04	Glacier National Park	Ansel Adams	c. 1941
+adams-glaciar-e12	fotografia	fotografia/adams-glaciar-e12.png	d6fc4e764b887b27b70ec228aeaf4341b3e07ad697648dc70f660891fb882915	Lago de montaña, Glacier	Ansel Adams	c. 1941
+adams-glaciar-e15	fotografia	fotografia/adams-glaciar-e15.png	138a3b706a1f7880f2bd0099ae16e057e60ae3afceeac149d9ba2ae38064e448	Picos nevados, Glacier	Ansel Adams	c. 1941
+adams-teton-g07	fotografia	fotografia/adams-teton-g07.png	36fae22fb9812145ed79549cb8fda045a35e039163415af31729029bf19d6eaa	Los Tetons	Ansel Adams	c. 1941
+adams-chelly	fotografia	fotografia/adams-chelly.png	866452b83789bee00a72ad449c5a97b4eafc17986d6d49dba1ad3289893918ff	Cañón de Chelly	Ansel Adams	1941
+watkins-catedral	fotografia	fotografia/watkins-catedral.png	5fc461dbbc39344aafe1d2eec50122ed0dace52f3899f361416ab56355a856ba	Cathedral Rock, Yosemite	Carleton Watkins	c. 1865
+watkins-domos	fotografia	fotografia/watkins-domos.png	e676f4bd0575dccda9ec6927997ccbef4f1d538b72906df7f969ac833fcd747a	Vista lejana de los domos	Carleton Watkins	c. 1865
+osullivan-ruinas	fotografia	fotografia/osullivan-ruinas.png	d2f6b813578ac0e6737bc25c5c524a9a13530d39852f7ecc6ee068227208348f	Ruinas en el cañón de Chelly	Timothy O'Sullivan	1873
+ponting-terranova	fotografia	fotografia/ponting-terranova.png	92ce5496d27d475c5fe39cc185fb63b6938635acb0d16687a6e0f327036b2077	El Terra Nova	Herbert Ponting	1911
+ponting-solmedianoche	fotografia	fotografia/ponting-solmedianoche.png	946bdc6dd9328d6bdb664b67dac0f3fe5b4b009ab9a1f43e77f2d06cf01dcdc6	Sol de medianoche, mar de Ross	Herbert Ponting	1910
+ponting-icebergs	fotografia	fotografia/ponting-icebergs.png	19b023fb4a9d86471aa7f1018cc4be8275a05470ce65830b53fa24d0f6850e93	Icebergs de la expedición Scott	Herbert Ponting	1911
+ponting-castle	fotografia	fotografia/ponting-castle.png	a034fa00f9d1ce900620f32730cbd7f75bac11ec5079efc4f92b354a6d87515c	El iceberg Castle	Herbert Ponting	1911
+hurley-endurance	fotografia	fotografia/hurley-endurance.png	05741a30605e1db2ef7efc023768c6490a85d43eba6e062203a9354b421f6249	El Endurance atrapado en el hielo	Frank Hurley	1915
+sella-elias	fotografia	fotografia/sella-elias.png	292c580c12a4170118c1a026777d787f927ab69b62f1c3bf41b29209afa035b7	Monte Saint Elias y glaciar Malaspina	Vittorio Sella	1897
+sella-kangchenjunga	fotografia	fotografia/sella-kangchenjunga.png	aa488e144de1a8f428862d1c32b8510593c1ee1940fe51ceb8080851d43dd798	Kangchenjunga	Vittorio Sella	1899
+emerson-broads	fotografia	fotografia/emerson-broads.png	6349696f1d68ad489255bd70386d66f0c0348a116e04db12b728d0923af45d82	Vida y paisaje en los Broads	Peter Henry Emerson	1886
+emerson-juncos	fotografia	fotografia/emerson-juncos.png	446a33b483c9c4eb669d2eba55dc31054ac510807f3af883b51b5bb3853d69f1	Orilla de juncos	Peter Henry Emerson	1886
+fenton-rievaulx	fotografia	fotografia/fenton-rievaulx.png	d3159fe2293e4dd69b946d035bf77fa67a7c5dd87ae5142a16f13521610c4300	Abadía de Rievaulx	Roger Fenton	1854
+bisson-mermer	fotografia	fotografia/bisson-mermer.png	4b937ff6b043616d1a57f1deee42ab6287b4f118bf7cce39fe00e6bc99bf071d	Mer de Glace	Bisson Frères	c. 1860
+bourne-maniring	fotografia	fotografia/bourne-maniring.png	c545aff9e2584ea3122724916fc65fa825c917fa1ac1e6f35b09fc7ac2ef46b2	Paso de Maniring	Samuel Bourne	c. 1866
+frith-dahshur	fotografia	fotografia/frith-dahshur.png	80f9340389e600fcf0cddb27977a0bfcedcc8a6dedef4de1b199c0f67fdb08f9	Las pirámides de Dahshur	Francis Frith	1857
+frith-esfinge	fotografia	fotografia/frith-esfinge.png	339b4bcdac2c9618a240d6143553155f7cb681c240db995fc1c01f1d018f18c6	La Gran Pirámide y la Esfinge	Francis Frith	1858
+frith-giza	fotografia	fotografia/frith-giza.png	13d3ce702c5ff88bf953179f793e487b4bb0c559fb03ddcdd7482fd62d34f988	Las pirámides de Guiza	Francis Frith	1858
+baldus-enghien	fotografia	fotografia/baldus-enghien.png	f97748b21934ba305d948b7dc49f74ac63fc94cc469d6b1a58c184570d9c9ad7	Enghien	Édouard Baldus	c. 1855
+nasa-apolo11-limbo	fotografia	fotografia/nasa-apolo11-limbo.png	f0df17407989779cd0796f7b2b5ed4b493aa2ffc1e42c755f4dbc0beefdae433	La Tierra desde el Apolo 11	NASA, Apolo 11	1969
+bentley-nieve	fotografia	fotografia/bentley-nieve.png	084199d9fff75cc9b10b4bd86cc27a13b7c83b48c351f06aef5c0b61191dd9c7	Copo de nieve	Wilson Bentley	c. 1900
+clifford-martorell	fotografia	fotografia/clifford-martorell.png	78928006b38e3dbfce469f0adc8807166a69df55619e20edc0efc6110662048e	El Puente del Diablo, Martorell	Charles Clifford	c. 1860
+clifford-avila	fotografia	fotografia/clifford-avila.png	7afd740c0e88270e587f8453ce70570bf8f18a76bd07a9167f90297181d523b2	Ábside de la catedral de Ávila	Charles Clifford	c. 1860
+clifford-montjuic	fotografia	fotografia/clifford-montjuic.png	18bcefc651f46ed84d55c4341f6b2c55ceee99f4726f77993eae4aee7e22484f	Muralla del Mar y castillo de Montjuïc	Charles Clifford	c. 1860
+sutcliffe-whitby	fotografia	fotografia/sutcliffe-whitby.png	2286d1cfb2f206be2ab78c834660eee57e3a0363e32882e7d5db32e588a49d35	Puerto de Whitby	Frank Meadow Sutcliffe	c. 1880
+clifford-alhambra	fotografia	fotografia/clifford-alhambra.png	ac5a2c610cf4711fb0075bc73fea7eb8d3ac9c33deaa65333f67ad0da7ffa349	Patio de la Alhambra	Charles Clifford	c. 1860
+kuhn-paisaje	fotografia	fotografia/kuhn-paisaje.png	42abef7180ce9bb877c722009c16dc3c8b1804643eaa69e93fbc4b94607e4009	Paisaje	Heinrich Kühn	c. 1910
+kuhn-innsbruck	fotografia	fotografia/kuhn-innsbruck.png	cb1c00ad6d2d86b521070df0d84efee33aea3f8f46d718c3c82e41c104d7f7a2	Vista de Innsbruck	Heinrich Kühn	c. 1910
+greene-filae	fotografia	fotografia/greene-filae.png	d36567a34281f36939521ad9c788b38c5ba0cfe4bcf741baa8e0d2704118fbb9	El quiosco de Trajano, Filé	John Beasley Greene	1854
+ebbets-almuerzo	fotogente	fotogente/ebbets-almuerzo.png	b448f687333c4039fa72e182bd56e678d8bf7b59309d515cb42d0ce00ffe1033	Almuerzo en lo alto de un rascacielos	Charles Ebbets (atrib.)	1932
+muybridge-caballo	fotogente	fotogente/muybridge-caballo.png	ab41187b2e9948afdff0877e06eff468013d383690038973e6cc268fa60284a9	El caballo en movimiento	Eadweard Muybridge	1878
+hine-empire	fotogente	fotogente/hine-empire.png	bd1c924016aa772eb56f9500104db8e8fecf994207e1d153abdca9f3eb46ef7d	Trabajador del Empire State	Lewis Hine	1930
+lee-cascade	fotogente	fotogente/lee-cascade.png	244becf3d123d0138e3c159144c8391f71cff64ec67c1cc5573766d76de8761b	Calle mayor de Cascade, Idaho	Russell Lee	1941
+lee-linotipistas	fotogente	fotogente/lee-linotipistas.png	460ead9cd34d6445ea771d1797c71a8cb8d6ed6db341d73af984ab81110ba8de	Linotipistas del Chicago Defender	Russell Lee	1941
+rothstein-dallas	fotogente	fotogente/rothstein-dallas.png	9f25cb8ac84dd3d4e6c31a0f345fef31d27a3200dfdcb7c27f06b78a3367b54b	Dallas de noche	Arthur Rothstein	1942
+rothstein-lasvegas	fotogente	fotogente/rothstein-lasvegas.png	0064c9e3d98583066e3f3ad7fdf192cf4c4b960513ad1dcbc606259b12608618	Jugadores de tragaperras, Las Vegas	Arthur Rothstein	1940
+delano-roundhouse	fotogente	fotogente/delano-roundhouse.png	d6d78e555a878fb5fb5fe4e4a8682f93e1d3b96a69dd0a34cf93c1ada7b35938	Limpiadores en la rotonda	Jack Delano	1942
+delano-chicago-skyline	fotogente	fotogente/delano-chicago-skyline.png	861ff8c63c2a1a4f0a29b8a2111ada2b15fa9081048bc38a5c31d968c86ff3a3	Trenes y horizonte de Chicago	Jack Delano	1943
+delano-brockton	fotogente	fotogente/delano-brockton.png	d78d6999d422210a3054b674e9768905044838bf6066af5fb44ebbca88222651	Tienda de fontanería, Brockton	Jack Delano	1940
+delano-taberna	fotogente	fotogente/delano-taberna.png	2b7feba8f33d700a1219e2d1ca710ba0296147352d2e20fd7a105352b0e22835	Una cerveza en Colchester	Jack Delano	1940
+delano-ferroviarios	fotogente	fotogente/delano-ferroviarios.png	6ec1b57f3d0b49237047fa9c666792eacc6fb1706c5834ab1b86b3457ab60d2d	Ferroviarios en el taller	Jack Delano	1942
+vachon-omaha	fotogente	fotogente/vachon-omaha.png	f199a757e8bc95a6e4f35587a8a91f8b1071cef4497b818e5d213be2e0c875a6	Coches aparcados en Omaha	John Vachon	1938
+wolcott-tienda	fotogente	fotogente/wolcott-tienda.png	4d76000210d9ad0e28f413277e258e51d0a7e21c447a4765a44f0398d518fc4a	Tienda y bar de carretera, Luisiana	Marion Post Wolcott	1940
+wolcott-jitterbug	fotogente	fotogente/wolcott-jitterbug.png	80bad0d7c08a17aba8147e41e9b1957b9622358ca573f840a1e5a9da51e90ec2	Jitterbug	Marion Post Wolcott	1939
+collier-radio	fotogente	fotogente/collier-radio.png	bf4f3556028210fd99de8911837285aedcdae73bdbf141ef4c6fe7e1064fcd37	Reparación de radios	John Collier Jr.	1943
+evans-tienda	fotogente	fotogente/evans-tienda.png	f3806b0053e4f7f48851a381e558098b92c6e4af0a634ee278a6776a973b2128	Almacén general, Alabama	Walker Evans	1936
+hine-empire-vigas	fotogente	fotogente/hine-empire-vigas.png	d7873261b8556b1fdcaf2c629b187a5a9a5edd3ee88887e4a2d7f4921aaaa7d4	Obreros sobre las vigas del Empire State	Lewis Hine	1931
+hine-empire-jovenes	fotogente	fotogente/hine-empire-jovenes.png	b3911af01295de0fb50a4f4a41c42df80babde38b614d5bec76278e5e583cf80	Jóvenes montadores en lo alto	Lewis Hine	1931
+hine-empire-veterano	fotogente	fotogente/hine-empire-veterano.png	57e20e6e6f60d9eaa2ef112f9a176f1d465bb6cd3767ecea752478dc90509392	Montador veterano	Lewis Hine	1931
+hine-empire-met	fotogente	fotogente/hine-empire-met.png	3f5ce3029bc51c761929d5abd0e54e849664b42ba2ee1fd22bd5e6ad204eb91f	Empire State en construcción	Lewis Hine	1931
+atget-trone	fotogente	fotogente/atget-trone.png	c4178e26788b1114a5c3999f1f6b61bc4ae8c0714e93b25885173dade91168de	Fiesta del Trône	Eugène Atget	1925
+atget-pontneuf	fotogente	fotogente/atget-pontneuf.png	85e06c626c5db51e933aecff8fe0f786752e3f5d6b48c47be22d07186cea4f91	El Pont Neuf	Eugène Atget	1925
+strand-wallstreet	fotogente	fotogente/strand-wallstreet.png	8172f4f994e17cb1c7eed8b29d53f3d2fe6dfe6c2842da1e0392a7b1b8889ce9	Wall Street, Nueva York	Paul Strand	1915
+sutcliffe-pescadores	fotogente	fotogente/sutcliffe-pescadores.png	a4136bf5073d49afc22a276a16f00304e9577883d4a52d6c2ad26f29ccb6e9a1	Pescadores de Whitby	Frank Meadow Sutcliffe	c. 1885
+harris-bolera	fotogente	fotogente/harris-bolera.png	b5f32c2212a4cf81b8e0f710fdd9a7cd0ba4a6ed810aa3a8b83b1506145aa22b	Jugadores de bolos	Harris & Ewing	1936
+anefo-voorburgwal	fotogente	fotogente/anefo-voorburgwal.png	9b0da66da4b09e68df6b18d1dc16e6d04b831627d3897be91640e4a83c69f402	Canal Voorburgwal, Ámsterdam	Anefo (Nationaal Archief)	1950
+anefo-estacion-tejado	fotogente	fotogente/anefo-estacion-tejado.png	42512061a774657759de1713941202161bd3e7077a3bed657bdad675c8e0ab78	Reparando el tejado de la Estación Central	Anefo (Nationaal Archief)	1950
+anefo-patinaje	fotogente	fotogente/anefo-patinaje.png	f7d25bf8f114760ad3b2e54a89304ff2be5bb4ad38b20a34e8a2efbf2eadd854	Patinadores en el Gouwzee	Anefo (Nationaal Archief)	1965
+anefo-volendam	fotogente	fotogente/anefo-volendam.png	ae6572e3ad2ba0d66c134436599adc443c4752a01b48b450ae7b01a3b28b8ce7	Pareja patinando en Volendam	Anefo (Nationaal Archief)	1950
+noaa-salazon	fotogente	fotogente/noaa-salazon.png	6b4bffa12bbe4f808048fcc52a13a8edd62d254320e75ebc3d4415ffd49d3d59	Estación de salazón, Bristol Bay, Alaska	NOAA	1900
+harris-bomberos	fotogente	fotogente/harris-bomberos.png	938e9b058d41d9272d8bbdcbc631668835c2b89db9114cd50055a17feeb42e15	Bomberos con tiro de tres caballos	Harris & Ewing	c. 1910
+bain-londres	fotogente	fotogente/bain-londres.png	87f40542060ece91f32059d9f78aea686510c5d4992c5b156ecfa9b76778e247	London Bridge	Bain News Service	c. 1910
+bain-tranvias	fotogente	fotogente/bain-tranvias.png	287e7d598de3280b7b04cdd504b32ed45222747a7e2bb52c5a2ce0b821b33345	Tranvías de Londres	Bain News Service	c. 1910
+stieglitz-boulevard	fotogente	fotogente/stieglitz-boulevard.png	8c1e745ecb5721abf5f4f16256486c1e2b926bb8cee5128a39a5ca9128d585c5	Un día de lluvia en el bulevar, París	Alfred Stieglitz	1894
+bain-marines	fotogente	fotogente/bain-marines.png	7c34fc5e95f8c9c4a2cd4b7f762e5a69f347c0ace45f8ffdd9dc8fa49fb68038	Marines en París	Bain News Service	c. 1918
 hokusai-ola	ukiyoe	ukiyoe/hokusai-ola.png	841dafb91a6cfe08aae3881099eca2a4ec899fa277f612d5341c9648be53283e	La gran ola de Kanagawa	Katsushika Hokusai	c. 1831
 hokusai-fujirojo	ukiyoe	ukiyoe/hokusai-fujirojo.png	bd383269e2ed1a916049f82d0aa3b75fb0a1cf6741e432a31f1d3933acd55482	Viento del sur, cielo despejado (Fuji rojo)	Katsushika Hokusai	c. 1831
 hokusai-tormenta	ukiyoe	ukiyoe/hokusai-tormenta.png	efd3336a997c1e89eede1192df762e121160d09e885ebe8d41161b2e09c85a2f	Tormenta bajo la cumbre	Katsushika Hokusai	c. 1831
 hokusai-kajikazawa	ukiyoe	ukiyoe/hokusai-kajikazawa.png	fa09d7b95bb46222432edb25cad70e8ebb2e7947325c2cef078dc06577de34b0	Kajikazawa en la provincia de Kai	Katsushika Hokusai	c. 1831
 hokusai-ejiri	ukiyoe	ukiyoe/hokusai-ejiri.png	b82767bca4d237fd3e1c4ee532e6d2462d968f2bb981233a1b2136e1e6b1167f	Ejiri en la provincia de Suruga	Katsushika Hokusai	c. 1831
 hokusai-mannen	ukiyoe	ukiyoe/hokusai-mannen.png	039b4b34f4d658d4760d650cfeee2b20529b46b2dcbcf5f18580cff2def234e6	Bajo el puente Mannen en Fukagawa	Katsushika Hokusai	c. 1831
-hokusai-katakura	ukiyoe	ukiyoe/hokusai-katakura.png	79a72d7ccf68d12d2643aa1fc813dd9f3cd0732d75127b9e6a37e8d380e9d3bf	El Fuji desde los campos de té de Katakura	Katsushika Hokusai	c. 1831
 hokusai-inume	ukiyoe	ukiyoe/hokusai-inume.png	86a562267546dea62bf83b2ba124d87c00a70e90a9c99555fc9837a157f24ae1	El paso de Inume	Katsushika Hokusai	c. 1831
-hokusai-kanaya	ukiyoe	ukiyoe/hokusai-kanaya.png	df177495a08bc7640d6c14d794519269c39478f58028a8286bed1d39a5765b61	El Fuji visto desde Kanaya	Katsushika Hokusai	c. 1831
 hokusai-koishikawa	ukiyoe	ukiyoe/hokusai-koishikawa.png	54039e8796a8bd0ba3b66d98de46fc90fde9935d7c151a8b50bf93784a77767b	Koishikawa, mañana después de la nevada	Katsushika Hokusai	c. 1831
 hokusai-puente	ukiyoe	ukiyoe/hokusai-puente.png	fdca37dff1cfd29e9a90f565ed1f5fb6c20551fe0cff9309fce51c8abcc5671a	Puente colgante en la frontera de Hida y Etchū	Katsushika Hokusai	c. 1834
 hiroshige-shono	ukiyoe	ukiyoe/hiroshige-shono.png	dbafa5970452186ab8e605ac8f17495248fc2fc1a6a989fbca05c832e50cc728	Tokaido: Shono, lluvia repentina	Utagawa Hiroshige	c. 1833
 hiroshige-kanbara	ukiyoe	ukiyoe/hiroshige-kanbara.png	bdac04f2a268461d9ff6d7d7b05cd227197f79c7a237b93bb9cb94637738c929	Tokaido: Kanbara, nieve de noche	Utagawa Hiroshige	c. 1833
 hiroshige-hakone	ukiyoe	ukiyoe/hiroshige-hakone.png	b2236eea2d3aadaaeef6110d1ceee815d3b285408b0bc85844fbd55a345c042a	Tokaido: Hakone, el lago	Utagawa Hiroshige	c. 1833
 hiroshige-mishima	ukiyoe	ukiyoe/hiroshige-mishima.png	375bae25ac6e78107ffe0218da52cb667293e23f04bac90d03b66290766dfb08	Tokaido: Mishima, niebla de la mañana	Utagawa Hiroshige	c. 1833
-hiroshige-nihonbashi	ukiyoe	ukiyoe/hiroshige-nihonbashi.png	91dc0f81255313dd9753557c6bdc4cd4b7cedeff4d94bc7b66f68c5d45745a4d	Tokaido: Nihonbashi, salida de la mañana	Utagawa Hiroshige	c. 1833
+hiroshige-nihonbashi	ukiyoe	ukiyoe/hiroshige-nihonbashi.png	a8766b24b3fd6793759efc83af708e7811ba5c28650ac0b5707c7e0fd14aaf85	Tokaido: Nihonbashi, salida de la mañana	Utagawa Hiroshige	c. 1833
 hiroshige-kameyama	ukiyoe	ukiyoe/hiroshige-kameyama.png	b7efbe899954f448e4c8b1c6b801954ebba744a947188d358ea45e55693e2639	Tokaido: Kameyama, cielo despejado tras la nieve	Utagawa Hiroshige	c. 1833
 hiroshige-hara	ukiyoe	ukiyoe/hiroshige-hara.png	f52ef4164908dbe1d08f3552272e612572e8ca5936ece204f48c60f860b7a632	Tokaido: Hara, el Fuji por la mañana	Utagawa Hiroshige	c. 1833
 hiroshige-mariko	ukiyoe	ukiyoe/hiroshige-mariko.png	ebf921be8377b1bca0fb68a30c904fe65fab091b288da3bb313fc7a120ea4593	Tokaido: Mariko, casa de té famosa	Utagawa Hiroshige	c. 1833
 hiroshige-yokkaichi	ukiyoe	ukiyoe/hiroshige-yokkaichi.png	f0aa1621ef5d4b25674f169c82f7f4515ceb921e99cb3d543aef21bc56f3345a	Tokaido: Yokkaichi, río Mie	Utagawa Hiroshige	c. 1833
 hiroshige-oi	ukiyoe	ukiyoe/hiroshige-oi.png	20a3aea24e5c458c9797e3a45291a5a35837ef8bb3f465acd2d7ba765b0de156	Kisokaido: Oi (nieve)	Utagawa Hiroshige	c. 1835
 hiroshige-kameido	ukiyoe	ukiyoe/hiroshige-kameido.png	ebb4287173dd19b84650236725d23db7076b9ce41a45f1bfd0a2bc7e13440c34	El jardín de ciruelos de Kameido	Utagawa Hiroshige	1857
-hiroshige-atake	ukiyoe	ukiyoe/hiroshige-atake.png	253bdb66067b19ed6a05a4150ac2dddb1689c5771c41e9c10ca578b466f6a33e	Aguacero sobre el puente Ohashi en Atake	Utagawa Hiroshige	1857
 kuniyoshi-takiyasha	ukiyoe	ukiyoe/kuniyoshi-takiyasha.png	c71c24c9dc70539b398a295c59261f0bf0189a9ac38c4038dfb800fa98cf0a59	La bruja Takiyasha y el esqueleto espectro	Utagawa Kuniyoshi	c. 1844
-kuniyoshi-ballena	ukiyoe	ukiyoe/kuniyoshi-ballena.png	885082a0d2a34c35a9e4c0f7c7ff8f3528574e3b33f47ac4f6be8c464d74330a	Miyamoto Musashi matando a la ballena gigante	Utagawa Kuniyoshi	1847
-kuniyoshi-gatos	ukiyoe	ukiyoe/kuniyoshi-gatos.png	5b8aa67fdc22a73c8c703b099d8fc6004a86231dad4c9cfbb8816644b99fdc97	Gatos como las 53 estaciones del Tokaido	Utagawa Kuniyoshi	1847
-utamaro-caqui	ukiyoe	ukiyoe/utamaro-caqui.png	2c55c966fe2aadeb9b0e24ba7c08858530a9c13a560fbbd913c32eb27ea00a94	Recogiendo caquis	Kitagawa Utamaro	c. 1803
-utamaro-abulones	ukiyoe	ukiyoe/utamaro-abulones.png	4cdb6bafed8a8d361fcdce7030c3bf78ef9441129c97ec5f82c40a8d6abe1ba5	Pescadoras de abulones	Kitagawa Utamaro	c. 1797
-hokusai-sumo	ukiyoe	ukiyoe/hokusai-sumo.png	318e6823b5a648f5cd92f6cf2b2afa6c0333d842167c1b108f61f97d410f63f0	Manga: luchadores de sumo	Katsushika Hokusai	c. 1815
 hokusai-umezawa	ukiyoe	ukiyoe/hokusai-umezawa.png	7e5ff13b6e630c7838745a24536e4ced1a10c72e27804f325676c8d6d16033f8	El Fuji desde Umezawa	Katsushika Hokusai	c. 1831
 sharaku-oniji	ukiyoe	ukiyoe/sharaku-oniji.png	07763b9522d82462a25d43f4ea67ae02acceeeded5befcb4051ecc4a75d92274	El actor Otani Oniji III	Toshūsai Sharaku	1794
+hokusai-meguro	ukiyoe	ukiyoe/hokusai-meguro.png	5516ff1c9508a2e426c037950693e37af4911106aafe2693c8e7b1cf220022bf	Bajo Meguro	Katsushika Hokusai	c. 1831
+hokusai-tsukudajima	ukiyoe	ukiyoe/hokusai-tsukudajima.png	d4b1b012cc3317440851df91bda3e2dba2492338c32e090b8b65fc7f1e1d87fe	Tsukudajima, en la provincia de Musashi	Katsushika Hokusai	c. 1831
+hokusai-tatekawa	ukiyoe	ukiyoe/hokusai-tatekawa.png	05dd6c805c818c9b7c4dc6df6b7dd3023704bf65729f7457932e27eed0f8a5bf	El mercado de madera de Tatekawa	Katsushika Hokusai	c. 1831
+hokusai-noboto	ukiyoe	ukiyoe/hokusai-noboto.png	efb9ff60b54d44b2e672b15391c748c263722e3d5f2fdb7cc93b09bfd978dc71	La bahía de Noboto	Katsushika Hokusai	c. 1831
+hokusai-shichiri	ukiyoe	ukiyoe/hokusai-shichiri.png	1d3cb49184f390084ecb1d855bf01e21c3cece87c696f0791e02980f7969feab	La playa de Shichirigahama	Katsushika Hokusai	c. 1831
+hokusai-honganji	ukiyoe	ukiyoe/hokusai-honganji.png	db94510c1baa52593eb8686997e0adc111c02d51283b3d68687d1a6fb8d947ed	El templo Honganji de Asakusa	Katsushika Hokusai	c. 1831
+hokusai-ushibori	ukiyoe	ukiyoe/hokusai-ushibori.png	beaff8628ae92b9141a6b13c68f274f4bb629650d908e51ec56d20eefe8b8fc2	Ushibori, en la provincia de Hitachi	Katsushika Hokusai	c. 1831
+hokusai-aserradores	ukiyoe	ukiyoe/hokusai-aserradores.png	1b5445b256a37d883f400f2c1fc11451d8e606a7bbb89dc3ba031c4b3619c290	Los aserradores de las montañas de Totomi	Katsushika Hokusai	c. 1831
+hokusai-tama	ukiyoe	ukiyoe/hokusai-tama.png	56e99aff8424a4e9d4b7882bf393bfe9ae6f3fef942fdfe6221b7de4d90cc877	El río Tama, en Musashi	Katsushika Hokusai	c. 1831
+hokusai-fujimigahara	ukiyoe	ukiyoe/hokusai-fujimigahara.png	74e76fd314c4e60dcf2c3d52b0a292c10359c6818797af424a87ebabc1a28da8	Fujimigahara, en Owari	Katsushika Hokusai	c. 1831
+hokusai-kazusa	ukiyoe	ukiyoe/hokusai-kazusa.png	54f2648beaf78cba9cf05e33c05242376645f8a876bd013472baadf6c820d9dd	En el mar frente a Kazusa	Katsushika Hokusai	c. 1831
+hokusai-senju	ukiyoe	ukiyoe/hokusai-senju.png	04127a9430247e88dedc4aab62e552c072552fadc965c2e8af6b0e15c0e2cc69	Senju, en Musashi	Katsushika Hokusai	c. 1831
+hokusai-suwa	ukiyoe	ukiyoe/hokusai-suwa.png	fd37d138e6b15d1b054162b5fdc019edba31b637ad57ef6f95d2a1d079d0d99f	El lago Suwa, en Shinano	Katsushika Hokusai	c. 1831
+hokusai-gotenyama	ukiyoe	ukiyoe/hokusai-gotenyama.png	26d9c03e7733a4b1558bfb2172010fd057cb91affa0df2ce39dd5bc645cdd05c	El Fuji desde Gotenyama, en Shinagawa	Katsushika Hokusai	c. 1831
+hokusai-nakahara	ukiyoe	ukiyoe/hokusai-nakahara.png	3f3d8705e5424901d50365b3d7878aef2f89febb95b8cb988a188ff8d97ac961	Nakahara, en Sagami	Katsushika Hokusai	c. 1831
+hokusai-hodogaya	ukiyoe	ukiyoe/hokusai-hodogaya.png	ec4ca2b6045aaa934b75006bc634b361f570ec6ad716546890ea3074cb6cbe83	Hodogaya, en el Tokaido	Katsushika Hokusai	c. 1831
+hokusai-yoshida	ukiyoe	ukiyoe/hokusai-yoshida.png	af691e4380fc4b2fd9ea0bd60abe4316c9bc893734a54e021a75ed51efc3185b	Yoshida, en el Tokaido	Katsushika Hokusai	c. 1831
+hokusai-nihonbashi	ukiyoe	ukiyoe/hokusai-nihonbashi.png	8f43b3a5566e687eb4761f3f0aad72aa291e0642dc5d350e9927d0e3e3170fd1	Nihonbashi, en Edo	Katsushika Hokusai	c. 1831
+hokusai-minobu	ukiyoe	ukiyoe/hokusai-minobu.png	555798aa7e0a079edbff54b0d4f62ed3cc69858fc134a9c3d068549f80bbfee5	El Fuji desde el río Minobu	Katsushika Hokusai	c. 1831
+hokusai-sano	ukiyoe	ukiyoe/hokusai-sano.png	57b69724dfaf527d525952b567c7fc484be1aaa94ceb81dbda8177b794af2a34	El puente de barcas de Sano	Katsushika Hokusai	c. 1834
+hokusai-yahagi	ukiyoe	ukiyoe/hokusai-yahagi.png	c8a3d7aac88e7dd1d8d7c9d289d0913a3f4b83ca6452181009706aa99bf13559	El puente Yahagi de Okazaki	Katsushika Hokusai	c. 1834
+hokusai-fukui	ukiyoe	ukiyoe/hokusai-fukui.png	af96e14e33b93fd6b142d691e438b3a9a0a8dbb6ef9e29cdff6573872c13f690	El puente de Fukui, en Echizen	Katsushika Hokusai	c. 1834
+hokusai-taikobashi	ukiyoe	ukiyoe/hokusai-taikobashi.png	d8b7150987d75ad91d968a38ef86c24d34b92393f443a9816de447d82ccc1fad	El puente arqueado del santuario Kameido	Katsushika Hokusai	c. 1834
+hokusai-takamura	ukiyoe	ukiyoe/hokusai-takamura.png	3b5adfa8e37f28752dc0e204123de4a03b864340dea69335d96243536411a9de	Poema de Sangi no Takamura	Katsushika Hokusai	c. 1835
+hokusai-michinobu	ukiyoe	ukiyoe/hokusai-michinobu.png	6f61c72f9694b013d781b5f4643cff692bc2ab140065fccdbc5557137a5be242	Poema de Fujiwara no Michinobu	Katsushika Hokusai	c. 1835
+hiroshige-totsuka	ukiyoe	ukiyoe/hiroshige-totsuka.png	d663332c813cc56b1a8bbb506ce194be801e2ff9758758831fb81510672445a3	Tokaido: Totsuka, la posada	Utagawa Hiroshige	c. 1833
+hiroshige-yui	ukiyoe	ukiyoe/hiroshige-yui.png	ee8abff5fc86082a58553c2a3fa7c9e09bc3624d71b04a33452dd2aef48213f8	Tokaido: Yui, el paso de Satta	Utagawa Hiroshige	c. 1833
+hiroshige-fuchu	ukiyoe	ukiyoe/hiroshige-fuchu.png	e09dd17711ca0e4f9f857ac6a74e29fee6f126ea5655264a63f1356bd31ae6cb	Tokaido: Fuchū, el río Abe	Utagawa Hiroshige	c. 1833
+hiroshige-kakegawa	ukiyoe	ukiyoe/hiroshige-kakegawa.png	2cda26288886d3ddd86fb75779c9037dfd666dec3eafacedc3c7ceff5ca5b9fc	Tokaido: Kakegawa, el monte Akiba	Utagawa Hiroshige	c. 1833
+hiroshige-fukuroi	ukiyoe	ukiyoe/hiroshige-fukuroi.png	70c161e674b6b6b07533328c3d8262a532d07ac31f669c28cb8a110a4da37249	Tokaido: Fukuroi, la casa de té	Utagawa Hiroshige	c. 1833
+hiroshige-maisaka	ukiyoe	ukiyoe/hiroshige-maisaka.png	5136e66d3b8f8ef0186339dc734ec81d85aa11e9dd386e77ce281ddf58768e5c	Tokaido: Maisaka, el cabo Imagiri	Utagawa Hiroshige	c. 1833
+hiroshige-arai	ukiyoe	ukiyoe/hiroshige-arai.png	54ecb774021181d77c1ffb3a75f81c40ced344a0e839cdcd9d32b93d7a8eceaf	Tokaido: Arai, los transbordadores	Utagawa Hiroshige	c. 1833
+hiroshige-okazaki	ukiyoe	ukiyoe/hiroshige-okazaki.png	153892c12804afa38e0d2bcbe0899623010a1d393276470bc1887a7986b145b6	Tokaido: Okazaki, el puente Yahagi	Utagawa Hiroshige	c. 1833
+hiroshige-tsuchiyama	ukiyoe	ukiyoe/hiroshige-tsuchiyama.png	674782eac1b551956eebd125f84947e734ddb3244c787181bcd39e684d48c2ac	Tokaido: Tsuchiyama, lluvia de primavera	Utagawa Hiroshige	c. 1833
+hiroshige-kioto	ukiyoe	ukiyoe/hiroshige-kioto.png	4efa09fc9aede7f16557a7c781c079ecdf6b32bf0fe29660c69cb1d558f7da00	Tokaido: Kioto, el puente Sanjo	Utagawa Hiroshige	c. 1833
+hiroshige-yoshiwara	ukiyoe	ukiyoe/hiroshige-yoshiwara.png	9a33094d2dd9d15ee7a1f4a95a17b84d01ae32c86f4cd5eb0716f3453991771f	Tokaido: Yoshiwara, el Fuji a la izquierda	Utagawa Hiroshige	c. 1833
+kiyochika-patos	ukiyoe	ukiyoe/kiyochika-patos.png	f2424c1431bf036d24a3562724050296bfaf2116b4c4b0be96f256b8e6f0a531	Pareja de patos en un estanque de lotos	Kobayashi Kiyochika	1879
+kiyochika-haneda	ukiyoe	ukiyoe/kiyochika-haneda.png	e08115c8b90b98be812cdfafe3a93356d1f8314ed1242906c990a6edaeb655c2	Luna entre las nubes en la costa de Haneda	Kobayashi Kiyochika	1929 (diseño de Kiyochika)
+yoshitoshi-yasumasa	ukiyoe	ukiyoe/yoshitoshi-yasumasa.png	0fd9edb99ae19e5597380d07462435e8e8e12f2ed8e420c8a13c68aa268361f2	Fujiwara no Yasumasa tocando la flauta a la luz de la luna	Tsukioka Yoshitoshi	c. 1883
+kuniyoshi-kasumigaseki	ukiyoe	ukiyoe/kuniyoshi-kasumigaseki.png	82c31ebc120fc1bf8f32a025e9912aabed2f01d257b3f0569e57fdf221971fbd	Kasumigaseki	Utagawa Kuniyoshi	c. 1832
+hiroshige-kiso-miyanokoshi	ukiyoe	ukiyoe/hiroshige-kiso-miyanokoshi.png	28d44973a16b921adc73fc0b0bb9a27f835fb3605a0dc719a75ab76622c67a3a	Kisokaido: Miyanokoshi, noche de luna	Utagawa Hiroshige	c. 1835-38
+hiroshige-kiso-seba	ukiyoe	ukiyoe/hiroshige-kiso-seba.png	a09419a1cb67d9c31f61a90cadf96517c2a7f9c22fb1b2af0c422c5c26ecf61b	Kisokaido: Seba	Utagawa Hiroshige	c. 1835-38
+hiroshige-kiso-mieji	ukiyoe	ukiyoe/hiroshige-kiso-mieji.png	0440ebc65d12ebf8bfa84e51cb11687819865c99cab02ea082768fe972181697	Kisokaido: Mieji	Utagawa Hiroshige	c. 1835-38
+hiroshige-kiso-nagakubo	ukiyoe	ukiyoe/hiroshige-kiso-nagakubo.png	dc92049655fdedfe3ff2ac786037eef4d6d58b02f1351d9aeba6a45a58545571	Kisokaido: Nagakubo	Utagawa Hiroshige	c. 1835-38
+hiroshige-kiso-mochizuki	ukiyoe	ukiyoe/hiroshige-kiso-mochizuki.png	f5ca1a3c82c7c652f7d3d7d8d2b3f4527704310848678f9144ff3d729a272e13	Kisokaido: Mochizuki	Utagawa Hiroshige	c. 1835-38
+hiroshige-kiso-echikawa	ukiyoe	ukiyoe/hiroshige-kiso-echikawa.png	c15c31b02fe8e77a131da9e2d28a8d1dec8d41595095711ea7cc61fe7598d245	Kisokaido: Echikawa	Utagawa Hiroshige	c. 1835-38
+hiroshige-omi-seta	ukiyoe	ukiyoe/hiroshige-omi-seta.png	91213e718f7e242b0fb4a7ad43c1bc1c6f3f030bb50d0cafb6c5024fc7d3f4ac	Omi: resplandor del ocaso en Seta	Utagawa Hiroshige	1834-35
+hiroshige-omi-katada	ukiyoe	ukiyoe/hiroshige-omi-katada.png	30082981456fe75b9101fcfff431ad2549cff624a813d0953ac02a85db08aad9	Omi: gansos descendiendo en Katada	Utagawa Hiroshige	c. 1834-35
+hiroshige-omi-miidera	ukiyoe	ukiyoe/hiroshige-omi-miidera.png	1a5dd5a1d35a62e08f0997f58f25fb50121f3436aa80ddd226ddcb3a2ff7b1fa	Omi: campana de la tarde en Miidera	Utagawa Hiroshige	c. 1834-35
+hiroshige-kioto-yodo	ukiyoe	ukiyoe/hiroshige-kioto-yodo.png	77badc8755f938324ec3f893360ce406c0f5f8582517169203ee3ecb0b729089	Kioto: el río Yodo	Utagawa Hiroshige	c. 1834
+hiroshige-kioto-gion	ukiyoe	ukiyoe/hiroshige-kioto-gion.png	fdd57e6ab162e8c504feb1d931dba49b7c65b595aa084d794fafd377b4e74e8f	Kioto: el santuario Gion bajo la nieve	Utagawa Hiroshige	c. 1834
+hiroshige-kioto-yase	ukiyoe	ukiyoe/hiroshige-kioto-yase.png	e5c59d5277956a0caa9096d59c133438036e4b1fd8b1471cc15d0e227028dac3	Kioto: la aldea de Yase	Utagawa Hiroshige	c. 1834
+hiroshige-edo-takanawa	ukiyoe	ukiyoe/hiroshige-edo-takanawa.png	3903d5f79604910eb51cde17e327fa36e2c36934063eadd12eef44adceda17fa	Edo: luna llena en Takanawa	Utagawa Hiroshige	c. 1831
+hiroshige-edo-mimeguri	ukiyoe	ukiyoe/hiroshige-edo-mimeguri.png	9288d542b86dc57a0756621696278a086e5b3c3d0d09c8a7d5fc79f436abb307	Nieve de la tarde en Mimeguri	Utagawa Hiroshige	c. 1840-42
+hiroshige-edo-akabane	ukiyoe	ukiyoe/hiroshige-edo-akabane.png	dec2340acf2c6d46575d6eb9d554f1b656495288a0789ef564c136a4cbb89c4a	Nieve en el puente Akabane, Shiba	Utagawa Hiroshige	c. 1843-47
+hiroshige-edo-inokashira	ukiyoe	ukiyoe/hiroshige-edo-inokashira.png	8027094dd4df033b22c7ebba65809654baea773331021c2a8794948dd867ed4c	Nieve en el santuario de Benzaiten, estanque Inokashira	Utagawa Hiroshige	c. 1844-45
+kuniyoshi-surugadai	ukiyoe	ukiyoe/kuniyoshi-surugadai.png	2fd73ad4cdf22171ca6c9ef2783214be4badd4f9259e951d87e997a203a25905	Surugadai	Utagawa Kuniyoshi	c. 1832
+eisen-kutsukake	ukiyoe	ukiyoe/eisen-kutsukake.png	9324439c21999f675a7ce088030181f852ded7885066a2e2c1113e31858acf74	Kisokaido: lluvia en la llanura de Hiratsuka	Keisai Eisen	c. 1835-36
+eisen-sumida	ukiyoe	ukiyoe/eisen-sumida.png	f80fa7724ba4b96114af9f8faf0557d4bc0ab4aaff8412216711b173ff83600c	Nieve sobre el río Sumida	Keisai Eisen	c. 1840-44
+eisen-suwa	ukiyoe	ukiyoe/eisen-suwa.png	9d79e24d4e4c2ac057ec193fef7b0744c718086bbc8ced4d5a53816f965573f7	Kisokaido: el lago Suwa desde el paso de Shiojiri	Keisai Eisen	c. 1835-36
+shotei-omuro	ukiyoe	ukiyoe/shotei-omuro.png	2392fa6da73865362c7ac0c62b5dd0661228907c15bab95e0ec3c356435f547d	El Fuji en las cuatro estaciones: Omuro	Takahashi Shotei	s. XX
+shotei-izumibashi	ukiyoe	ukiyoe/shotei-izumibashi.png	8e66412937352e79d6600ab8aca483314318af1b0470f49338dbccb5ef4aac69	Lluvia en el puente Izumi	Takahashi Shotei	s. XX
+shotei-ayase	ukiyoe	ukiyoe/shotei-ayase.png	2df63789fd528d5da8c3d42a16753fceb0efeb9456b0ebc4676a7279bc278808	Nieve sobre el río Ayase	Takahashi Shotei	s. XX
+shotei-inatori	ukiyoe	ukiyoe/shotei-inatori.png	db8615c8d6b9a30dea780a73dda8127afadae95f40b2adfc1ea47cbbe259b30a	Juncos en la bahía de Inatori, Izu	Takahashi Shotei	s. XX
+koson-vissersboten	ukiyoe	ukiyoe/koson-vissersboten.png	726a66d33b70de74678f77b2d3cd57dd8f5aa3e0ab659ba3053fb6f6dfa7fc5a	Barcas de pesca	Ohara Koson	s. XX
+koson-palanquin	ukiyoe	ukiyoe/koson-palanquin.png	bc5545ed5287e4587787fdb5a48cfd0d7c946b1bb78d65ad1cf92dc570436f66	Palanquín junto al río	Ohara Koson	s. XX
+hokusai-sumida-nieve	ukiyoe	ukiyoe/hokusai-sumida-nieve.png	df3868131f334f9c549bed4530719b1a4a7d54e2b238fde7ee848bb8543f02cf	Nieve en el río Sumida	Katsushika Hokusai	c. 1833
+hokusai-yodo-luna	ukiyoe	ukiyoe/hokusai-yodo-luna.png	a8a95edbe756e5972c5c22df8ab8382e095906a42c20f6edf754db8736cdc619	Luz de luna en el río Yodo	Katsushika Hokusai	c. 1833
+hokusai-poema-kanke	ukiyoe	ukiyoe/hokusai-poema-kanke.png	d194e74f63513d0247ddbe211552d0c0b45d96c915cdabb9eb5fabd168f9f4f4	Poema de Sugawara no Michizane	Katsushika Hokusai	c. 1839
+hokusai-poema-yoshinobu	ukiyoe	ukiyoe/hokusai-poema-yoshinobu.png	21ebb69194a3a7f2f6fcd0a921c978510297820142eba9407112f2e50cd3ec17	Poema de Onakatomi no Yoshinobu	Katsushika Hokusai	1839
+yoshida-hodaka	ukiyoe	ukiyoe/yoshida-hodaka.png	4bea132a7b07b40be6e7a2b95f20047c83ee5a34e15115409fd4a2876768a830	Doce escenas de los Alpes japoneses: Hodakayama	Yoshida Hiroshi	1926
+yoshida-suzukawa	ukiyoe	ukiyoe/yoshida-suzukawa.png	8c9b7765d0152b3fbf55fe878c5a9951c1146ac40e192a0746cb5dfed0dd75d9	Suzukawa	Yoshida Hiroshi	1935
+yoshida-komagatake	ukiyoe	ukiyoe/yoshida-komagatake.png	4f9f1ab60e139d0ffcade826b157da684a9e287ca2faeea8337bd452b446d148	Komagatake	Yoshida Hiroshi	s. XX
+yoshida-taj	ukiyoe	ukiyoe/yoshida-taj.png	4f7f8e89b8144f4caef7ff99a82df9434ea8ea18c7c2e21d1c746fdd6627f139	Niebla matinal en el Taj Mahal	Yoshida Hiroshi	1931
+koson-barcas	ukiyoe	ukiyoe/koson-barcas.png	1f04215f1b584c5af532f6bb5848450689e00c6fc9da8563335a07b791db52a2	Barcas	Ohara Koson	s. XX
+shotei-edogawa	ukiyoe	ukiyoe/shotei-edogawa.png	3d6b34e528ba54ad162c82359a46ea05d5cee48c9caff29cf44539ed53042a37	Escena de tarde en el río Edo	Takahashi Shotei	s. XX

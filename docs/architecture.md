@@ -35,7 +35,7 @@ still being online. TSV rather than JSON because Lua 5.1 on the Kindle has no JS
 parser. Publishing panels elsewhere (Pages, releases) would keep git history smaller, but
 new images are rare.
 
-Collections are art movements (`content/collections.tsv`), one works file each in
+Collections (`content/collections.tsv`) group works by period or medium, one works file each in
 `content/works/`. The repo must be public: the device downloads from it without a
 token.
 
@@ -69,7 +69,7 @@ A shell script, started detached by the library item. Steps:
 
 Any failure before step 4 leaves the content exactly as it was. Step 4 takes seconds; if
 it is interrupted, the next sync repairs it, since it compares actual files. A full
-download of 322 panels takes a few minutes; a check with nothing to download takes
+download of about 320 panels takes a few minutes; a check with nothing to download takes
 about 25 seconds on the Kindle, mostly hashing.
 
 ## Ideas not built

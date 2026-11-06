@@ -27,8 +27,8 @@
     "source": {
       "commons": "File:Ansel-adams-monolith-the-face-of-half-dome.jpg"
     },
-    "status": "approved",
-    "masterpiece": true
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
   },
   {
     "id": "adams-tormenta",
@@ -41,49 +41,6 @@
     "status": "approved"
   },
   {
-    "id": "lange-madre",
-    "title": "Madre migrante",
-    "artist": "Dorothea Lange",
-    "date": "1936",
-    "source": {
-      "commons": "File:Lange-MigrantMother02.jpg"
-    },
-    "status": "approved",
-    "masterpiece": true
-  },
-  {
-    "id": "ebbets-almuerzo",
-    "title": "Almuerzo en lo alto de un rascacielos",
-    "artist": "Charles Ebbets (atrib.)",
-    "date": "1932",
-    "source": {
-      "commons": "File:Lunch atop a Skyscraper.jpg"
-    },
-    "status": "approved"
-  },
-  {
-    "id": "stieglitz-steerage",
-    "title": "The Steerage",
-    "artist": "Alfred Stieglitz",
-    "date": "1907",
-    "source": {
-      "commons": "File:Alfred Stieglitz - The Steerage - Google Art Project.jpg"
-    },
-    "status": "approved",
-    "masterpiece": true
-  },
-  {
-    "id": "steichen-flatiron",
-    "title": "The Flatiron",
-    "artist": "Edward Steichen",
-    "date": "1904",
-    "source": {
-      "commons": "File:Steichen flatiron.jpg"
-    },
-    "status": "approved",
-    "masterpiece": true
-  },
-  {
     "id": "steichen-pond",
     "title": "The Pond, Moonlight",
     "artist": "Edward Steichen",
@@ -91,8 +48,8 @@
     "source": {
       "commons": "File:Edward Steichen - Moonlight - The Pond - Google Art Project.jpg"
     },
-    "status": "approved",
-    "masterpiece": true
+    "status": "rejected",
+    "note": "panel ciego: 2.00 < 3.5 (opus 2, sonnet 2/2)"
   },
   {
     "id": "weston-pimiento",
@@ -102,55 +59,1062 @@
     "source": {
       "commons": "File:Pepper No. 30, by Edward Weston.jpg"
     },
-    "status": "approved",
-    "masterpiece": true
+    "status": "rejected",
+    "crop": [
+      0.5,
+      0.05
+    ],
+    "note": "revisión del propietario (noviembre 2026)"
   },
   {
-    "id": "muybridge-caballo",
-    "title": "El caballo en movimiento",
-    "artist": "Eadweard Muybridge",
-    "date": "1878",
+    "id": "adams-glaciar-e01",
+    "title": "Montañas del Glacier National Park",
+    "artist": "Ansel Adams",
+    "date": "c. 1941",
     "source": {
-      "commons": "File:The Horse in Motion high res.jpg"
+      "commons": "File:Ansel Adams - National Archives 79-AA-E01.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "adams-glaciar-e05",
+    "title": "Glacier National Park",
+    "artist": "Ansel Adams",
+    "date": "c. 1941",
+    "source": {
+      "commons": "File:Ansel Adams - National Archives 79-AA-E05.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "adams-glaciar-e12",
+    "title": "Lago de montaña, Glacier",
+    "artist": "Ansel Adams",
+    "date": "c. 1941",
+    "source": {
+      "commons": "File:Ansel Adams - National Archives 79-AA-E12.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "adams-glaciar-e15",
+    "title": "Picos nevados, Glacier",
+    "artist": "Ansel Adams",
+    "date": "c. 1941",
+    "source": {
+      "commons": "File:Ansel Adams - National Archives 79-AA-E15.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "adams-teton-g07",
+    "title": "Los Tetons",
+    "artist": "Ansel Adams",
+    "date": "c. 1941",
+    "source": {
+      "commons": "File:Ansel Adams - National Archives 79-AA-G07.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "adams-teton-g10",
+    "title": "Grand Teton National Park",
+    "artist": "Ansel Adams",
+    "date": "c. 1941",
+    "source": {
+      "commons": "File:Ansel Adams - National Archives 79-AA-G10.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.75 < 3.5 (opus 3, sonnet 2/3)"
+  },
+  {
+    "id": "adams-chelly",
+    "title": "Cañón de Chelly",
+    "artist": "Ansel Adams",
+    "date": "1941",
+    "source": {
+      "commons": "File:Ansel Adams Canyon de Chelly, view of valley from mountain, 1941 (2952377782).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "watkins-cabo-cuerno",
+    "title": "Cape Horn, río Columbia",
+    "artist": "Carleton Watkins",
+    "date": "c. 1867",
+    "source": {
+      "commons": "File:Carleton Watkins (American - Cape Horn, Columbia River - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.00 < 3.5 (opus 2, sonnet 2/2)"
+  },
+  {
+    "id": "watkins-catedral",
+    "title": "Cathedral Rock, Yosemite",
+    "artist": "Carleton Watkins",
+    "date": "c. 1865",
+    "source": {
+      "commons": "File:Cathedral Rock, Yosemite by Carleton Watkins, edit.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "watkins-merced",
+    "title": "El río Merced, Yosemite",
+    "artist": "Carleton Watkins",
+    "date": "c. 1865",
+    "source": {
+      "commons": "File:Carleton Watkins, Merced River, Yosemite Valley, California, ca. 1865.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "watkins-halfdome",
+    "title": "Half Dome, Yosemite",
+    "artist": "Carleton Watkins",
+    "date": "c. 1865",
+    "source": {
+      "commons": "File:Carleton Watkins, Half Dome, Yosemite Valley, California, ca. 1865.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "watkins-valle",
+    "title": "El valle de Yosemite",
+    "artist": "Carleton Watkins",
+    "date": "c. 1865",
+    "source": {
+      "commons": "File:Carleton Watkins, Yosemite Valley, California, ca. 1865.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "watkins-domos",
+    "title": "Vista lejana de los domos",
+    "artist": "Carleton Watkins",
+    "date": "c. 1865",
+    "source": {
+      "commons": "File:Carleton E. Watkins - Distant View of the Domes, Yosemite Valley, California - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "watkins-inspiration",
+    "title": "Yosemite desde Inspiration Point",
+    "artist": "Carleton Watkins",
+    "date": "c. 1865",
+    "source": {
+      "commons": "File:Carleton Watkins (American - Yosemite Valley from Inspiration Point - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "watkins-washington",
+    "title": "Washington Column, Yosemite",
+    "artist": "Carleton Watkins",
+    "date": "c. 1865",
+    "source": {
+      "commons": "File:Carleton Watkins (American - Washington Column, 2082 feet, Yosemite Valley, Mariposa County, Cal. - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión e-ink: par estereoscópico, pálido"
+  },
+  {
+    "id": "osullivan-circulo",
+    "title": "Circle Wall, Cañón de Chelly",
+    "artist": "Timothy O'Sullivan",
+    "date": "1873",
+    "source": {
+      "commons": "File:Circle Wall Canyon De Chelly, Arizona 1873 - NARA - 519759.jpg"
+    },
+    "status": "rejected",
+    "note": "fuente no encontrada en Commons"
+  },
+  {
+    "id": "osullivan-columna",
+    "title": "Columna del Explorador, Chelly",
+    "artist": "Timothy O'Sullivan",
+    "date": "1873",
+    "source": {
+      "commons": "File:Explorer's Column, Canyon De Chelle 900 feet, Arizona 1873 - NARA - 519738.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.02,
+      0.03,
+      0.53,
+      0.03
+    ],
+    "note": "panel ciego: 2.25 < 3.5 (opus 2, sonnet 2/3)"
+  },
+  {
+    "id": "osullivan-ruinas",
+    "title": "Ruinas en el cañón de Chelly",
+    "artist": "Timothy O'Sullivan",
+    "date": "1873",
+    "source": {
+      "commons": "File:Distant view of ancient ruins in lower part of Canyon De Chelle, Arizona 1873 - NARA - 519811.jpg"
     },
     "status": "approved",
     "trim": [
       0.02,
       0.03,
-      0.02,
-      0.19
+      0.53,
+      0.03
     ]
   },
   {
-    "id": "hine-empire",
-    "title": "Trabajador del Empire State",
-    "artist": "Lewis Hine",
-    "date": "1930",
+    "id": "osullivan-whitehouse",
+    "title": "Cabeza del cañón de Chelly",
+    "artist": "Timothy O'Sullivan",
+    "date": "1873",
     "source": {
-      "commons": "File:Icarus, Empire State Building MET DT1655.jpg"
+      "commons": "File:HEAD OF CANYON DE CHELLE, LOOKING DOWN WALLS 1200 FEET IN HEIGHT, ARIZONA - NARA - 524271.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "osullivan-dunas",
+    "title": "Dunas de arena, Nevada",
+    "artist": "Timothy O'Sullivan",
+    "date": "1867",
+    "source": {
+      "commons": "File:Timothy O'Sullivan - Sand Dunes, Carson Desert, Nevada - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "osullivan-shoshone",
+    "title": "Cataratas Shoshone, Idaho",
+    "artist": "Timothy O'Sullivan",
+    "date": "1874",
+    "source": {
+      "commons": "File:Timothy H. O'Sullivan, Shoshone Falls, Snake River, Idaho, 1874, NGA 92334.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "muybridge-yosemite",
+    "title": "Valle de Yosemite desde Rocky Ford",
+    "artist": "Eadweard Muybridge",
+    "date": "1872",
+    "source": {
+      "commons": "File:Eadweard J. Muybridge (American, born England - Valley of the Yosemite, from Rocky Ford - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "legray-nubes",
+    "title": "Cielo nublado, Mediterráneo",
+    "artist": "Gustave Le Gray",
+    "date": "1857",
+    "source": {
+      "commons": "File:Gustave Le Gray - Cloudy Sky, Mediterranean Sea - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "legray-sol",
+    "title": "Efecto de sol entre las nubes",
+    "artist": "Gustave Le Gray",
+    "date": "1856",
+    "source": {
+      "commons": "File:Gustave Le Gray - Solar Effect in the Clouds--Ocean (Effet de soleil dans les nuages--ocean) - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.75 < 3.5 (opus 2, sonnet 4/3)"
+  },
+  {
+    "id": "legray-velero",
+    "title": "Velero y remolcador",
+    "artist": "Gustave Le Gray",
+    "date": "c. 1856",
+    "source": {
+      "commons": "File:Gustave Le Gray (French - Seascape with Sailing Ship and Tugboat - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "legray-bergantin",
+    "title": "Bergantín sobre el agua",
+    "artist": "Gustave Le Gray",
+    "date": "1856",
+    "source": {
+      "commons": "File:Brig on the Water (IA mma brig on the water 261937).jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "legray-normandia",
+    "title": "Efecto de sol, Normandía",
+    "artist": "Gustave Le Gray",
+    "date": "c. 1856",
+    "source": {
+      "commons": "File:Gustave Le Gray - An Effect of the Sun, Normandy - 1987.54 - Cleveland Museum of Art.jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "ponting-terranova",
+    "title": "El Terra Nova",
+    "artist": "Herbert Ponting",
+    "date": "1911",
+    "source": {
+      "commons": "File:Terra Nova ship by Herbert Ponting, 1911.jpg"
     },
     "status": "approved"
   },
   {
-    "id": "atget-genevieve",
-    "title": "Rue de la Montagne-Sainte-Geneviève",
-    "artist": "Eugène Atget",
-    "date": "1924",
+    "id": "ponting-solmedianoche",
+    "title": "Sol de medianoche, mar de Ross",
+    "artist": "Herbert Ponting",
+    "date": "1910",
     "source": {
-      "commons": "File:Eugène Atget - Rue de la Montagne-Sainte-Geneviève - 1985.115 - Cleveland Museum of Art.jpg"
+      "commons": "File:Midnight sun, over the Ross Sea, Antarctic, December 1910.jpg"
     },
-    "status": "approved",
-    "masterpiece": true
+    "status": "approved"
   },
   {
-    "id": "evans-burroughs",
-    "title": "Allie Mae Burroughs",
-    "artist": "Walker Evans",
-    "date": "1936",
+    "id": "ponting-icebergs",
+    "title": "Icebergs de la expedición Scott",
+    "artist": "Herbert Ponting",
+    "date": "1911",
     "source": {
-      "commons": "File:Allie Mae Burroughs print.jpg"
+      "commons": "File:Herbert Ponting icebergs Scott Expadition.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "ponting-castle",
+    "title": "El iceberg Castle",
+    "artist": "Herbert Ponting",
+    "date": "1911",
+    "source": {
+      "commons": "File:The Castle berg, a weathered iceberg - H.G.P. LCCN2009633367.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hurley-endurance",
+    "title": "El Endurance atrapado en el hielo",
+    "artist": "Frank Hurley",
+    "date": "1915",
+    "source": {
+      "commons": "File:Endurance trapped in pack ice.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "hurley-crestapresion",
+    "title": "Crestas de presión al amanecer",
+    "artist": "Frank Hurley",
+    "date": "1915",
+    "source": {
+      "commons": "File:The 'Endurance', The pink glow of the rising sun shining on a pressure ridge, 1915 - photographed by Frank Hurley (3534602329).jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.07,
+      0.075,
+      0.07,
+      0.075
+    ],
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "hurley-escora",
+    "title": "El Endurance escorado",
+    "artist": "Frank Hurley",
+    "date": "1915",
+    "source": {
+      "commons": "File:Endurance heeled to port by the ice (4793353650).jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 4/3)"
+  },
+  {
+    "id": "sella-elias",
+    "title": "Monte Saint Elias y glaciar Malaspina",
+    "artist": "Vittorio Sella",
+    "date": "1897",
+    "source": {
+      "commons": "File:Vittorio Sella--Mount St Elias from Malaspina Glacier--1897.jpg"
     },
     "status": "approved",
-    "masterpiece": true
+    "trim": [
+      0.02,
+      0.02,
+      0.02,
+      0.08
+    ]
+  },
+  {
+    "id": "sella-kangchenjunga",
+    "title": "Kangchenjunga",
+    "artist": "Vittorio Sella",
+    "date": "1899",
+    "source": {
+      "commons": "File:Vittorio Sella Kanchinjinga (Kangchenjunga) 1899.jpg"
+    },
+    "status": "approved",
+    "trim": [
+      0.065,
+      0.03,
+      0.03,
+      0.11
+    ]
+  },
+  {
+    "id": "emerson-broads",
+    "title": "Vida y paisaje en los Broads",
+    "artist": "Peter Henry Emerson",
+    "date": "1886",
+    "source": {
+      "commons": "File:Life and Landscape on the Norfolk Broads MET DP206317.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "emerson-escarcha",
+    "title": "La primera escarcha",
+    "artist": "Peter Henry Emerson",
+    "date": "1886",
+    "source": {
+      "commons": "File:Landschap onder de vorst The First Frost (titel op object) P.H. Emerson, Life and Landscape on the Norfolk Broads, Londen 1886 (serietitel), RP-F-F80157.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.176,
+      0.19,
+      0.188,
+      0.197
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "emerson-juncos",
+    "title": "Orilla de juncos",
+    "artist": "Peter Henry Emerson",
+    "date": "1886",
+    "source": {
+      "commons": "File:Peter Emerson - A Rushy Shore, plate XXXV from \"Life and Landscape on the Norfolk Broads\" - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "emerson-astillero",
+    "title": "Un astillero de Norfolk",
+    "artist": "Peter Henry Emerson",
+    "date": "1886",
+    "source": {
+      "commons": "File:Peter Henry Emerson - A Norfolk Boatyard - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "evans-ely",
+    "title": "Catedral de Ely, nave y octógono",
+    "artist": "Frederick H. Evans",
+    "date": "1900",
+    "source": {
+      "commons": "File:Frederick H. Evans (British - Ely Cathedral- Across Nave and Octagon - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "evans-wells",
+    "title": "Catedral de Wells desde el foso",
+    "artist": "Frederick H. Evans",
+    "date": "c. 1900",
+    "source": {
+      "commons": "File:Wells Cathedral from the Moat Path MET DP117898.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "fenton-rievaulx",
+    "title": "Abadía de Rievaulx",
+    "artist": "Roger Fenton",
+    "date": "1854",
+    "source": {
+      "commons": "File:Roger Fenton, Rievaulx Abbey, the North Transept, 1854, NGA 137719.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "bisson-mermer",
+    "title": "Mer de Glace",
+    "artist": "Bisson Frères",
+    "date": "c. 1860",
+    "source": {
+      "commons": "File:Mer de Glace, gezien vanaf la Flagère, Savoye, Franse Alpen, RP-F-F80387.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "bourne-dunkar",
+    "title": "Himalaya, Dunkar",
+    "artist": "Samuel Bourne",
+    "date": "c. 1866",
+    "source": {
+      "commons": "File:Gezicht op het berglandschap van de Himalaya India, Dunkar, Himalaya, RP-F-F80434.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "bourne-wanga",
+    "title": "Valle de Wanga, Himalaya",
+    "artist": "Samuel Bourne",
+    "date": "c. 1866",
+    "source": {
+      "commons": "File:Gezicht op Wanga Valley in het Himalaya gebergte, RP-F-F80405.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "bourne-maniring",
+    "title": "Paso de Maniring",
+    "artist": "Samuel Bourne",
+    "date": "c. 1866",
+    "source": {
+      "commons": "File:Gezicht op besneeuwde bergpassen in de Himalaya KuliuSuti. The Maniring Pass elevation 18600 feet, view looking east, showing a Successsion of snowing Summits, RP-F-F80402.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "frith-dahshur",
+    "title": "Las pirámides de Dahshur",
+    "artist": "Francis Frith",
+    "date": "1857",
+    "source": {
+      "commons": "File:Francis Frith (English) - The Pyramids of Dahshoor, From the East - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "frith-esfinge",
+    "title": "La Gran Pirámide y la Esfinge",
+    "artist": "Francis Frith",
+    "date": "1858",
+    "source": {
+      "commons": "File:Francis Frith - The Great Pyramid and the Great Sphinx, Egypt - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "frith-giza",
+    "title": "Las pirámides de Guiza",
+    "artist": "Francis Frith",
+    "date": "1858",
+    "source": {
+      "commons": "File:Francis Frith - Pyramids Of El-Geezeh (From The Southwest) - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "tripe-puente",
+    "title": "Puente de madera, Amarapura",
+    "artist": "Linnaeus Tripe",
+    "date": "1855",
+    "source": {
+      "commons": "File:Amerapoora- Wooden Bridge MET DP300694.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.02,
+      0.02,
+      0.02,
+      0.09
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "baldus-donzere",
+    "title": "Paso de Donzère",
+    "artist": "Édouard Baldus",
+    "date": "1861",
+    "source": {
+      "commons": "File:Édouard Baldus - Entrance to the Donzère Pass - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "baldus-enghien",
+    "title": "Enghien",
+    "artist": "Édouard Baldus",
+    "date": "c. 1855",
+    "source": {
+      "commons": "File:Édouard Baldus - Enghien - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "nasa-tierra-luna",
+    "title": "La Tierra sobre el horizonte lunar",
+    "artist": "NASA, Apolo 8",
+    "date": "1968",
+    "source": {
+      "commons": "File:AS08-13-2329 - Apollo 8 - Apollo 8 Mission image - Moon with Earth over horizon and T-O 28 - NARA - 16670177.jpg"
+    },
+    "status": "rejected",
+    "note": "fuente no encontrada en Commons"
+  },
+  {
+    "id": "nasa-apolo11-limbo",
+    "title": "La Tierra desde el Apolo 11",
+    "artist": "NASA, Apolo 11",
+    "date": "1969",
+    "source": {
+      "commons": "File:View of Earth rising over Moon's horizon taken from Apollo 11 spacecraft (as11-44-6552).jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "bentley-nieve",
+    "title": "Copo de nieve",
+    "artist": "Wilson Bentley",
+    "date": "c. 1900",
+    "source": {
+      "commons": "File:Bentley snowflake micrograph no. 777.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "clifford-martorell",
+    "title": "El Puente del Diablo, Martorell",
+    "artist": "Charles Clifford",
+    "date": "c. 1860",
+    "source": {
+      "commons": "File:Charles Clifford - Catalonia - Devil's Bridge, Martorell - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "clifford-sevilla",
+    "title": "Catedral, Torre del Oro y Guadalquivir",
+    "artist": "Charles Clifford",
+    "date": "c. 1862",
+    "source": {
+      "commons": "File:Charles Clifford (British - (Cathedral, Torre del Oro and Guadalquivir River, Seville) - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "clifford-avila",
+    "title": "Ábside de la catedral de Ávila",
+    "artist": "Charles Clifford",
+    "date": "c. 1860",
+    "source": {
+      "commons": "File:Catedral ábside Avila (Charles Clifford) - Gothenburg Museum of Art - Fo 36-2009.tif"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "clifford-montjuic",
+    "title": "Muralla del Mar y castillo de Montjuïc",
+    "artist": "Charles Clifford",
+    "date": "c. 1860",
+    "source": {
+      "commons": "File:Muralla del Mar y Castillo de Montjuïc, Barcelona (Charles Clifford) - Gothenburg Museum of Art - Fo 26-2009.tif"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "laurent-cadiz",
+    "title": "Cádiz desde la torre Tavira",
+    "artist": "J. Laurent",
+    "date": "c. 1870",
+    "source": {
+      "commons": "File:Cádiz desde la torre Tavira (Juan Laurent).jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "laurent-alhambra",
+    "title": "Los adarves y la torre de la Vela, Alhambra",
+    "artist": "J. Laurent",
+    "date": "c. 1871",
+    "source": {
+      "commons": "File:Granada. Vista de los adarves y de la torre de la Vela (Alhambra) - J. Laurent. Madrid. LCCN94512005.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.045,
+      0.09,
+      0.055,
+      0.115
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "beato-junco",
+    "title": "Junco japonés en un canal, Nagasaki",
+    "artist": "Felice Beato",
+    "date": "c. 1864",
+    "source": {
+      "commons": "File:Felice Beato (British, born Italy - (Japanese Junk in Canal, Nagasaki) - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "thomson-muralla",
+    "title": "La Gran Muralla china",
+    "artist": "John Thomson",
+    "date": "1871",
+    "source": {
+      "commons": "File:John Thomson - View of the Great Wall, China - 1996.248 - Cleveland Museum of Art.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.25 < 3.5 (opus 2, sonnet 2/3)"
+  },
+  {
+    "id": "thomson-perla",
+    "title": "El río de las Perlas",
+    "artist": "John Thomson",
+    "date": "1870",
+    "source": {
+      "commons": "File:Pearl River, China. Photograph by John Thomson, 1870. Wellcome L0056223.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.06,
+      0.13,
+      0.07,
+      0.1
+    ],
+    "note": "panel ciego: 1.50 < 3.5 (opus 1, sonnet 2/2)"
+  },
+  {
+    "id": "lesecq-mar",
+    "title": "Paisaje marino",
+    "artist": "Henri Le Secq",
+    "date": "c. 1852",
+    "source": {
+      "commons": "File:Le Secq, Henri - Meereslandschaft (Zeno Fotografie).jpg"
+    },
+    "status": "rejected",
+    "note": "revisión del propietario (noviembre 2026)"
+  },
+  {
+    "id": "sutcliffe-whitby",
+    "title": "Puerto de Whitby",
+    "artist": "Frank Meadow Sutcliffe",
+    "date": "c. 1880",
+    "source": {
+      "commons": "File:Frank Meadow Sutcliffe - Whitby Harbor - 1996.244 - Cleveland Museum of Art.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "bayard-molinos",
+    "title": "Molinos de Montmartre",
+    "artist": "Hippolyte Bayard",
+    "date": "1839",
+    "source": {
+      "commons": "File:Hippolyte Bayard, Windmills, Montmartre, 1839.jpg"
+    },
+    "status": "rejected",
+    "note": "puntuación 36 < 50"
+  },
+  {
+    "id": "marville-bagatelle",
+    "title": "Château de Bagatelle",
+    "artist": "Charles Marville",
+    "date": "c. 1860",
+    "source": {
+      "commons": "File:Charles Marville, Promenades de Paris - Château de Bagatelle, ca. 1853–70.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "marville-monceau",
+    "title": "Parque Monceau",
+    "artist": "Charles Marville",
+    "date": "c. 1860",
+    "source": {
+      "commons": "File:Charles Marville, Promenades de Paris - Parc Monceau, ca. 1853–70.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "kuhn-orilla",
+    "title": "En la orilla",
+    "artist": "Heinrich Kühn",
+    "date": "1911",
+    "source": {
+      "commons": "File:Heinrich Kühn On the Shore 1911.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.025,
+      0.03,
+      0.025,
+      0.07
+    ],
+    "note": "panel ciego: 1.50 < 3.5 (opus 1, sonnet 2/2)"
+  },
+  {
+    "id": "clifford-alhambra",
+    "title": "Patio de la Alhambra",
+    "artist": "Charles Clifford",
+    "date": "c. 1860",
+    "source": {
+      "commons": "File:Charles Clifford - Courtyard, Alhambra - 1999.113 - Cleveland Museum of Art.tif"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "beato-cementerio",
+    "title": "Cementerio del templo Shuntoji, Nagasaki",
+    "artist": "Felice Beato",
+    "date": "c. 1865",
+    "source": {
+      "commons": "File:Felice A. Beato - Japanese Temple Graveyard, Shuntoji, Nagasaki - 1974.51 - Cleveland Museum of Art.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "beato-rio-nagasaki",
+    "title": "Casas junto al río, Nagasaki",
+    "artist": "Felice Beato",
+    "date": "c. 1864",
+    "source": {
+      "commons": "File:KITLV - 89887 - Beato, Felice - River at Nagasaki in Japan with houses - presumably 1863-1865.tif"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "beato-barcos",
+    "title": "Barcos frente a la costa de Nagasaki",
+    "artist": "Felice Beato",
+    "date": "c. 1864",
+    "source": {
+      "commons": "File:KITLV - 89917 - Beato, Felice - Ships off the coast of Nagasaki in Japan - presumably 1863-1865.tif"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "marville-bois",
+    "title": "Bois de Boulogne",
+    "artist": "Charles Marville",
+    "date": "c. 1860",
+    "source": {
+      "commons": "File:Charles Marville, Bois de Boulogne, Paris, 1855-1870.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.25 < 3.5 (opus 3, sonnet 3/4)"
+  },
+  {
+    "id": "clifford-madrid",
+    "title": "Madrid y el Palacio Real",
+    "artist": "Charles Clifford",
+    "date": "c. 1856",
+    "source": {
+      "commons": "File:Gezicht op Madrid met links het Koninklijk Paleis, RP-F-F01215-AM.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.055,
+      0.075,
+      0.05,
+      0.135
+    ],
+    "note": "panel ciego: 2.00 < 3.5 (opus 2, sonnet 2/2)"
+  },
+  {
+    "id": "coburn-ipswich",
+    "title": "Puente de Ipswich, Massachusetts",
+    "artist": "Alvin Langdon Coburn",
+    "date": "c. 1910",
+    "source": {
+      "commons": "File:Gezicht op een brug te Ipswich, Massachusetts, RP-F-2001-7-1668-38.jpg"
+    },
+    "status": "rejected",
+    "note": "técnico: es una página de libro con la fotografía pequeña, imposible de recortar a 1448 px"
+  },
+  {
+    "id": "coburn-bosque",
+    "title": "Casa en el bosque",
+    "artist": "Alvin Langdon Coburn",
+    "date": "c. 1910",
+    "source": {
+      "commons": "File:Huis in een bos, RP-F-2001-7-1668-42.jpg"
+    },
+    "status": "rejected",
+    "note": "técnico: es una página de libro con la fotografía pequeña, imposible de recortar a 1448 px"
+  },
+  {
+    "id": "detroit-habana",
+    "title": "Puerto y muelle de Luz, La Habana",
+    "artist": "Detroit Publishing Co.",
+    "date": "c. 1900",
+    "source": {
+      "commons": "File:Harbor and Muelle Luz, Havana.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.02,
+      0.0,
+      0.02,
+      0.055
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "kuhn-paisaje",
+    "title": "Paisaje",
+    "artist": "Heinrich Kühn",
+    "date": "c. 1910",
+    "source": {
+      "commons": "File:Heinrich Kühn - Landschaft.JPG"
+    },
+    "status": "approved",
+    "trim": [
+      0.012,
+      0.012,
+      0.012,
+      0.065
+    ]
+  },
+  {
+    "id": "kuhn-innsbruck",
+    "title": "Vista de Innsbruck",
+    "artist": "Heinrich Kühn",
+    "date": "c. 1910",
+    "source": {
+      "commons": "File:Heinrich Kühn - Innsbrucker Ansicht.JPG"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "lunar-orbiter4",
+    "title": "Superficie lunar, Lunar Orbiter 4",
+    "artist": "NASA, Lunar Orbiter 4",
+    "date": "1967",
+    "source": {
+      "commons": "File:Lunar Orbiter 4 FRAME 4052 M p10.png"
+    },
+    "status": "rejected",
+    "note": "técnico: franjas del escáner, imagen inservible"
+  },
+  {
+    "id": "ducamp-baalbek",
+    "title": "Columnata del templo del Sol, Baalbek",
+    "artist": "Maxime Du Camp",
+    "date": "1850",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ph/original/DP131971.jpg"
+    },
+    "status": "rejected",
+    "note": "técnico: la copia está montada y la imagen útil mide menos de 1448 px de ancho"
+  },
+  {
+    "id": "ducamp-edfou",
+    "title": "El pueblo de Edfú",
+    "artist": "Maxime Du Camp",
+    "date": "1849-50",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ph/original/DP131908.jpg"
+    },
+    "status": "rejected",
+    "note": "técnico: la copia está montada y la imagen útil mide menos de 1448 px de ancho"
+  },
+  {
+    "id": "cuvelier-bodmer",
+    "title": "Junto al roble Bodmer, Fontainebleau",
+    "artist": "Eugène Cuvelier",
+    "date": "c. 1865",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ph/original/TR.307.1.2019_Cuvelier_102419.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "salzmann-belen",
+    "title": "Vista general de Belén",
+    "artist": "Auguste Salzmann",
+    "date": "1854",
+    "source": {
+      "url": "https://images.metmuseum.org/CRDImages/ph/original/DP131343.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.75 < 3.5 (opus 3, sonnet 2/3)"
+  },
+  {
+    "id": "greene-filae",
+    "title": "El quiosco de Trajano, Filé",
+    "artist": "John Beasley Greene",
+    "date": "1854",
+    "source": {
+      "commons": "File:John Beasly Greene (American, born France - The Kiosk of Trajan, Philae - Google Art Project.jpg"
+    },
+    "status": "approved"
+  },
+  {
+    "id": "greene-medinet",
+    "title": "Medinet Habu, desde la entrada del palacio",
+    "artist": "John Beasley Greene",
+    "date": "1854",
+    "source": {
+      "commons": "File:John Beasly Greene (American, born France - (Médinet Habou. Vue prise de l'entrée du Palais de Ramsès Méiamoun) - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 2.50 < 3.5 (opus 2, sonnet 3/3)"
+  },
+  {
+    "id": "greene-ramesseum",
+    "title": "El Rameseo, Tebas",
+    "artist": "John Beasley Greene",
+    "date": "1854",
+    "source": {
+      "commons": "File:John Beasly Greene (American, born France - (Ramesseum, Thebes) - Google Art Project.jpg"
+    },
+    "status": "rejected",
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
+  },
+  {
+    "id": "baldus-perrache",
+    "title": "Estación de Perrache, Lyon",
+    "artist": "Édouard Baldus",
+    "date": "c. 1860",
+    "source": {
+      "commons": "File:Lyon Gare de Perrache (titel op object), RP-F-1997-46.jpg"
+    },
+    "status": "rejected",
+    "trim": [
+      0.17,
+      0.352,
+      0.146,
+      0.229
+    ],
+    "note": "panel ciego: 3.00 < 3.5 (opus 3, sonnet 3/3)"
   }
 ]
